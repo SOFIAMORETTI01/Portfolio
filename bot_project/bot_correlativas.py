@@ -40,7 +40,7 @@ def normalizar(texto):
 
 @st.cache_data
 def cargar_datos():
-    df = pd.read_csv("Materias_BOT.csv", encoding="latin1", sep=";")
+    df = pd.read_csv("bot_project/Materias_BOT.csv", encoding="latin1", sep=";")
     for col in ["Carrera", "Materia", "Correlativas"]:
         if col in df.columns:
             df[col] = df[col].astype(str).apply(lambda x: unicodedata.normalize('NFD', x).encode('ascii', 'ignore').decode('utf-8').strip())
