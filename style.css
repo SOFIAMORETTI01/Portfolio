@@ -1,0 +1,42 @@
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #eaf4fb;
+    color: #1a1e2a;
+    margin: 0;
+}
+.hero {
+    background: #1e3a8a;
+    padding: 60px 20px;
+    text-align: center;
+    color: white;
+}
+.projects {
+    display: grid;
+    gap: 20px;
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+.card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+    padding: 25px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #f1f5fe;
+}
+footer a {
+    margin: 0 10px;
+    color: #1e3a8a;
+    text-decoration: none;
+}
