@@ -1,507 +1,507 @@
-Carrera;C√≥digo;Materia;Semanal;Correlativas
-Contador;241;An√°lisis Matem√°tico I;6;
-Contador;242;Econom√≠a;4;
-Contador;243;Sociolog√≠a;4;
-Contador;244;Metodolog√≠a de las Ciencias Sociales;4;
-Contador;245;√Ålgebra;4;
-Contador;246;Historia Econ√≥mica y Social General;4;
-Contador;247;Teor√≠a Contable;6;"An√°lisis Matem√°tico I|
+Carrera;CÛdigo;Materia;Semanal;Correlativas
+Contador;241;An·lisis Matem·tico I;6;
+Contador;242;EconomÌa;4;
+Contador;243;SociologÌa;4;
+Contador;244;MetodologÌa de las Ciencias Sociales;4;
+Contador;245;¡lgebra;4;
+Contador;246;Historia EconÛmica y Social General;4;
+Contador;247;TeorÌa Contable;6;"An·lisis Matem·tico I|
 Economia|
 Sociologia|
 Metodologia de las Ciencias Sociales|
 Algebra|
 Historia Economica y Social General"
-Contador;248;Estad√≠stica I;6;"An√°lisis Matem√°tico I|
+Contador;248;EstadÌstica I;6;"An·lisis Matem·tico I|
 Economia|
 Sociologia|
 Metodologia de las Ciencias Sociales|
 Algebra|
 Historia Economica y Social General"
-Contador;249;Historia Econ√≥mica y Social Argentina;4;"An√°lisis Matem√°tico I|
+Contador;249;Historia EconÛmica y Social Argentina;4;"An·lisis Matem·tico I|
 Economia|
 Sociologia|
 Metodologia de las Ciencias Sociales|
 Algebra|
 Historia Economica y Social General"
-Contador;250;Microeconom√≠a I;4;"An√°lisis Matem√°tico I|
+Contador;250;MicroeconomÌa I;4;"An·lisis Matem·tico I|
 Economia|
 Sociologia|
 Metodologia de las Ciencias Sociales|
 Algebra|
 Historia Economica y Social General"
-Contador;251;Instituciones de Derecho P√∫blico;4;"An√°lisis Matem√°tico I|
+Contador;251;Instituciones de Derecho P˙blico;4;"An·lisis Matem·tico I|
 Economia|
 Sociologia|
 Metodologia de las Ciencias Sociales|
 Algebra|
 Historia Economica y Social General"
-Contador;252;Administraci√≥n General;4;"An√°lisis Matem√°tico I|
+Contador;252;AdministraciÛn General;4;"An·lisis Matem·tico I|
 Economia|
 Sociologia|
 Metodologia de las Ciencias Sociales|
 Algebra|
 Historia Economica y Social General"
-Contador;273;Instituciones de Derecho Privado;4;Derecho Econ√≥mico
-Contador;274;Sistemas Administrativos;4;Administraci√≥n General
-Contador;275;Tecnolog√≠a de la Informaci√≥n;6;Sistemas Administrativos
-Contador;276;C√°lculo Financiero;4;Estad√≠stica I
-Contador;278;Macroeconom√≠a y Pol√≠tica Econ√≥mica;6;
-Contador;279;Administraci√≥n Financiera;6;C√°lculo Financiero
-Contador;351;Sistemas Contables;6;Teor√≠a Contable
-Contador;353;Sistemas de Costos;4;Teor√≠a Contable
-Contador;354;Derecho del Trabajo y la Seguridad Social;4;"Instituciones de Derecho P√∫blico|
+Contador;273;Instituciones de Derecho Privado;4;Derecho EconÛmico
+Contador;274;Sistemas Administrativos;4;AdministraciÛn General
+Contador;275;TecnologÌa de la InformaciÛn;6;Sistemas Administrativos
+Contador;276;C·lculo Financiero;4;EstadÌstica I
+Contador;278;MacroeconomÌa y PolÌtica EconÛmica;6;
+Contador;279;AdministraciÛn Financiera;6;C·lculo Financiero
+Contador;351;Sistemas Contables;6;TeorÌa Contable
+Contador;353;Sistemas de Costos;4;TeorÌa Contable
+Contador;354;Derecho del Trabajo y la Seguridad Social;4;"Instituciones de Derecho P˙blico|
 Derecho Economico"
-Contador;355;Auditor√≠a;6;"Gesti√≥n y Costos para Contadores|
+Contador;355;AuditorÌa;6;"GestiÛn y Costos para Contadores|
 Contabilidad Financiera"
-Contador;356;Teor√≠a y T√©cnica Impositiva I;6;"Instituciones de Derecho P√∫blico|
+Contador;356;TeorÌa y TÈcnica Impositiva I;6;"Instituciones de Derecho P˙blico|
 Contabilidad Financiera"
-Contador;357;Teor√≠a y T√©cnica Impositiva II;6;Teor√≠a y T√©cnica Impositiva I
-Contador;362;Gesti√≥n y Costos para Contadores;6;Sistemas de Costos
+Contador;357;TeorÌa y TÈcnica Impositiva II;6;TeorÌa y TÈcnica Impositiva I
+Contador;362;GestiÛn y Costos para Contadores;6;Sistemas de Costos
 Contador;1330;Contabilidad Social y Ambiental;2;Contabilidad Financiera
 Contador;1352;Contabilidad Financiera;6;"Sistemas Contables|
 Sistema de Costos"
-Contador;1359;Derecho Econ√≥mico;4;
-Contador;1360;Derecho Crediticio, Burs√°til e Insolvencia;4;"Instituciones de Derecho Privado|
+Contador;1359;Derecho EconÛmico;4;
+Contador;1360;Derecho Crediticio, Burs·til e Insolvencia;4;"Instituciones de Derecho Privado|
 Derecho del Trabajo y la Seguridad Social"
-Contador;1374;Contabilidad Gubernamental y Control de Gesti√≥n;4;"Macroeconom√≠a y Pol√≠tica Econ√≥mica|
+Contador;1374;Contabilidad Gubernamental y Control de GestiÛn;4;"MacroeconomÌa y PolÌtica EconÛmica|
 Contabilidad Financiera"
-Contador;1358;Taller de Actuaci√≥n Profesional Judicial;4;"Auditoria|
-Derecho Crediticio, Burs√°til e Insolvencia"
-Contador;1361;Taller de Pr√°ctica Profesional en Organizaciones;6;"Instituciones de Derecho Privado|
+Contador;1358;Taller de ActuaciÛn Profesional Judicial;4;"Auditoria|
+Derecho Crediticio, Burs·til e Insolvencia"
+Contador;1361;Taller de Pr·ctica Profesional en Organizaciones;6;"Instituciones de Derecho Privado|
 Administracion Financiera|
 Auditoria
 Contabilidad Social Ambiental"
 Contador;Optativa;Negocios Internacionales ;;
-Contador;Optativa;Gesti√≥n Estrat√©gica para la Transformaci√≥n Social ;;
+Contador;Optativa;GestiÛn EstratÈgica para la TransformaciÛn Social ;;
 Contador;Optativa;Oratoria ;;
-Contador;Optativa;Auditor√≠a de Sistemas de Informaci√≥n ;;
-Contador;Optativa;Auditor√≠as Especiales ;;
+Contador;Optativa;AuditorÌa de Sistemas de InformaciÛn ;;
+Contador;Optativa;AuditorÌas Especiales ;;
 Contador;Optativa;Marketing Digital ;;
-Contador;Optativa;Negociaci√≥n ;;
-Contador;Optativa;Derecho Procesal¬†-Recursos- ;;
-Contador;Optativa;Tributaci√≥n en el Sector Agropecuario ;;
-Contador;Optativa;Gesti√≥n de Pol√≠ticas P√∫blicas ;;
-Contador;Optativa;Administraci√≥n de Turismo ;;
-Contador;Optativa;Actuaci√≥n del Contador en Prevenci√≥n de Corrupci√≥n y Lavado de Activos ;;
-Contador;Optativa;M√©todos Cuantitativos ;;
-Contador;Optativa;Procedimiento Contencioso Administrativo y Fiscal ;;"Instituciones de Derecho P√∫blico|
+Contador;Optativa;NegociaciÛn ;;
+Contador;Optativa;Derecho Procesal†-Recursos- ;;
+Contador;Optativa;TributaciÛn en el Sector Agropecuario ;;
+Contador;Optativa;GestiÛn de PolÌticas P˙blicas ;;
+Contador;Optativa;AdministraciÛn de Turismo ;;
+Contador;Optativa;ActuaciÛn del Contador en PrevenciÛn de CorrupciÛn y Lavado de Activos ;;
+Contador;Optativa;MÈtodos Cuantitativos ;;
+Contador;Optativa;Procedimiento Contencioso Administrativo y Fiscal ;;"Instituciones de Derecho P˙blico|
 Teoria y Tecnica Impositiva II"
 Contador;Optativa;Seminario Avanzado de Costos ;;
-Contador;Optativa;Seminario √âtica de las Ocupaciones ;;
-Contador;Optativa;Conducci√≥n de Equipos de Trabajo ;;
+Contador;Optativa;Seminario …tica de las Ocupaciones ;;
+Contador;Optativa;ConducciÛn de Equipos de Trabajo ;;
 Contador;Optativa;Procedimientos Presupuestarios y Parlamentarios ;;
-Contador;Optativa;Gesti√≥n de Recursos Inform√°ticos ;;
-Contador;Electiva;Poder Econ√≥mico y Derechos Humanos;;
-Contador;Electiva;Administraci√≥n de la Salud;;Sistemas Administrativos
-Contador;Electiva;Gesti√≥n en la Econom√≠a Social;;Sistemas Administrativos
-Contador;Electiva;Finanzas P√∫blicas;;Gesti√≥n y Costos para Contadores
-Contador;Electiva;Seminario de Sindicatura Concursal;;Teor√≠a y T√©cnica Impositiva II
+Contador;Optativa;GestiÛn de Recursos Inform·ticos ;;
+Contador;Electiva;Poder EconÛmico y Derechos Humanos;;
+Contador;Electiva;AdministraciÛn de la Salud;;Sistemas Administrativos
+Contador;Electiva;GestiÛn en la EconomÌa Social;;Sistemas Administrativos
+Contador;Electiva;Finanzas P˙blicas;;GestiÛn y Costos para Contadores
+Contador;Electiva;Seminario de Sindicatura Concursal;;TeorÌa y TÈcnica Impositiva II
 Contador;Electiva;Planeamiento y Control Presupuestario;;Contabilidad Financiera
-Contador;Electiva;Derecho de Seguros;;C√°lculo Financiero
-Contador;Electiva;Administraci√≥n P√∫blica;;Gesti√≥n y Costos para Contadores
-Contador;Electiva;Econom√≠a y Delito;;"Macroeconom√≠a y Pol√≠tica Econ√≥mica|
+Contador;Electiva;Derecho de Seguros;;C·lculo Financiero
+Contador;Electiva;AdministraciÛn P˙blica;;GestiÛn y Costos para Contadores
+Contador;Electiva;EconomÌa y Delito;;"MacroeconomÌa y PolÌtica EconÛmica|
 Calculo Financiero"
-Contador;Electiva;Contabilidad Financiera Superior;;Administraci√≥n Financiera
-Licenciatura en Administracion de empresas;241;An√°lisis Matem√°tico I;6;
-Licenciatura en Administracion de empresas;242;Econom√≠a;4;
-Licenciatura en Administracion de empresas;254;Sociolog√≠a de las organizaciones;4;
+Contador;Electiva;Contabilidad Financiera Superior;;AdministraciÛn Financiera
+Licenciatura en Administracion de empresas;241;An·lisis Matem·tico I;6;
+Licenciatura en Administracion de empresas;242;EconomÌa;4;
+Licenciatura en Administracion de empresas;254;SociologÌa de las organizaciones;4;
 Licenciatura en Administracion de empresas;252;Administracion General;4;
-Licenciatura en Administracion de empresas;245;√Ålgebra;4;
-Licenciatura en Administracion de empresas;246;Historia Econ√≥mica y Social General;4;
-Licenciatura en Administracion de empresas;247;Teor√≠a Contable;6;"An√°lisis Matem√°tico I|
+Licenciatura en Administracion de empresas;245;¡lgebra;4;
+Licenciatura en Administracion de empresas;246;Historia EconÛmica y Social General;4;
+Licenciatura en Administracion de empresas;247;TeorÌa Contable;6;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Administracion de empresas;248;Estad√≠stica I;6;"An√°lisis Matem√°tico I|
+Licenciatura en Administracion de empresas;248;EstadÌstica I;6;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Administracion de empresas;274;Sistemas Administrativos;4;"An√°lisis Matem√°tico I|
+Licenciatura en Administracion de empresas;274;Sistemas Administrativos;4;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Administracion de empresas;250;Microeconom√≠a I;4;"An√°lisis Matem√°tico I|
+Licenciatura en Administracion de empresas;250;MicroeconomÌa I;4;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Administracion de empresas;276;Calculo Financiero;4;"An√°lisis Matem√°tico I|
+Licenciatura en Administracion de empresas;276;Calculo Financiero;4;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Administracion de empresas;278;Macroeconom√≠a y Pol√≠tica Econ√≥mica;;Microeconom√≠a I
-Licenciatura en Administracion de empresas;279;Administraci√≥n Financiera;;Calculo Financiero
-Licenciatura en Administracion de empresas;462;Derecho Empresarial;;"An√°lisis Matem√°tico I|
+Licenciatura en Administracion de empresas;278;MacroeconomÌa y PolÌtica EconÛmica;;MicroeconomÌa I
+Licenciatura en Administracion de empresas;279;AdministraciÛn Financiera;;Calculo Financiero
+Licenciatura en Administracion de empresas;462;Derecho Empresarial;;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Administracion de empresas;463;Gesti√≥n de Tecnolog√≠as Digitales;;"An√°lisis Matem√°tico I|
+Licenciatura en Administracion de empresas;463;GestiÛn de TecnologÌas Digitales;;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Administracion de empresas;464;Gesti√≥n de Costos;;Teor√≠a Contable
-Licenciatura en Administracion de empresas;465;M√©todos Predictivos para la Gesti√≥n;;Estad√≠stica I
-Licenciatura en Administracion de empresas;466;Administraci√≥n de Operaciones;;Sistemas Administrativos
-Licenciatura en Administracion de empresas;467;Gesti√≥n del Talento;;"An√°lisis Matem√°tico I|
+Licenciatura en Administracion de empresas;464;GestiÛn de Costos;;TeorÌa Contable
+Licenciatura en Administracion de empresas;465;MÈtodos Predictivos para la GestiÛn;;EstadÌstica I
+Licenciatura en Administracion de empresas;466;AdministraciÛn de Operaciones;;Sistemas Administrativos
+Licenciatura en Administracion de empresas;467;GestiÛn del Talento;;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Administracion de empresas;468;Administraci√≥n Tributaria;;Macroeconom√≠a y Pol√≠tica Econ√≥mica
-Licenciatura en Administracion de empresas;469;Marketing;;Administraci√≥n de Operaciones
-Licenciatura en Administracion de empresas;470;Ciencias de la Decisi√≥n;;M√©todos Predictivos para la Gesti√≥n
-Licenciatura en Administracion de empresas;471;Planeamiento Estrat√©gico;;Administraci√≥n Financiera
-Licenciatura en Administracion de empresas;472;Direcci√≥n;;"Gesti√≥n del Talento|
+Licenciatura en Administracion de empresas;468;AdministraciÛn Tributaria;;MacroeconomÌa y PolÌtica EconÛmica
+Licenciatura en Administracion de empresas;469;Marketing;;AdministraciÛn de Operaciones
+Licenciatura en Administracion de empresas;470;Ciencias de la DecisiÛn;;MÈtodos Predictivos para la GestiÛn
+Licenciatura en Administracion de empresas;471;Planeamiento EstratÈgico;;AdministraciÛn Financiera
+Licenciatura en Administracion de empresas;472;DirecciÛn;;"GestiÛn del Talento|
 Ciencias de la Decision"
 Licenciatura en Administracion de empresas;473;Practica Profesional;;23 asignaturas regularizadas
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: Gesti√≥n de la Comunicaci√≥n Pol√≠tica e Institucional;;Macroeconom√≠a y Pol√≠tica Econ√≥mica
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: Historia Econ√≥mica ¬ñ Institucional Argentina;;Macroeconom√≠a y Pol√≠tica Econ√≥mica
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: Gesti√≥n de Pol√≠ticas P√∫blicas¬†;;
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: Poder Econ√≥mico y Derechos Humanos ;;
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: Administraci√≥n P√∫blica;;Macroeconom√≠a y Pol√≠tica Econ√≥mica
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: Contabilidad Gubernamental y Control de Gesti√≥n ;;
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: Econom√≠a y Delito;;Macroeconom√≠a y Pol√≠tica Econ√≥mica
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n EMPRESAS Y EMPRENDEDORES: Creatividad;;Administraci√≥n Financiera
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n EMPRESAS Y EMPRENDEDORES: Log√≠stica;;Administraci√≥n Financiera
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n EMPRESAS Y EMPRENDEDORES: Gesti√≥n PyME;;Administraci√≥n Financiera
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n EMPRESAS Y EMPRENDEDORES: Negocios Internacionales;;Administraci√≥n Financiera
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n EMPRESAS Y EMPRENDEDORES: Din√°mica Estrat√©gica Empresarial ;;
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n EMPRESAS Y EMPRENDEDORES: Emprendedor 21¬†;;
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n EMPRESAS Y EMPRENDEDORES: Teor√≠a de la Demanda;;Administraci√≥n Financiera
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: Administraci√≥n del Deporte;;Administraci√≥n de Operaciones
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: Administraci√≥n de la Educaci√≥n;;Administraci√≥n de Operaciones
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: Gesti√≥n Estrat√©gica para la Transformaci√≥n Social;;Administraci√≥n de Operaciones
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: Perspectivas Globales para Sectores Estrat√©gicos ;;
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: Administraci√≥n¬†del Turismo¬†;;
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: Administraci√≥n de la Salud;;Administraci√≥n de Operaciones
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: Gesti√≥n en la Econom√≠a Social ;;
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: Administraci√≥n de la Cultura ;;
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n COMPETENCIAS DE GESTION: Comunicaci√≥n;;Gesti√≥n del Talento
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n COMPETENCIAS DE GESTION: Oratoria;;Gesti√≥n del Talento
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n COMPETENCIAS DE GESTION: Estrategia ;;
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n COMPETENCIAS DE GESTION: Liderazgo Organizacional ;;
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n COMPETENCIAS DE GESTION: Negociaci√≥n;;Gesti√≥n del Talento
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n COMPETENCIAS DE GESTION: Calidad y Productividad¬†;;
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n COMPETENCIAS DE GESTION: Seminario √âtica de las Ocupaciones ;;
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n COMPETENCIAS DE GESTION: Conducci√≥n de Equipos de Trabajo;;Gesti√≥n del Talento
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n COMPETENCIAS DE GESTION: Psicolog√≠a Organizacional ;;
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n COMPETENCIAS DIGITALES: Fintech, Pagos Digitales y Criptoactivos;;M√©todos Predictivos para la Gesti√≥n
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n COMPETENCIAS DIGITALES: Anal√≠tica de Datos ;;
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n COMPETENCIAS DIGITALES: Auditor√≠a de Sistemas de Informaci√≥n ;;
-Licenciatura en Administracion de empresas;Optativa;Orientaci√≥n COMPETENCIAS DIGITALES: Marketing Digital ;;
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n COMPETENCIAS DIGITALES: E Commerce;;M√©todos Predictivos para la Gesti√≥n
-Licenciatura en Administracion de empresas;Electiva;Orientaci√≥n COMPETENCIAS DIGITALES: Gesti√≥n de la Inteligencia Artificial;;M√©todos Predictivos para la Gesti√≥n
-Licenciatura en Economia;241;An√°lisis Matem√°tico I;;
-Licenciatura en Economia;242;Econom√≠a;;
-Licenciatura en Economia;245;√Ålgebra;;
-Licenciatura en Economia;246;Historia Econ√≥mica y Social General;;
-Licenciatura en Economia;255;An√°lisis Contable;;
-Licenciatura en Economia;256;Instituciones de Gobierno y Econom√≠a Pol√≠tica;;
-Licenciatura en Economia;262;Macroeconom√≠a I;;"An√°lisis Matem√°tico I|
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: GestiÛn de la ComunicaciÛn PolÌtica e Institucional;;MacroeconomÌa y PolÌtica EconÛmica
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: Historia EconÛmica ñ Institucional Argentina;;MacroeconomÌa y PolÌtica EconÛmica
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: GestiÛn de PolÌticas P˙blicas†;;
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: Poder EconÛmico y Derechos Humanos ;;
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: AdministraciÛn P˙blica;;MacroeconomÌa y PolÌtica EconÛmica
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: Contabilidad Gubernamental y Control de GestiÛn ;;
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn GESTION PUBLICA E INSTITUCIONES DEMOCRATICAS: EconomÌa y Delito;;MacroeconomÌa y PolÌtica EconÛmica
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn EMPRESAS Y EMPRENDEDORES: Creatividad;;AdministraciÛn Financiera
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn EMPRESAS Y EMPRENDEDORES: LogÌstica;;AdministraciÛn Financiera
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn EMPRESAS Y EMPRENDEDORES: GestiÛn PyME;;AdministraciÛn Financiera
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn EMPRESAS Y EMPRENDEDORES: Negocios Internacionales;;AdministraciÛn Financiera
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn EMPRESAS Y EMPRENDEDORES: Din·mica EstratÈgica Empresarial ;;
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn EMPRESAS Y EMPRENDEDORES: Emprendedor 21†;;
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn EMPRESAS Y EMPRENDEDORES: TeorÌa de la Demanda;;AdministraciÛn Financiera
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: AdministraciÛn del Deporte;;AdministraciÛn de Operaciones
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: AdministraciÛn de la EducaciÛn;;AdministraciÛn de Operaciones
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: GestiÛn EstratÈgica para la TransformaciÛn Social;;AdministraciÛn de Operaciones
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: Perspectivas Globales para Sectores EstratÈgicos ;;
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: AdministraciÛn†del Turismo†;;
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: AdministraciÛn de la Salud;;AdministraciÛn de Operaciones
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: GestiÛn en la EconomÌa Social ;;
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn SECTORES ESTRATEGICOS Y DESARROLLO SOSTENIBLE: AdministraciÛn de la Cultura ;;
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn COMPETENCIAS DE GESTION: ComunicaciÛn;;GestiÛn del Talento
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn COMPETENCIAS DE GESTION: Oratoria;;GestiÛn del Talento
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn COMPETENCIAS DE GESTION: Estrategia ;;
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn COMPETENCIAS DE GESTION: Liderazgo Organizacional ;;
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn COMPETENCIAS DE GESTION: NegociaciÛn;;GestiÛn del Talento
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn COMPETENCIAS DE GESTION: Calidad y Productividad†;;
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn COMPETENCIAS DE GESTION: Seminario …tica de las Ocupaciones ;;
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn COMPETENCIAS DE GESTION: ConducciÛn de Equipos de Trabajo;;GestiÛn del Talento
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn COMPETENCIAS DE GESTION: PsicologÌa Organizacional ;;
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn COMPETENCIAS DIGITALES: Fintech, Pagos Digitales y Criptoactivos;;MÈtodos Predictivos para la GestiÛn
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn COMPETENCIAS DIGITALES: AnalÌtica de Datos ;;
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn COMPETENCIAS DIGITALES: AuditorÌa de Sistemas de InformaciÛn ;;
+Licenciatura en Administracion de empresas;Optativa;OrientaciÛn COMPETENCIAS DIGITALES: Marketing Digital ;;
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn COMPETENCIAS DIGITALES: E Commerce;;MÈtodos Predictivos para la GestiÛn
+Licenciatura en Administracion de empresas;Electiva;OrientaciÛn COMPETENCIAS DIGITALES: GestiÛn de la Inteligencia Artificial;;MÈtodos Predictivos para la GestiÛn
+Licenciatura en Economia;241;An·lisis Matem·tico I;;
+Licenciatura en Economia;242;EconomÌa;;
+Licenciatura en Economia;245;¡lgebra;;
+Licenciatura en Economia;246;Historia EconÛmica y Social General;;
+Licenciatura en Economia;255;An·lisis Contable;;
+Licenciatura en Economia;256;Instituciones de Gobierno y EconomÌa PolÌtica;;
+Licenciatura en Economia;262;MacroeconomÌa I;;"An·lisis Matem·tico I|
 Economia|
 Algebra|
 Historia Economica y Social General|
 Analisis Contable|
 Instituciones del Gobierno y Economia Politica"
-Licenciatura en Economia;283;Macroeconom√≠a II;;"Macroeconom√≠a I|
+Licenciatura en Economia;283;MacroeconomÌa II;;"MacroeconomÌa I|
 Matematica Aplicada II"
-Licenciatura en Economia;286;Microeconom√≠a II;;"Microeconomia para economistas|
+Licenciatura en Economia;286;MicroeconomÌa II;;"Microeconomia para economistas|
 Matematica Aplicada II"
-Licenciatura en Economia;291;Microeconom√≠a para Economistas;;Matematica Aplicada I
-Licenciatura en Economia;540;An√°lisis Estad√≠stico I;;"An√°lisis Matem√°tico I|
+Licenciatura en Economia;291;MicroeconomÌa para Economistas;;Matematica Aplicada I
+Licenciatura en Economia;540;An·lisis EstadÌstico I;;"An·lisis Matem·tico I|
 Economia|
 Algebra|
 Historia Economica y Social General|
 Analisis Contable|
 Instituciones del Gobierno y Economia Politica"
-Licenciatura en Economia;541;Hist√≥ria de la Econom√≠a y las Pol√≠ticas Econ√≥micas en Argentina;;"An√°lisis Matem√°tico I|
+Licenciatura en Economia;541;HistÛria de la EconomÌa y las PolÌticas EconÛmicas en Argentina;;"An·lisis Matem·tico I|
 Economia|
 Algebra|
 Historia Economica y Social General|
 Analisis Contable|
 Instituciones del Gobierno y Economia Politica"
-Licenciatura en Economia;542;Matem√°tica Aplicada I;;"An√°lisis Matem√°tico I|
+Licenciatura en Economia;542;Matem·tica Aplicada I;;"An·lisis Matem·tico I|
 Economia|
 Algebra|
 Historia Economica y Social General|
 Analisis Contable|
 Instituciones del Gobierno y Economia Politica"
-Licenciatura en Economia;543;Econometr√≠a I;;"Analisis Estadistico I|
-Matem√°tica Aplicada II"
-Licenciatura en Economia;544;Matem√°tica Aplicada II;;Matem√°tica Aplicada I
-Licenciatura en Economia;545;Epistemolog√≠a e Historia del Pensamiento Econ√≥mico;;"Macroeconom√≠a I|
-Microeconom√≠a para Economistas"
-Licenciatura en Economia;546;Econometr√≠a II;;Econometr√≠a I
-Licenciatura en Economia;547;Estructura y Pol√≠ticas Econ√≥micas y Sociales en Argentina;;"Macroeconom√≠a I|
-Hist√≥ria de la Econom√≠a y las Pol√≠ticas Econ√≥micas en Argentina"
-Licenciatura en Economia;548;Dinero y Bancos;;"An√°lisis Contable|
-Macroeconom√≠a II|
-Econometr√≠a II|
-Econom√≠a Financiera
+Licenciatura en Economia;543;EconometrÌa I;;"Analisis Estadistico I|
+Matem·tica Aplicada II"
+Licenciatura en Economia;544;Matem·tica Aplicada II;;Matem·tica Aplicada I
+Licenciatura en Economia;545;EpistemologÌa e Historia del Pensamiento EconÛmico;;"MacroeconomÌa I|
+MicroeconomÌa para Economistas"
+Licenciatura en Economia;546;EconometrÌa II;;EconometrÌa I
+Licenciatura en Economia;547;Estructura y PolÌticas EconÛmicas y Sociales en Argentina;;"MacroeconomÌa I|
+HistÛria de la EconomÌa y las PolÌticas EconÛmicas en Argentina"
+Licenciatura en Economia;548;Dinero y Bancos;;"An·lisis Contable|
+MacroeconomÌa II|
+EconometrÌa II|
+EconomÌa Financiera
 "
-Licenciatura en Economia;549;Econom√≠a Financiera;;"Microeconom√≠a para Economistas|
-Macroeconom√≠a I"
-Licenciatura en Economia;554;Crecimiento Econ√≥mico;;"Macroeconom√≠a II|
-Microeconom√≠a para Economistas|
-Matem√°tica Aplicada II
+Licenciatura en Economia;549;EconomÌa Financiera;;"MicroeconomÌa para Economistas|
+MacroeconomÌa I"
+Licenciatura en Economia;554;Crecimiento EconÛmico;;"MacroeconomÌa II|
+MicroeconomÌa para Economistas|
+Matem·tica Aplicada II
 "
-Licenciatura en Economia;555;Organizaci√≥n Industrial;;Microeconom√≠a II
-Licenciatura en Economia;556;Finanzas P√∫blicas;;Microeconom√≠a para Economistas
-Licenciatura en Economia;558;Econom√≠a Internacional;;"Microeconom√≠a II|
-Macroeconom√≠a I"
-Licenciatura en Economia;559;Desarrollo Econ√≥mico;;"Microeconom√≠a II|
-Econometr√≠a I|
-Microeconom√≠a para Economistas"
-Licenciatura en Economia;Optativa;Orientaci√≥n Empresarial: Ciencias de Datos para Econom√≠a y Negocios ;;"Matem√°tica Aplicada II|
-Analisis Estad√≠stico I"
-Licenciatura en Economia;Optativa;Orientaci√≥n Empresarial: Econom√≠a y Derecho Corporativo ;;Microeconom√≠a para Economistas
-Licenciatura en Economia;Optativa;Orientaci√≥n Empresarial: Finanzas Corporativas ;;Econom√≠a Financiera
-Licenciatura en Economia;Optativa;Orientaci√≥n Empresarial: T√≥picos de Econom√≠a Digital ;;"Microeconom√≠a para Economistas|
+Licenciatura en Economia;555;OrganizaciÛn Industrial;;MicroeconomÌa II
+Licenciatura en Economia;556;Finanzas P˙blicas;;MicroeconomÌa para Economistas
+Licenciatura en Economia;558;EconomÌa Internacional;;"MicroeconomÌa II|
+MacroeconomÌa I"
+Licenciatura en Economia;559;Desarrollo EconÛmico;;"MicroeconomÌa II|
+EconometrÌa I|
+MicroeconomÌa para Economistas"
+Licenciatura en Economia;Optativa;OrientaciÛn Empresarial: Ciencias de Datos para EconomÌa y Negocios ;;"Matem·tica Aplicada II|
+Analisis EstadÌstico I"
+Licenciatura en Economia;Optativa;OrientaciÛn Empresarial: EconomÌa y Derecho Corporativo ;;MicroeconomÌa para Economistas
+Licenciatura en Economia;Optativa;OrientaciÛn Empresarial: Finanzas Corporativas ;;EconomÌa Financiera
+Licenciatura en Economia;Optativa;OrientaciÛn Empresarial: TÛpicos de EconomÌa Digital ;;"MicroeconomÌa para Economistas|
 Macroeconomia I"
-Licenciatura en Economia;Optativa;Orientaci√≥n Empresarial: Big Data y Machine Learning ;;
-Licenciatura en Economia;Electiva;Orientaci√≥n Empresarial: Econom√≠a y Procesamiento de Datos No Tradicionales;;"Matem√°tica Aplicada II|
-Analisis Estad√≠stico I"
-Licenciatura en Economia;Electiva;Orientaci√≥n Empresarial: Econom√≠a de la Energ√≠a;;Microeconom√≠a para Economistas
-Licenciatura en Economia;Optativa;Orientaci√≥n Empresarial: Evaluaci√≥n de Proyectos ;;Microeconom√≠a para Economistas
-Licenciatura en Economia;Electiva;Orientaci√≥n Empresarial: Econom√≠a Agropecuaria;;Microeconom√≠a para Economistas
-Licenciatura en Economia;Electiva;Orientaci√≥n Empresarial: Econom√≠a y G√©nero;;Desarrollo Econ√≥mico
-Licenciatura en Economia;Electiva;Orientaci√≥n Empresarial: Evaluaci√≥n de Impacto;;Econometr√≠a I
-Licenciatura en Economia;Electiva;Orientaci√≥n Empresarial: Econom√≠a del Comportamiento;;Microeconom√≠a II
-Licenciatura en Economia;Electiva;Orientaci√≥n Empresarial: Administraci√≥n Tributaria para Econom√≠stas (Exclusiva Empresarial);;Finanzas P√∫blicas
-Licenciatura en Economia;Optativa;Orientaci√≥n Gobierno: Econom√≠a de la Innovaci√≥n ;;
-Licenciatura en Economia;Electiva;Orientaci√≥n Gobierno: Econom√≠a y Procesamiento de Datos No Tradicionales;;"Matem√°tica Aplicada II|
-Analisis Estad√≠stico I"
-Licenciatura en Economia;Optativa;Orientaci√≥n Gobierno: T√≥picos de Microeconom√≠a ;;Microeconom√≠a II
-Licenciatura en Economia;Electiva;Orientaci√≥n Gobierno: Econom√≠a de la Energ√≠a;;Microeconom√≠a para Economistas
-Licenciatura en Economia;Optativa;Orientaci√≥n Gobierno: Evaluaci√≥n de Proyectos ;;Microeconom√≠a para Economistas
-Licenciatura en Economia;Optativa;Orientaci√≥n Gobierno: Gesti√≥n en la Econom√≠a Social¬†;;Desarrollo Econ√≥mico
-Licenciatura en Economia;Electiva;Orientaci√≥n Gobierno: Econom√≠a Ambiental;;Microeconom√≠a para Economistas
-Licenciatura en Economia;Optativa;Orientaci√≥n Gobierno: T√≥picos de Macroeconom√≠a ;;Dinero y Bancos
-Licenciatura en Economia;Electiva;Orientaci√≥n Gobierno: Econom√≠a Agropecuaria;;Microeconom√≠a para Economistas
-Licenciatura en Economia;Electiva;Orientaci√≥n Gobierno: Econom√≠a Laboral;;"Microeconom√≠a para Economistas|
+Licenciatura en Economia;Optativa;OrientaciÛn Empresarial: Big Data y Machine Learning ;;
+Licenciatura en Economia;Electiva;OrientaciÛn Empresarial: EconomÌa y Procesamiento de Datos No Tradicionales;;"Matem·tica Aplicada II|
+Analisis EstadÌstico I"
+Licenciatura en Economia;Electiva;OrientaciÛn Empresarial: EconomÌa de la EnergÌa;;MicroeconomÌa para Economistas
+Licenciatura en Economia;Optativa;OrientaciÛn Empresarial: EvaluaciÛn de Proyectos ;;MicroeconomÌa para Economistas
+Licenciatura en Economia;Electiva;OrientaciÛn Empresarial: EconomÌa Agropecuaria;;MicroeconomÌa para Economistas
+Licenciatura en Economia;Electiva;OrientaciÛn Empresarial: EconomÌa y GÈnero;;Desarrollo EconÛmico
+Licenciatura en Economia;Electiva;OrientaciÛn Empresarial: EvaluaciÛn de Impacto;;EconometrÌa I
+Licenciatura en Economia;Electiva;OrientaciÛn Empresarial: EconomÌa del Comportamiento;;MicroeconomÌa II
+Licenciatura en Economia;Electiva;OrientaciÛn Empresarial: AdministraciÛn Tributaria para EconomÌstas (Exclusiva Empresarial);;Finanzas P˙blicas
+Licenciatura en Economia;Optativa;OrientaciÛn Gobierno: EconomÌa de la InnovaciÛn ;;
+Licenciatura en Economia;Electiva;OrientaciÛn Gobierno: EconomÌa y Procesamiento de Datos No Tradicionales;;"Matem·tica Aplicada II|
+Analisis EstadÌstico I"
+Licenciatura en Economia;Optativa;OrientaciÛn Gobierno: TÛpicos de MicroeconomÌa ;;MicroeconomÌa II
+Licenciatura en Economia;Electiva;OrientaciÛn Gobierno: EconomÌa de la EnergÌa;;MicroeconomÌa para Economistas
+Licenciatura en Economia;Optativa;OrientaciÛn Gobierno: EvaluaciÛn de Proyectos ;;MicroeconomÌa para Economistas
+Licenciatura en Economia;Optativa;OrientaciÛn Gobierno: GestiÛn en la EconomÌa Social†;;Desarrollo EconÛmico
+Licenciatura en Economia;Electiva;OrientaciÛn Gobierno: EconomÌa Ambiental;;MicroeconomÌa para Economistas
+Licenciatura en Economia;Optativa;OrientaciÛn Gobierno: TÛpicos de MacroeconomÌa ;;Dinero y Bancos
+Licenciatura en Economia;Electiva;OrientaciÛn Gobierno: EconomÌa Agropecuaria;;MicroeconomÌa para Economistas
+Licenciatura en Economia;Electiva;OrientaciÛn Gobierno: EconomÌa Laboral;;"MicroeconomÌa para Economistas|
 Macroeconomia I|
-Econometr√≠a I"
-Licenciatura en Economia;Electiva;Orientaci√≥n Gobierno: Econom√≠a Regional y Urbana;;Microeconom√≠a para Economistas
-Licenciatura en Economia;Electiva;Orientaci√≥n Gobierno: Econom√≠a y G√©nero;;Desarrollo Econ√≥mico
-Licenciatura en Economia;Electiva;Orientaci√≥n Gobierno: Evaluaci√≥n de Impacto;;Econometr√≠a I
-Licenciatura en Economia;Electiva;Orientaci√≥n Gobierno: Modelos Econ√≥micos de Simulaci√≥n (Exclusiva Gobierno y Pol√≠ticas P√∫blicas);;"Microeconom√≠a para Economistas|
-Microeconom√≠a II"
-Licenciatura en Economia;Electiva;Orientaci√≥n Gobierno: Cuentas Nacionales e Indicadores Econ√≥micos (Exclusiva Gobierno y Pol√≠ticas P√∫blicas);;"Microeconom√≠a para Economistas|
-Analisis Estad√≠stico I"
-Licenciatura en Economia;Electiva;Orientaci√≥n Gobierno: Econom√≠a del Comportamiento;;Microeconom√≠a II
-Licenciatura en Economia;Electiva;Orientaci√≥n Gobierno: Econom√≠a de la Protecci√≥n Social (Exclusiva Gobierno y Pol√≠ticas P√∫blicas);;"Microeconom√≠a II|
-Finanzas P√∫blicas"
-Licenciatura en Economia;Optativa;Orientaci√≥n Analisis e Investigacion: Econom√≠a Austr√≠aca ;;Epistemolog√≠a e Historia del Pensamiento Econ√≥mico
-Licenciatura en Economia;Optativa;Orientaci√≥n Analisis e Investigacion: Econom√≠a Sraffiana ;;Epistemolog√≠a e Historia del Pensamiento Econ√≥mico
-Licenciatura en Economia;Optativa;Orientaci√≥n Analisis e Investigacion: T√≥picos de Historia del Pensamiento Econ√≥mico y Epistemolog√≠a de la Econom√≠a ;;Epistemolog√≠a e Historia del Pensamiento Econ√≥mico
-Licenciatura en Economia;Electiva;Orientaci√≥n Analisis e Investigacion: Econom√≠a y Procesamiento de Datos No Tradicionales;;"Matem√°tica Aplicada II|
-Analisis Estad√≠stico I"
-Licenciatura en Economia;Optativa;Orientaci√≥n Analisis e Investigacion: T√≥picos de Microeconom√≠a ;;Microeconom√≠a II
-Licenciatura en Economia;Optativa;Orientaci√≥n Analisis e Investigacion: Poder Econ√≥mico y Derechos Humanos ;;"Estructura y Pol√≠ticas Econ√≥micas y Sociales en Argentina|
-Desarrollo Econ√≥mico"
-Licenciatura en Economia;Electiva;Orientaci√≥n Analisis e Investigacion: Sistemas Econ√≥micos Comparados (Exclusiva An√°lisis e Investigaci√≥n Econ√≥mica);;"Macroeconom√≠a I|
-Finanzas P√∫blicas"
-Licenciatura en Economia;Optativa;Orientaci√≥n Analisis e Investigacion: Elementos de Topolog√≠a para Econom√≠a y Gesti√≥n ;;"Matem√°tica Aplicada II|
-Microeconom√≠a para economistas"
-Licenciatura en Economia;Electiva;Orientaci√≥n Analisis e Investigacion: Econom√≠a Ambiental;;Microeconom√≠a para Economistas
-Licenciatura en Economia;Optativa;Orientaci√≥n Analisis e Investigacion: Econom√≠a Marxista ;;Epistemolog√≠a e Historia del Pensamiento Econ√≥mico
-Licenciatura en Economia;Optativa;Orientaci√≥n Analisis e Investigacion: T√≥picos de Macroeconom√≠a ;;Dinero y Bancos
-Licenciatura en Economia;Electiva;Orientaci√≥n Analisis e Investigacion: Econom√≠a Laboral;;"Microeconom√≠a para Economistas|
-Econometr√≠a I|
-Macroeconom√≠a I"
-Licenciatura en Economia;Electiva;Orientaci√≥n Analisis e Investigacion: Econom√≠a Regional y Urbana;;Microeconom√≠a para Economistas
-Licenciatura en Economia;1562;Orientaci√≥n Analisis e Investigacion: Seminario de Integraci√≥n (Exclusiva);;"Microeconom√≠a II|
-Macroeconom√≠a II|
-Econometr√≠a II"
-Licenciatura en Economia;Electiva;Orientaci√≥n Analisis e Investigacion: Econom√≠a del Comportamiento;;Microeconom√≠a II
-Licenciatura en Sistemas;241;An√°lisis Matem√°tico I;6;
-Licenciatura en Sistemas;242;Econom√≠a;4;
-Licenciatura en Sistemas;254;Sociolog√≠a de las organizaciones;4;
+EconometrÌa I"
+Licenciatura en Economia;Electiva;OrientaciÛn Gobierno: EconomÌa Regional y Urbana;;MicroeconomÌa para Economistas
+Licenciatura en Economia;Electiva;OrientaciÛn Gobierno: EconomÌa y GÈnero;;Desarrollo EconÛmico
+Licenciatura en Economia;Electiva;OrientaciÛn Gobierno: EvaluaciÛn de Impacto;;EconometrÌa I
+Licenciatura en Economia;Electiva;OrientaciÛn Gobierno: Modelos EconÛmicos de SimulaciÛn (Exclusiva Gobierno y PolÌticas P˙blicas);;"MicroeconomÌa para Economistas|
+MicroeconomÌa II"
+Licenciatura en Economia;Electiva;OrientaciÛn Gobierno: Cuentas Nacionales e Indicadores EconÛmicos (Exclusiva Gobierno y PolÌticas P˙blicas);;"MicroeconomÌa para Economistas|
+Analisis EstadÌstico I"
+Licenciatura en Economia;Electiva;OrientaciÛn Gobierno: EconomÌa del Comportamiento;;MicroeconomÌa II
+Licenciatura en Economia;Electiva;OrientaciÛn Gobierno: EconomÌa de la ProtecciÛn Social (Exclusiva Gobierno y PolÌticas P˙blicas);;"MicroeconomÌa II|
+Finanzas P˙blicas"
+Licenciatura en Economia;Optativa;OrientaciÛn Analisis e Investigacion: EconomÌa AustrÌaca ;;EpistemologÌa e Historia del Pensamiento EconÛmico
+Licenciatura en Economia;Optativa;OrientaciÛn Analisis e Investigacion: EconomÌa Sraffiana ;;EpistemologÌa e Historia del Pensamiento EconÛmico
+Licenciatura en Economia;Optativa;OrientaciÛn Analisis e Investigacion: TÛpicos de Historia del Pensamiento EconÛmico y EpistemologÌa de la EconomÌa ;;EpistemologÌa e Historia del Pensamiento EconÛmico
+Licenciatura en Economia;Electiva;OrientaciÛn Analisis e Investigacion: EconomÌa y Procesamiento de Datos No Tradicionales;;"Matem·tica Aplicada II|
+Analisis EstadÌstico I"
+Licenciatura en Economia;Optativa;OrientaciÛn Analisis e Investigacion: TÛpicos de MicroeconomÌa ;;MicroeconomÌa II
+Licenciatura en Economia;Optativa;OrientaciÛn Analisis e Investigacion: Poder EconÛmico y Derechos Humanos ;;"Estructura y PolÌticas EconÛmicas y Sociales en Argentina|
+Desarrollo EconÛmico"
+Licenciatura en Economia;Electiva;OrientaciÛn Analisis e Investigacion: Sistemas EconÛmicos Comparados (Exclusiva An·lisis e InvestigaciÛn EconÛmica);;"MacroeconomÌa I|
+Finanzas P˙blicas"
+Licenciatura en Economia;Optativa;OrientaciÛn Analisis e Investigacion: Elementos de TopologÌa para EconomÌa y GestiÛn ;;"Matem·tica Aplicada II|
+MicroeconomÌa para economistas"
+Licenciatura en Economia;Electiva;OrientaciÛn Analisis e Investigacion: EconomÌa Ambiental;;MicroeconomÌa para Economistas
+Licenciatura en Economia;Optativa;OrientaciÛn Analisis e Investigacion: EconomÌa Marxista ;;EpistemologÌa e Historia del Pensamiento EconÛmico
+Licenciatura en Economia;Optativa;OrientaciÛn Analisis e Investigacion: TÛpicos de MacroeconomÌa ;;Dinero y Bancos
+Licenciatura en Economia;Electiva;OrientaciÛn Analisis e Investigacion: EconomÌa Laboral;;"MicroeconomÌa para Economistas|
+EconometrÌa I|
+MacroeconomÌa I"
+Licenciatura en Economia;Electiva;OrientaciÛn Analisis e Investigacion: EconomÌa Regional y Urbana;;MicroeconomÌa para Economistas
+Licenciatura en Economia;1562;OrientaciÛn Analisis e Investigacion: Seminario de IntegraciÛn (Exclusiva);;"MicroeconomÌa II|
+MacroeconomÌa II|
+EconometrÌa II"
+Licenciatura en Economia;Electiva;OrientaciÛn Analisis e Investigacion: EconomÌa del Comportamiento;;MicroeconomÌa II
+Licenciatura en Sistemas;241;An·lisis Matem·tico I;6;
+Licenciatura en Sistemas;242;EconomÌa;4;
+Licenciatura en Sistemas;254;SociologÌa de las organizaciones;4;
 Licenciatura en Sistemas;252;Administracion General;4;
-Licenciatura en Sistemas;245;√Ålgebra;4;
-Licenciatura en Sistemas;246;Historia Econ√≥mica y Social General;4;
-Licenciatura en Sistemas;247;Teor√≠a Contable;;"An√°lisis Matem√°tico I|
+Licenciatura en Sistemas;245;¡lgebra;4;
+Licenciatura en Sistemas;246;Historia EconÛmica y Social General;4;
+Licenciatura en Sistemas;247;TeorÌa Contable;;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Sistemas;248;Estad√≠stica I;;"An√°lisis Matem√°tico I|
+Licenciatura en Sistemas;248;EstadÌstica I;;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Sistemas;249;Historia Econ√≥mica y Social Argentina;;"An√°lisis Matem√°tico I|
+Licenciatura en Sistemas;249;Historia EconÛmica y Social Argentina;;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Sistemas;250;Microeconom√≠a I;;"An√°lisis Matem√°tico I|
+Licenciatura en Sistemas;250;MicroeconomÌa I;;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Sistemas;274;Sistemas Administrativos;;"An√°lisis Matem√°tico I|
+Licenciatura en Sistemas;274;Sistemas Administrativos;;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Sistemas;276;C√°lculo Financiero;;"An√°lisis Matem√°tico I|
+Licenciatura en Sistemas;276;C·lculo Financiero;;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Sistemas;278;Macroeconom√≠a y Pol√≠tica Econ√≥mica;;"An√°lisis Matem√°tico I|
+Licenciatura en Sistemas;278;MacroeconomÌa y PolÌtica EconÛmica;;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Sistemas;279;Administraci√≥n Financiera;;C√°lculo Financiero
-Licenciatura en Sistemas;464;Gesti√≥n de Costos;;Teor√≠a Contable
-Licenciatura en Sistemas;655;Tecnolog√≠a de Comunicaciones;;Tecnolog√≠a de los Computadores y Sistemas Operativos
-Licenciatura en Sistemas;658;Metodolog√≠a de los Sistemas de Informaci√≥n;;Ingenier√≠a de Software
-Licenciatura en Sistemas;661;L√≥gica Simb√≥lica y Fundamentos de la Decisi√≥n;;"An√°lisis Matem√°tico I|
+Licenciatura en Sistemas;279;AdministraciÛn Financiera;;C·lculo Financiero
+Licenciatura en Sistemas;464;GestiÛn de Costos;;TeorÌa Contable
+Licenciatura en Sistemas;655;TecnologÌa de Comunicaciones;;TecnologÌa de los Computadores y Sistemas Operativos
+Licenciatura en Sistemas;658;MetodologÌa de los Sistemas de InformaciÛn;;IngenierÌa de Software
+Licenciatura en Sistemas;661;LÛgica SimbÛlica y Fundamentos de la DecisiÛn;;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Sistemas;662;Seguridad Inform√°tica y Principios de Auditor√≠a;;Sistemas de Datos
-Licenciatura en Sistemas;663;Sistemas de Datos;;L√≥gica Simb√≥lica y Fundamentos de la Decisi√≥n
-Licenciatura en Sistemas;740;Redes Inform√°ticas;;Tecnolog√≠a de Comunicaciones
-Licenciatura en Sistemas;1275;Introducci√≥n a la Tecnolog√≠a de la Informaci√≥n y las Comunicaciones;;"An√°lisis Matem√°tico I|
+Licenciatura en Sistemas;662;Seguridad Inform·tica y Principios de AuditorÌa;;Sistemas de Datos
+Licenciatura en Sistemas;663;Sistemas de Datos;;LÛgica SimbÛlica y Fundamentos de la DecisiÛn
+Licenciatura en Sistemas;740;Redes Inform·ticas;;TecnologÌa de Comunicaciones
+Licenciatura en Sistemas;1275;IntroducciÛn a la TecnologÌa de la InformaciÛn y las Comunicaciones;;"An·lisis Matem·tico I|
 Economia|
 Sociologia de las organizaciones|
 Administracion General|
 Algebra|
 Historia Economica y Social General"
-Licenciatura en Sistemas;1601;Ingenier√≠a de Software;;Introducci√≥n a la Tecnolog√≠a de la Informaci√≥n y las Comunicaciones
-Licenciatura en Sistemas;1603;Derecho Inform√°tico I;;Introducci√≥n a la Tecnolog√≠a de la Informaci√≥n y las Comunicaciones
-Licenciatura en Sistemas;1604;Derecho Inform√°tico II;;Derecho Inform√°tico I
-Licenciatura en Sistemas;1652;Teor√≠a de los Lenguajes y Algoritmos;;L√≥gica Simb√≥lica y Fundamentos de la Decisi√≥n
-Licenciatura en Sistemas;1653;Tecnolog√≠a de los Computadores y Sistemas Operativos;;Introducci√≥n a la Tecnolog√≠a de la Informaci√≥n y las Comunicaciones
-Licenciatura en Sistemas;1654;Construcci√≥n de Aplicaciones Inform√°ticas;;Teor√≠a de los Lenguajes y Algoritmos
-Licenciatura en Sistemas;1660;Actuaci√≥n Profesional del Licenciado en Sistemas de las Organizaciones;;"Construcci√≥n de Aplicaciones Inform√°ticas|
-Redes Inform√°ticas"
-Licenciatura en Sistemas;1799;Gesti√≥n de Recursos Inform√°ticos;;"Seguridad Inform√°tica y Principios de Auditor√≠a|
-Metodolog√≠a de los Sistemas de Informaci√≥n"
-Licenciatura en Sistemas;Optativa;Ciencias de la Decisi√≥n ;;L√≥gica Simb√≥lica y Fundamentos de la Decisi√≥n
-Licenciatura en Sistemas;Optativa;Econom√≠a y Negocios Digitales ;;
-Licenciatura en Sistemas;Optativa;Anal√≠tica de Datos ;;
-Licenciatura en Sistemas;Optativa;Auditor√≠a de Sistemas de Informaci√≥n ;;Seguridad Inform√°tica y Principios de Auditor√≠a
-Licenciatura en Sistemas;Optativa;Gesti√≥n de la Innovaci√≥n y Tecnolog√≠a Inform√°tica ;;
-Actuario;241;An√°lisis Matem√°tico I;;
-Actuario;242;Econom√≠a;;
-Actuario;245;√Ålgebra;;
-Actuario;246;Historia Econ√≥mica y Social General;;
-Actuario;255;An√°lisis Contable;;
-Actuario;256;Instituciones de Gobierno y Econom√≠a Pol√≠tica;;
-Actuario;262;Macroeconom√≠a I;;"An√°lisis Matem√°tico I|
+Licenciatura en Sistemas;1601;IngenierÌa de Software;;IntroducciÛn a la TecnologÌa de la InformaciÛn y las Comunicaciones
+Licenciatura en Sistemas;1603;Derecho Inform·tico I;;IntroducciÛn a la TecnologÌa de la InformaciÛn y las Comunicaciones
+Licenciatura en Sistemas;1604;Derecho Inform·tico II;;Derecho Inform·tico I
+Licenciatura en Sistemas;1652;TeorÌa de los Lenguajes y Algoritmos;;LÛgica SimbÛlica y Fundamentos de la DecisiÛn
+Licenciatura en Sistemas;1653;TecnologÌa de los Computadores y Sistemas Operativos;;IntroducciÛn a la TecnologÌa de la InformaciÛn y las Comunicaciones
+Licenciatura en Sistemas;1654;ConstrucciÛn de Aplicaciones Inform·ticas;;TeorÌa de los Lenguajes y Algoritmos
+Licenciatura en Sistemas;1660;ActuaciÛn Profesional del Licenciado en Sistemas de las Organizaciones;;"ConstrucciÛn de Aplicaciones Inform·ticas|
+Redes Inform·ticas"
+Licenciatura en Sistemas;1799;GestiÛn de Recursos Inform·ticos;;"Seguridad Inform·tica y Principios de AuditorÌa|
+MetodologÌa de los Sistemas de InformaciÛn"
+Licenciatura en Sistemas;Optativa;Ciencias de la DecisiÛn ;;LÛgica SimbÛlica y Fundamentos de la DecisiÛn
+Licenciatura en Sistemas;Optativa;EconomÌa y Negocios Digitales ;;
+Licenciatura en Sistemas;Optativa;AnalÌtica de Datos ;;
+Licenciatura en Sistemas;Optativa;AuditorÌa de Sistemas de InformaciÛn ;;Seguridad Inform·tica y Principios de AuditorÌa
+Licenciatura en Sistemas;Optativa;GestiÛn de la InnovaciÛn y TecnologÌa Inform·tica ;;
+Actuario;241;An·lisis Matem·tico I;;
+Actuario;242;EconomÌa;;
+Actuario;245;¡lgebra;;
+Actuario;246;Historia EconÛmica y Social General;;
+Actuario;255;An·lisis Contable;;
+Actuario;256;Instituciones de Gobierno y EconomÌa PolÌtica;;
+Actuario;262;MacroeconomÌa I;;"An·lisis Matem·tico I|
 Economia|
 Algebra|
 Historia Economica y Social General|
 Analisis Contable|
 Instituciones del Gobierno y Economia Politica"
-Actuario;274;Sistemas Administrativos;;"An√°lisis Matem√°tico I|
+Actuario;274;Sistemas Administrativos;;"An·lisis Matem·tico I|
 Economia|
 Algebra|
 Historia Economica y Social General|
 Analisis Contable|
 Instituciones del Gobierno y Economia Politica"
-Actuario;279;Administraci√≥n Financiera;;An√°lisis Estad√≠stico II
-Actuario;291;Microeconom√≠a para Economistas;;Matem√°tica Aplicada I
-Actuario;462;Derecho Empresarial;;"An√°lisis Matem√°tico I|
+Actuario;279;AdministraciÛn Financiera;;An·lisis EstadÌstico II
+Actuario;291;MicroeconomÌa para Economistas;;Matem·tica Aplicada I
+Actuario;462;Derecho Empresarial;;"An·lisis Matem·tico I|
 Economia|
 Algebra|
 Historia Economica y Social General|
 Analisis Contable|
 Instituciones del Gobierno y Economia Politica"
-Actuario;540;An√°lisis Estad√≠stico I;;"An√°lisis Matem√°tico I|
+Actuario;540;An·lisis EstadÌstico I;;"An·lisis Matem·tico I|
 Economia|
 Algebra|
 Historia Economica y Social General|
 Analisis Contable|
 Instituciones del Gobierno y Economia Politica"
-Actuario;542;Matem√°tica Aplicada I;;"An√°lisis Matem√°tico I|
+Actuario;542;Matem·tica Aplicada I;;"An·lisis Matem·tico I|
 Economia|
 Algebra|
 Historia Economica y Social General|
 Analisis Contable|
 Instituciones del Gobierno y Economia Politica"
-Actuario;544;Matem√°tica Aplicada II;;Matem√°tica Aplicada I
-Actuario;548;Dinero y Bancos;;"Administraci√≥n Financiera|
-An√°lisis Estad√≠stico II"
-Actuario;601;Matem√°tica Financiera y Actuarial;;"An√°lisis Estad√≠stico I|
-Matem√°tica Aplicada I"
-Actuario;602;An√°lisis Estad√≠stico II;;"An√°lisis Estad√≠stico I|
-Matem√°tica Aplicada I"
+Actuario;544;Matem·tica Aplicada II;;Matem·tica Aplicada I
+Actuario;548;Dinero y Bancos;;"AdministraciÛn Financiera|
+An·lisis EstadÌstico II"
+Actuario;601;Matem·tica Financiera y Actuarial;;"An·lisis EstadÌstico I|
+Matem·tica Aplicada I"
+Actuario;602;An·lisis EstadÌstico II;;"An·lisis EstadÌstico I|
+Matem·tica Aplicada I"
 Actuario;603;Derecho Financiero, Seguros y Seguridad Social;;Derecho Empresarial
-Actuario;717;Modelos y Proyecciones Actuariales;;"Computaci√≥n Cient√≠fica Actuarial|
-Teor√≠a de Equilibrio Actuarial|
+Actuario;717;Modelos y Proyecciones Actuariales;;"ComputaciÛn CientÌfica Actuarial|
+TeorÌa de Equilibrio Actuarial|
 Bases Actuariales de las Inversiones y Financiaciones"
-Actuario;746;Computaci√≥n Cient√≠fica Actuarial;;"An√°lisis Estad√≠stico I|
-Matem√°tica Aplicada I"
-Actuario;751;Estad√≠stica Actuarial;;"Matem√°tica Aplicada II|
-An√°lisis Estad√≠stico II"
-Actuario;752;An√°lisis Num√©rico;;Matem√°tica Aplicada II
-Actuario;753;Biometr√≠a Actuarial;;"Matem√°tica Financiera y Actuarial|
-Estad√≠stica Actuarial|
-An√°lisis Num√©rico"
-Actuario;754;Teor√≠a Actuarial de los Seguros Personales;;Biometr√≠a Actuarial
-Actuario;755;Teor√≠a Actuarial de los Seguros Patrimoniales;;"Matem√°tica Financiera y Actuarial|
-Estad√≠stica Actuarial|
-An√°lisis Num√©rico"
-Actuario;756;Teor√≠a Actuarial de los Fondos y Planes de Jubilaciones, Pensiones y Salud;;Teor√≠a Actuarial de los Seguros Personales
-Actuario;757;Teor√≠a de Equilibrio Actuarial;;"Teor√≠a Actuarial de los Seguros Personales|
-Teor√≠a Actuarial de los Seguros Patrimoniales"
-Actuario;758;Bases Actuariales de las Inversiones y Financiaciones;;"Matem√°tica Financiera y Actuarial|
-Estad√≠stica Actuarial"
-Actuario;728;Pr√°ctica Profesional del Actuario;;"Teor√≠a Actuarial de los Seguros Personales|
-Teor√≠a Actuarial de los Seguros Patrimoniales|
-Teor√≠a Actuarial de los Fondos y Planes de Jubilaciones, Pensiones y Salud
+Actuario;746;ComputaciÛn CientÌfica Actuarial;;"An·lisis EstadÌstico I|
+Matem·tica Aplicada I"
+Actuario;751;EstadÌstica Actuarial;;"Matem·tica Aplicada II|
+An·lisis EstadÌstico II"
+Actuario;752;An·lisis NumÈrico;;Matem·tica Aplicada II
+Actuario;753;BiometrÌa Actuarial;;"Matem·tica Financiera y Actuarial|
+EstadÌstica Actuarial|
+An·lisis NumÈrico"
+Actuario;754;TeorÌa Actuarial de los Seguros Personales;;BiometrÌa Actuarial
+Actuario;755;TeorÌa Actuarial de los Seguros Patrimoniales;;"Matem·tica Financiera y Actuarial|
+EstadÌstica Actuarial|
+An·lisis NumÈrico"
+Actuario;756;TeorÌa Actuarial de los Fondos y Planes de Jubilaciones, Pensiones y Salud;;TeorÌa Actuarial de los Seguros Personales
+Actuario;757;TeorÌa de Equilibrio Actuarial;;"TeorÌa Actuarial de los Seguros Personales|
+TeorÌa Actuarial de los Seguros Patrimoniales"
+Actuario;758;Bases Actuariales de las Inversiones y Financiaciones;;"Matem·tica Financiera y Actuarial|
+EstadÌstica Actuarial"
+Actuario;728;Pr·ctica Profesional del Actuario;;"TeorÌa Actuarial de los Seguros Personales|
+TeorÌa Actuarial de los Seguros Patrimoniales|
+TeorÌa Actuarial de los Fondos y Planes de Jubilaciones, Pensiones y Salud
 "
-Actuario;Electiva;Macroeconom√≠a II;;"Macroeconom√≠a I|
-Matem√°tica Aplicada II"
-Actuario;Electiva;Gesti√≥n de Costos;;"An√°lisis Matem√°tico I|
+Actuario;Electiva;MacroeconomÌa II;;"MacroeconomÌa I|
+Matem·tica Aplicada II"
+Actuario;Electiva;GestiÛn de Costos;;"An·lisis Matem·tico I|
 Economia|
 Algebra|
 Historia Economica y Social General|
 Analisis Contable|
 Instituciones del Gobierno y Economia Politica"
-Actuario;Electiva;Hist√≥ria de la Econom√≠a y las Pol√≠ticas Econ√≥micas en Argentina;;"An√°lisis Matem√°tico I|
+Actuario;Electiva;HistÛria de la EconomÌa y las PolÌticas EconÛmicas en Argentina;;"An·lisis Matem·tico I|
 Economia|
 Algebra|
 Historia Economica y Social General|
 Analisis Contable|
 Instituciones del Gobierno y Economia Politica"
-Actuario;Electiva;Econometr√≠a I;;"Matem√°tica Aplicada II|
-An√°lisis Estad√≠stico I"
-Actuario;Electiva;Econometr√≠a II;;Econometr√≠a I
-Actuario;Electiva;Demograf√≠a y Seguridad Social;;Biometr√≠a Actuarial
-Actuario;Electiva;Poder Econ√≥mico y Derechos Humanos;;Teor√≠a Actuarial de los Seguros Personales
-Actuario;Electiva;An√°lisis Num√©rico Avanzado;;"An√°lisis Num√©rico|
-Computaci√≥n Cient√≠fica Actuarial"
-Actuario;Optativa;Elementos de Topolog√≠a para Econom√≠a y Gesti√≥n ;;Matem√°tica Aplicada II
-Actuario;Optativa;M√©todos Cuantitativos ;;
-Actuario;Optativa;Teor√≠a de los Juegos ;;
-Actuario;Optativa;Seminario de √âtica de las Ocupaciones ;;
+Actuario;Electiva;EconometrÌa I;;"Matem·tica Aplicada II|
+An·lisis EstadÌstico I"
+Actuario;Electiva;EconometrÌa II;;EconometrÌa I
+Actuario;Electiva;DemografÌa y Seguridad Social;;BiometrÌa Actuarial
+Actuario;Electiva;Poder EconÛmico y Derechos Humanos;;TeorÌa Actuarial de los Seguros Personales
+Actuario;Electiva;An·lisis NumÈrico Avanzado;;"An·lisis NumÈrico|
+ComputaciÛn CientÌfica Actuarial"
+Actuario;Optativa;Elementos de TopologÌa para EconomÌa y GestiÛn ;;Matem·tica Aplicada II
+Actuario;Optativa;MÈtodos Cuantitativos ;;
+Actuario;Optativa;TeorÌa de los Juegos ;;
+Actuario;Optativa;Seminario de …tica de las Ocupaciones ;;
