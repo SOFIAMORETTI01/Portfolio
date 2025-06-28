@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import unicodedata
 import re
-
+import csv
 st.set_page_config(page_title="BOT - Materias FCE 🎓", page_icon="🎓", layout="centered")
 
 st.markdown("""
@@ -41,19 +41,23 @@ def normalizar(texto):
 @st.cache_data
 def cargar_datos():
     import csv
-df = pd.read_csv(
-    "Materias_BOT.csv",
-    encoding="latin1",
-    sep=";",
-    quoting=csv.QUOTE_MINIMAL,
-    engine="python"
-)
+    df = pd.read_csv(
+        "Materias_BOT.csv",
+        encoding="latin1",
+        sep=";",
+        quoting=csv.QUOTE_MINIMAL,
+        engine="python"
+    )
+    df.columns = df.columns.str.strip()
+
     for col in ["Carrera", "Materia", "Correlativas"]:
         if col in df.columns:
             df[col] = df[col].astype(str).apply(lambda x: unicodedata.normalize('NFD', x).encode('ascii', 'ignore').decode('utf-8').strip())
+
     df["Carrera_norm"] = df["Carrera"].apply(normalizar)
     df["Materia_norm"] = df["Materia"].apply(normalizar)
     return df
+
 
 # Cargar df una vez acá
 df = cargar_datos()
