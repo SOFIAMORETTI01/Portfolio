@@ -42,7 +42,7 @@ def normalizar(texto):
 def cargar_datos():
     import csv
     df = pd.read_csv(
-        "Materias_BOT.csv",
+        "bot_project/Materias_BOT.csv",
         encoding="latin1",
         sep=";",
         quoting=csv.QUOTE_MINIMAL,
