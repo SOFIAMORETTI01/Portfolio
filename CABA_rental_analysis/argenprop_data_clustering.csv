@@ -1,0 +1,297 @@
+﻿Título,Precio,Moneda,Expensas,Ubicación,Superficie,Estado,Ambientes,Baños,Antigüedad,Barrio,Precio_Pesos,Precio_m2,Cluster,Tipo_Propiedad
+"Caballito, Capital Federal",470000.0,ARS,74961.0,"Rojas 300, Piso 3",31.0,,1 dorm.,,46.0,Caballito,470000.0,15161.290322580646,0,Compact and budget-friendly
+"Caballito, Capital Federal",450000.0,ARS,84121.0,"Rojas 400, Piso 4",33.0,,1 dorm.,,45.0,Caballito,450000.0,13636.363636363636,0,Compact and budget-friendly
+"Recoleta, Barrio Norte",650000.0,ARS,96180.0,"Cordoba 2600, Piso 8",47.0,,2 dorm.,,40.0,Recoleta,650000.0,13829.787234042553,0,Compact and budget-friendly
+"Recoleta, Barrio Norte",590000.0,ARS,105000.0,Doctor Tomás Manuel De Anchorena 1300,36.0,A Estrenar,,1.0,,Recoleta,590000.0,16388.88888888889,2,Spacious and affordable
+"Recoleta, Barrio Norte",500000.0,ARS,105000.0,"JUNCAL 1100, Piso 4",35.0,,1 dorm.,,60.0,Recoleta,500000.0,14285.714285714286,0,Compact and budget-friendly
+"Caballito, Capital Federal",1000000.0,ARS,230000.0,"J Bonifacio 600, Piso 1",70.0,,2 dorm.,,10.0,Caballito,1000000.0,14285.714285714286,1,Exclusive premium
+"Caballito Sur, Caballito",1300000.0,ARS,320000.0,"DOBLAS 900, Piso 21",70.0,,2 dorm.,,4.0,Caballito,1300000.0,18571.428571428572,3,High price per m²
+"Palermo, Capital Federal",990000.0,ARS,280000.0,"Godoy Cruz 2900, Piso 10",85.0,,3 dorm.,,49.0,Palermo,990000.0,11647.058823529413,1,Exclusive premium
+"Las Cañitas, Palermo",1100.0,USD,227000.0,Arce al 200,50.0,,1 dorm.,,24.0,Palermo,1256200.0,25124.0,3,High price per m²
+"Palermo, Capital Federal",950000.0,ARS,250000.0,"JUNCAL 2800, Piso 5",75.0,,3 dorm.,,40.0,Palermo,950000.0,12666.666666666666,1,Exclusive premium
+"Caballito, Capital Federal",450000.0,ARS,61000.0,"Juan Bautista Alberdi 800, Piso 4",33.0,,1 dorm.,,40.0,Caballito,450000.0,13636.363636363636,0,Compact and budget-friendly
+"Caballito, Capital Federal",900000.0,ARS,90000.0,"Aranguren 1900, Piso 9",50.0,A Estrenar,1 dorm.,,,Caballito,900000.0,18000.0,2,Spacious and affordable
+"Flores, Capital Federal",400000.0,ARS,72180.0,"Alberdi 2800, Piso 3",27.0,,,1.0,5.0,Flores,400000.0,14814.814814814816,0,Compact and budget-friendly
+"Flores, Capital Federal",650000.0,ARS,140000.0,"Argerich 1000, Piso 7",60.0,,2 dorm.,,40.0,Flores,650000.0,10833.333333333334,1,Exclusive premium
+"Caballito, Capital Federal",870000.0,ARS,214453.0,"Hidalgo 300, Piso 6",55.0,,2 dorm.,,15.0,Caballito,870000.0,15818.181818181818,2,Spacious and affordable
+"Recoleta, Barrio Norte",550000.0,ARS,170000.0,"Av santa fe 2000, Piso 1",50.0,,1 dorm.,,50.0,Recoleta,550000.0,11000.0,1,Exclusive premium
+"Recoleta, Barrio Norte",800000.0,ARS,177000.0,Laprida 1200,52.0,,2 dorm.,,50.0,Recoleta,800000.0,15384.615384615385,2,Spacious and affordable
+"Caballito Sur, Caballito",780000.0,ARS,137000.0,Victor Martínez 100,65.0,,2 dorm.,,50.0,Caballito,780000.0,12000.0,1,Exclusive premium
+"Flores, Capital Federal",650000.0,ARS,190000.0,"YERBAL 2100, Piso 1",55.0,,1 dorm.,,10.0,Flores,650000.0,11818.181818181818,1,Exclusive premium
+"Botanico, Palermo",950000.0,ARS,182000.0,"Julián Alvarez 2500, Piso 4",72.0,,2 dorm.,,50.0,Palermo,950000.0,13194.444444444445,1,Exclusive premium
+"Caballito Sur, Caballito",890000.0,ARS,200000.0,Cipriano Miro 500,47.0,,1 dorm.,,14.0,Caballito,890000.0,18936.17021276596,2,Spacious and affordable
+"Recoleta, Barrio Norte",550000.0,ARS,150000.0,Paraguay 2300,42.0,,1 dorm.,,38.0,Recoleta,550000.0,13095.238095238095,1,Exclusive premium
+"Primera Junta, Caballito",650000.0,ARS,100000.0,"Bogota 700, Piso 1",40.0,,1 dorm.,,8.0,Caballito,650000.0,16250.0,2,Spacious and affordable
+"Palermo Hollywood, Palermo",750000.0,ARS,90000.0,"Dr E Ravignani 2000, Piso 7",34.0,,,1.0,3.0,Palermo,750000.0,22058.823529411766,2,Spacious and affordable
+"Recoleta, Barrio Norte",550000.0,ARS,150000.0,"Montevideo 1900, Piso 1",42.0,,1 dorm.,,,Recoleta,550000.0,13095.238095238095,1,Exclusive premium
+"Recoleta, Barrio Norte",500000.0,ARS,70000.0,Austria 2100,28.0,Monoam.,,,50.0,Recoleta,500000.0,17857.14285714286,0,Compact and budget-friendly
+"Villa Crespo, Capital Federal",750000.0,ARS,50000.0,"Loyola 400, Piso 1",48.0,,1 dorm.,,60.0,Villa Crespo,750000.0,15625.0,0,Compact and budget-friendly
+"Caballito Sur, Caballito",680000.0,ARS,90000.0,"San José de Calasanz 700, Piso 1",40.0,,1 dorm.,,10.0,Caballito,680000.0,17000.0,2,Spacious and affordable
+"Recoleta, Barrio Norte",490000.0,ARS,136000.0,Arenales 1100,32.0,,1 dorm.,1.0,,Recoleta,490000.0,15312.5,0,Compact and budget-friendly
+"Palermo Soho, Palermo",430000.0,ARS,100000.0,"Thames 1800, Piso 3",40.0,,1 dorm.,,60.0,Palermo,430000.0,10750.0,0,Compact and budget-friendly
+"San Nicolás, Centro",430000.0,ARS,196000.0,"VIAMONTE 1300, Piso 2",33.0,,,1.0,8.0,San Nicolás,430000.0,13030.30303030303,1,Exclusive premium
+"Barrio Norte, Capital Federal",790000.0,ARS,160000.0,"Av Gral Juan M De Pueyrredon 900, Piso 10",90.0,,2 dorm.,1.0,,Barrio Norte,790000.0,8777.777777777777,1,Exclusive premium
+"Botanico, Palermo",850000.0,ARS,180000.0,"República de la India 2700, Piso 5",55.0,,2 dorm.,,60.0,Palermo,850000.0,15454.545454545454,2,Spacious and affordable
+"Palermo Hollywood, Palermo",550000.0,ARS,135000.0,Angel Justiniano Carranza 2200,37.0,,,1.0,8.0,Palermo,550000.0,14864.864864864865,0,Compact and budget-friendly
+"Caballito, Capital Federal",840000.0,ARS,110000.0,"F Senillosa 200, Piso PB",68.0,,2 dorm.,2.0,,Caballito,840000.0,12352.941176470587,1,Exclusive premium
+"Recoleta, Barrio Norte",480000.0,ARS,72000.0,"Avenida Córdoba 1800, Piso 8",35.0,Monoam.,,1.0,,Recoleta,480000.0,13714.285714285714,0,Compact and budget-friendly
+"Belgrano, Capital Federal",590000.0,ARS,215000.0,Franklin Delano Roosevelt 3400,48.0,,1 dorm.,,20.0,Belgrano,590000.0,12291.666666666666,1,Exclusive premium
+"Belgrano, Capital Federal",900000.0,ARS,114000.0,"Avenida Monroe 1500, Piso 5",54.0,,1 dorm.,,16.0,Belgrano,900000.0,16666.666666666668,2,Spacious and affordable
+"Belgrano, Capital Federal",850000.0,ARS,100000.0,"MIGUELETES 2300, Piso 3",46.0,A Estrenar,1 dorm.,,,Belgrano,850000.0,18478.260869565216,2,Spacious and affordable
+"Belgrano, Capital Federal",500000.0,ARS,290000.0,Ciudad de la Paz al 1900,37.0,,,1.0,15.0,Belgrano,500000.0,13513.513513513513,1,Exclusive premium
+"Belgrano, Capital Federal",500000.0,ARS,90000.0,Ciudad de la Paz al 2700,23.0,,,1.0,7.0,Belgrano,500000.0,21739.130434782608,2,Spacious and affordable
+"Palermo Soho, Palermo",550000.0,ARS,175000.0,"Jose Luis Borges 2200, Piso 2",31.0,,,1.0,15.0,Palermo,550000.0,17741.935483870966,2,Spacious and affordable
+"Parque Rivadavia, Caballito",700000.0,ARS,206000.0,"Formosa 400, Piso 5",63.0,,2 dorm.,,30.0,Caballito,700000.0,11111.111111111111,1,Exclusive premium
+"Caballito Sur, Caballito",580000.0,ARS,87000.0,Av. Juan B. Alberdi al 200,38.0,,1 dorm.,,40.0,Caballito,580000.0,15263.157894736842,0,Compact and budget-friendly
+"Palermo, Capital Federal",650000.0,ARS,250000.0,Av. Cabildo 100,52.0,,1 dorm.,1.0,,Palermo,650000.0,12500.0,1,Exclusive premium
+"Recoleta, Barrio Norte",280000.0,ARS,140000.0,Rodriguez Peña al 1000,22.0,,1 dorm.,,5.0,Recoleta,280000.0,12727.272727272728,0,Compact and budget-friendly
+"Recoleta, Barrio Norte",500000.0,ARS,85000.0,"French 2700, Piso 7",35.0,,1 dorm.,,60.0,Recoleta,500000.0,14285.714285714286,0,Compact and budget-friendly
+"Recoleta, Barrio Norte",450.0,USD,105000.0,"Guido 1900, Piso 7",24.0,,,1.0,60.0,Recoleta,513900.0,21412.5,2,Spacious and affordable
+"Palermo Soho, Palermo",495000.0,ARS,100000.0,Gurruchaga al 2000,30.0,,1 dorm.,,35.0,Palermo,495000.0,16500.0,0,Compact and budget-friendly
+"Recoleta, Barrio Norte",700000.0,ARS,100000.0,Av Pueyrredon al 2400,31.0,,1 dorm.,,30.0,Recoleta,700000.0,22580.645161290322,2,Spacious and affordable
+"Palermo, Capital Federal",900000.0,ARS,190000.0,"Paraguay 3900, Piso 4",75.0,,2 dorm.,,50.0,Palermo,900000.0,12000.0,1,Exclusive premium
+"Palermo, Capital Federal",700000.0,ARS,205000.0,Juncal 4500,45.0,,1 dorm.,,20.0,Palermo,700000.0,15555.555555555555,2,Spacious and affordable
+"Parque Centenario, Capital Federal",850000.0,ARS,200000.0,"RAMOS MEJIA 900, Piso 7",64.0,,2 dorm.,,10.0,Parque Centenario,850000.0,13281.25,1,Exclusive premium
+"Parque Centenario, Capital Federal",470000.0,ARS,80000.0,Franklin 100,32.0,,,1.0,40.0,Parque Centenario,470000.0,14687.5,0,Compact and budget-friendly
+"Recoleta, Barrio Norte",650000.0,ARS,200000.0,"Dr T De Anchorena 1100, Piso 1",43.0,,1 dorm.,,10.0,Recoleta,650000.0,15116.279069767443,2,Spacious and affordable
+"Palermo Hollywood, Palermo",690.0,USD,100000.0,"Angel Carranza 2300, Piso 2",52.0,,2 dorm.,,40.0,Palermo,787980.0,15153.461538461539,2,Spacious and affordable
+"Palermo Chico, Palermo",900.0,USD,200000.0,"Juan Francisco Seguí 3900, Piso 4",47.0,A Estrenar,,1.0,,Palermo,1027800.0,21868.08510638298,2,Spacious and affordable
+"Botanico, Palermo",500000.0,ARS,100000.0,"Ugarteche 2800, Piso 6",33.0,,,1.0,70.0,Palermo,500000.0,15151.515151515152,0,Compact and budget-friendly
+"Retiro, Centro",650000.0,ARS,125000.0,"Av. Cordoba 400, Piso 7",60.0,,1 dorm.,1.0,,Retiro,650000.0,10833.333333333334,1,Exclusive premium
+"Flores, Capital Federal",890000.0,ARS,200000.0,"Avenida Rivadavia 6300, Piso 14",80.0,,3 dorm.,,50.0,Flores,890000.0,11125.0,1,Exclusive premium
+"Palermo Viejo, Palermo",750.0,USD,150000.0,"Vidt 2100, Piso 2",60.0,A Estrenar,2 dorm.,,,Palermo,856500.0,14275.0,1,Exclusive premium
+"Palermo, Capital Federal",680000.0,ARS,155000.0,Godoy Cruz al 2900,54.0,A Estrenar,2 dorm.,,,Palermo,680000.0,12592.592592592593,1,Exclusive premium
+"Plaza San Martín, Barrio Norte",950000.0,ARS,278000.0,"Esmeralda 1300, Piso 16",90.0,,3 dorm.,,60.0,Barrio Norte,950000.0,10555.555555555555,1,Exclusive premium
+"Barrio Norte, Capital Federal",1100000.0,ARS,398000.0,JOSE EVARISTO URIBURU Y AV. SANTA FE 1°,141.0,,3 dorm.,,40.0,Barrio Norte,1100000.0,7801.418439716312,1,Exclusive premium
+"Recoleta, Barrio Norte",650000.0,ARS,63000.0,"Avenida Pueyrredón 1000, Piso PB",44.0,,1 dorm.,1.0,,Recoleta,650000.0,14772.727272727272,0,Compact and budget-friendly
+"Villa Urquiza, Capital Federal",500.0,USD,120000.0,Avenida Olazábal 4800,45.0,,1 dorm.,,10.0,Villa Urquiza,571000.0,12688.888888888889,0,Compact and budget-friendly
+"Villa Urquiza, Capital Federal",590000.0,ARS,215000.0,Franklin Delano Roosevelt 3400,48.0,,1 dorm.,,20.0,Villa Urquiza,590000.0,12291.666666666666,1,Exclusive premium
+"Villa Urquiza, Capital Federal",700000.0,ARS,138000.0,"Tomas Le Breton 5000, Piso 7",43.0,,1 dorm.,,20.0,Villa Urquiza,700000.0,16279.06976744186,2,Spacious and affordable
+"Palermo, Capital Federal",1000000.0,ARS,134000.0,"Av. Santa Fe 3300, Piso 4",80.0,,2 dorm.,,45.0,Palermo,1000000.0,12500.0,1,Exclusive premium
+"Barrio Norte, Capital Federal",880000.0,ARS,195000.0,"Av. Santa Fe 1900, Piso 3",57.0,,,1.0,20.0,Barrio Norte,880000.0,15438.59649122807,2,Spacious and affordable
+"Palermo Soho, Palermo",740000.0,ARS,175600.0,"Paraguay 4400, Piso 3",40.0,,1 dorm.,,17.0,Palermo,740000.0,18500.0,2,Spacious and affordable
+"Palermo Hollywood, Palermo",950.0,USD,114000.0,"Av Santa Fe 4800, Piso Alt",64.0,,2 dorm.,,15.0,Palermo,1084900.0,16951.5625,2,Spacious and affordable
+"Recoleta, Barrio Norte",1000.0,USD,200000.0,"Larrea 800, Piso PB",72.0,,3 dorm.,,50.0,Recoleta,1142000.0,15861.111111111111,2,Spacious and affordable
+"Caballito Sur, Caballito",410000.0,ARS,64700.0,"Mendez De Andes 1900, Piso 5",37.0,,,1.0,2.0,Caballito,410000.0,11081.081081081082,0,Compact and budget-friendly
+"Caballito, Capital Federal",900000.0,ARS,150000.0,Riglos al 400,67.0,,3 dorm.,,50.0,Caballito,900000.0,13432.835820895523,1,Exclusive premium
+"Palermo, Capital Federal",500000.0,ARS,100000.0,Mario Bravo 1100,30.0,,1 dorm.,,20.0,Palermo,500000.0,16666.666666666668,0,Compact and budget-friendly
+"Belgrano, Capital Federal",700000.0,ARS,130000.0,"Mariscal Antonio José de Sucre 2700, Piso 14",48.0,,2 dorm.,,45.0,Belgrano,700000.0,14583.333333333334,2,Spacious and affordable
+"Belgrano, Capital Federal",2800000.0,ARS,700000.0,"Arcos 1600, Piso 7",140.0,,3 dorm.,,40.0,Belgrano,2800000.0,20000.0,3,High price per m²
+"Villa Urquiza, Capital Federal",470000.0,ARS,105000.0,"AVENIDA MONROE 5600, Piso 4",36.0,,1 dorm.,,4.0,Villa Urquiza,470000.0,13055.555555555555,0,Compact and budget-friendly
+"Botanico, Palermo",1250000.0,ARS,160000.0,"Charcas 4300, Piso 4",76.0,,2 dorm.,,,Palermo,1250000.0,16447.36842105263,2,Spacious and affordable
+"Botanico, Palermo",750000.0,ARS,260000.0,Av raul scalabrini ortiz 3000,42.0,,,1.0,10.0,Palermo,750000.0,17857.14285714286,2,Spacious and affordable
+"Palermo, Capital Federal",700000.0,ARS,230000.0,"Avenida Coronel Díaz 2100, Piso 1",52.0,,2 dorm.,,,Palermo,700000.0,13461.538461538461,1,Exclusive premium
+"Barrio Norte, Capital Federal",1000.0,USD,354000.0,"AUSTRIA 2500, Piso 12",53.0,,1 dorm.,,15.0,Barrio Norte,1142000.0,21547.169811320753,3,High price per m²
+"Nuñez, Capital Federal",700000.0,ARS,132000.0,"J De Amenabar 3200, Piso 5",47.0,,1 dorm.,,15.0,Nuñez,700000.0,14893.617021276596,2,Spacious and affordable
+"Palermo, Capital Federal",500000.0,ARS,160000.0,"Jorge Luis Borges 2200, Piso 3",32.0,Monoam.,,1.0,,Palermo,500000.0,15625.0,2,Spacious and affordable
+"Nuñez, Capital Federal",600000.0,ARS,160000.0,NUÑEZ al 3400,45.0,,1 dorm.,,15.0,Nuñez,600000.0,13333.333333333334,1,Exclusive premium
+"Belgrano C, Belgrano",1300000.0,ARS,300000.0,"VIDAL 2500, Piso 1",80.0,,3 dorm.,,15.0,Belgrano,1300000.0,16250.0,3,High price per m²
+"Nuñez, Capital Federal",2300000.0,ARS,233000.0,"Av. Cabildo al 3400, Entre Juana Azurduy y Manuela Pedraza",165.0,A Estrenar,3 dorm.,,,Nuñez,2300000.0,13939.39393939394,3,High price per m²
+"Belgrano, Capital Federal",450000.0,ARS,105000.0,Virrey Loreto 2400,32.0,,1 dorm.,1.0,,Belgrano,450000.0,14062.5,0,Compact and budget-friendly
+"Barrio Norte, Capital Federal",900000.0,ARS,202270.0,PARAGUAY Y AV. PUEYRREDON 7°,129.0,,3 dorm.,,40.0,Barrio Norte,900000.0,6976.7441860465115,1,Exclusive premium
+"Palermo, Capital Federal",515000.0,ARS,55000.0,"Billinghurst 1300, Piso 6",34.0,,,1.0,38.0,Palermo,515000.0,15147.058823529413,0,Compact and budget-friendly
+"Belgrano, Capital Federal",490000.0,ARS,144600.0,"Zabala 2400, Piso 1",38.0,,1 dorm.,,50.0,Belgrano,490000.0,12894.736842105263,0,Compact and budget-friendly
+"Monserrat, Centro",600.0,USD,140000.0,"Virrey Cevallos 300, Piso 1",29.0,,,1.0,3.0,Monserrat,685200.0,23627.58620689655,2,Spacious and affordable
+"Monserrat, Centro",380000.0,ARS,220000.0,"México 1200, Piso 1",35.0,Monoam.,,1.0,,Monserrat,380000.0,10857.142857142857,1,Exclusive premium
+"Palermo, Capital Federal",800000.0,ARS,223000.0,Gorriti al 3600,50.0,,1 dorm.,,11.0,Palermo,800000.0,16000.0,2,Spacious and affordable
+"Retiro, Centro",500000.0,ARS,126000.0,Esmeralda al 900,35.0,,1 dorm.,,50.0,Retiro,500000.0,14285.714285714286,0,Compact and budget-friendly
+"Belgrano R, Belgrano",980000.0,ARS,320000.0,"Ciudad De La Paz 1900, Piso 3",75.0,,2 dorm.,,30.0,Belgrano,980000.0,13066.666666666666,1,Exclusive premium
+"Recoleta, Barrio Norte",750000.0,ARS,150000.0,Paraguay 1600,36.0,,1 dorm.,1.0,,Recoleta,750000.0,20833.333333333332,2,Spacious and affordable
+"Urquiza R, Villa Urquiza",700000.0,ARS,147000.0,"Nahuel Huapi 4900, Piso 1",50.0,,1 dorm.,,13.0,Villa Urquiza,700000.0,14000.0,1,Exclusive premium
+"Microcentro, Centro",400000.0,ARS,140000.0,Florida 800,30.0,,1 dorm.,1.0,,Microcentro,400000.0,13333.333333333334,0,Compact and budget-friendly
+"Belgrano, Capital Federal",1050000.0,ARS,260000.0,"Maure 2300, Piso 4",85.0,,3 dorm.,,50.0,Belgrano,1050000.0,12352.941176470587,1,Exclusive premium
+"Barrio Norte, Capital Federal",870000.0,ARS,111780.0,ECUADOR Y AV. CORDOBA 4°,57.0,,2 dorm.,,40.0,Barrio Norte,870000.0,15263.157894736842,2,Spacious and affordable
+"Barrio Norte, Capital Federal",500000.0,ARS,80000.0,JEAN JAURES AL 800 8°,58.0,,1 dorm.,,40.0,Barrio Norte,500000.0,8620.689655172413,0,Compact and budget-friendly
+"Las Cañitas, Palermo",800000.0,ARS,230000.0,"Huergo 200, Piso 6",47.0,,1 dorm.,,10.0,Palermo,800000.0,17021.27659574468,2,Spacious and affordable
+"Nuñez, Capital Federal",710000.0,ARS,260000.0,"Ciudad de la Paz 3200, Piso 3",45.0,,1 dorm.,,25.0,Nuñez,710000.0,15777.777777777777,2,Spacious and affordable
+"Recoleta, Barrio Norte",550000.0,ARS,147000.0,GALLO 900,42.0,,1 dorm.,,22.0,Recoleta,550000.0,13095.238095238095,1,Exclusive premium
+"Caballito, Capital Federal",850000.0,ARS,200000.0,"Yatay 200, Piso 4",60.0,,2 dorm.,,10.0,Caballito,850000.0,14166.666666666666,1,Exclusive premium
+"Botanico, Palermo",800000.0,ARS,130000.0,"Borges 2100, Piso 1",53.0,,1 dorm.,,10.0,Palermo,800000.0,15094.33962264151,2,Spacious and affordable
+"Nuñez, Capital Federal",720000.0,ARS,150000.0,"Cuba 3400, Piso 3",60.0,,2 dorm.,,40.0,Nuñez,720000.0,12000.0,1,Exclusive premium
+"Palermo Hollywood, Palermo",850000.0,ARS,140000.0,"Arévalo 2000, Piso 5",43.0,A Estrenar,1 dorm.,,,Palermo,850000.0,19767.441860465115,2,Spacious and affordable
+"Barrio Norte, Capital Federal",1500000.0,ARS,430000.0,"Av Santa Fe 2900, Piso 5",135.0,,3 dorm.,3.0,,Barrio Norte,1500000.0,11111.111111111111,1,Exclusive premium
+"Flores, Capital Federal",800000.0,ARS,150000.0,"Curapaligüe 100, Piso 2",65.0,,2 dorm.,,35.0,Flores,800000.0,12307.692307692309,1,Exclusive premium
+"Chacarita, Capital Federal",730000.0,ARS,260000.0,"Charlone 500, Piso 2",45.0,,1 dorm.,1.0,,Chacarita,730000.0,16222.222222222223,2,Spacious and affordable
+"Barrio Norte, Capital Federal",450000.0,ARS,158000.0,"Jerónimo Salguero 1800, Piso 5",40.0,,1 dorm.,,45.0,Barrio Norte,450000.0,11250.0,0,Compact and budget-friendly
+"Barrio Norte, Capital Federal",500000.0,ARS,90000.0,AV. SANTA FE al 1900 6°,40.0,,1 dorm.,,40.0,Barrio Norte,500000.0,12500.0,0,Compact and budget-friendly
+"Recoleta, Barrio Norte",750000.0,ARS,220000.0,Gallo 1100,45.0,,1 dorm.,,13.0,Recoleta,750000.0,16666.666666666668,2,Spacious and affordable
+"Barrio Norte, Capital Federal",450000.0,ARS,85000.0,Riobamba al 900,35.0,,,1.0,10.0,Barrio Norte,450000.0,12857.142857142857,0,Compact and budget-friendly
+"Villa Urquiza, Capital Federal",500000.0,ARS,75000.0,"Donado 1900, Piso 2",42.0,,1 dorm.,1.0,,Villa Urquiza,500000.0,11904.761904761905,0,Compact and budget-friendly
+"Belgrano C, Belgrano",850000.0,ARS,310000.0,"Virrey loreto 2500, Piso 6",64.0,,2 dorm.,,70.0,Belgrano,850000.0,13281.25,1,Exclusive premium
+"Palermo Hollywood, Palermo",680000.0,ARS,135000.0,"Avenida Álvarez Thomas 100, Piso 5",56.0,,,1.0,7.0,Palermo,680000.0,12142.857142857143,1,Exclusive premium
+"Palermo, Capital Federal",750000.0,ARS,120000.0,Billinghurst 900,45.0,,1 dorm.,,50.0,Palermo,750000.0,16666.666666666668,2,Spacious and affordable
+"Palermo, Capital Federal",500000.0,ARS,81000.0,MAURE al 2200,30.0,,1 dorm.,,37.0,Palermo,500000.0,16666.666666666668,0,Compact and budget-friendly
+"Palermo, Capital Federal",850000.0,ARS,230000.0,"Aguero 1400, Piso 4",48.0,,1 dorm.,,2.0,Palermo,850000.0,17708.333333333332,2,Spacious and affordable
+"Las Cañitas, Palermo",850000.0,ARS,240000.0,Jorge Newbery 1900,50.0,,1 dorm.,,15.0,Palermo,850000.0,17000.0,2,Spacious and affordable
+"Barrio Norte, Capital Federal",2000.0,USD,150000.0,JUNCAL 3100,90.0,,2 dorm.,,35.0,Barrio Norte,2284000.0,25377.777777777777,3,High price per m²
+"Barrio Norte, Capital Federal",520000.0,ARS,86000.0,"Julián Álvarez 2400, Piso 8",50.0,,1 dorm.,,40.0,Barrio Norte,520000.0,10400.0,0,Compact and budget-friendly
+"Parque Rivadavia, Caballito",550000.0,ARS,65000.0,"Guayaquil 100, Piso 5",40.0,,1 dorm.,,50.0,Caballito,550000.0,13750.0,0,Compact and budget-friendly
+"Urquiza R, Villa Urquiza",470000.0,ARS,180000.0,"Avenida Monroe 5300, Piso 6",33.0,,1 dorm.,,12.0,Villa Urquiza,470000.0,14242.424242424242,0,Compact and budget-friendly
+"Saavedra, Capital Federal",800000.0,ARS,110000.0,Correa 3000,106.0,,2 dorm.,,30.0,Saavedra,800000.0,7547.169811320755,1,Exclusive premium
+"Villa Crespo, Capital Federal",1100000.0,ARS,360000.0,"Warnes 200, Piso 9/10",121.0,,3 dorm.,,30.0,Villa Crespo,1100000.0,9090.90909090909,1,Exclusive premium
+"Barrio Norte, Capital Federal",850000.0,ARS,150000.0,AV. PUEYRREDON al 900 5°,77.0,,2 dorm.,,40.0,Barrio Norte,850000.0,11038.961038961039,1,Exclusive premium
+"Villa Crespo, Capital Federal",700000.0,ARS,150000.0,"SERRANO 200, Piso 1",38.0,,1 dorm.,,25.0,Villa Crespo,700000.0,18421.052631578947,2,Spacious and affordable
+"Belgrano, Capital Federal",950000.0,ARS,140000.0,"Juramento 2700, Piso 12",54.0,,2 dorm.,,30.0,Belgrano,950000.0,17592.59259259259,2,Spacious and affordable
+"Barrio Norte, Capital Federal",450000.0,ARS,227000.0,VIAMONTE Y AV. CALLAO 4°,33.0,,,1.0,10.0,Barrio Norte,450000.0,13636.363636363636,1,Exclusive premium
+"Barrio Norte, Capital Federal",290000.0,ARS,110700.0,MARCELO T. DE ALVEAR al 1900 4°,25.0,,,1.0,40.0,Barrio Norte,290000.0,11600.0,0,Compact and budget-friendly
+"Barrio Norte, Capital Federal",400000.0,ARS,188700.0,SUIPACHA Y AV. CORDOBA 12°,42.0,,1 dorm.,,40.0,Barrio Norte,400000.0,9523.809523809523,1,Exclusive premium
+"Barrio Norte, Capital Federal",500000.0,ARS,170000.0,AV. SANTA FE al 2000 1°,50.0,,1 dorm.,,40.0,Barrio Norte,500000.0,10000.0,1,Exclusive premium
+"Belgrano, Capital Federal",390000.0,ARS,120000.0,Amenabar 1200,25.0,Monoam.,,1.0,,Belgrano,390000.0,15600.0,0,Compact and budget-friendly
+"Palermo, Capital Federal",500000.0,ARS,80000.0,ARAÓZ 2300,33.0,Monoam.,,1.0,,Palermo,500000.0,15151.515151515152,0,Compact and budget-friendly
+"Caballito Sur, Caballito",1100000.0,ARS,208000.0,"Muñiz 500, Piso 8",65.0,A Estrenar,2 dorm.,,,Caballito,1100000.0,16923.076923076922,2,Spacious and affordable
+"Almagro, Capital Federal",590000.0,ARS,200000.0,"Domingo F Sarmiento 3000, Piso 3",55.0,,2 dorm.,,49.0,Almagro,590000.0,10727.272727272728,1,Exclusive premium
+"Almagro, Capital Federal",550000.0,ARS,80000.0,Sanchez de Bustamante y Avenida Rivadavia,41.0,,1 dorm.,,35.0,Almagro,550000.0,13414.634146341463,0,Compact and budget-friendly
+"Palermo Hollywood, Palermo",1100000.0,ARS,100000.0,"El Salvador 6000, Piso 8",52.0,A Estrenar,1 dorm.,,,Palermo,1100000.0,21153.846153846152,2,Spacious and affordable
+"Palermo Hollywood, Palermo",1800000.0,ARS,150000.0,"El Salvador 6000, Piso 3",65.0,A Estrenar,2 dorm.,,,Palermo,1800000.0,27692.30769230769,3,High price per m²
+"Belgrano Chico, Belgrano",570000.0,ARS,160000.0,Echeverria 1300,45.0,,1 dorm.,1.0,,Belgrano,570000.0,12666.666666666666,1,Exclusive premium
+"Monserrat, Centro",400000.0,ARS,122000.0,"Solís 200, Piso 7",29.0,,,1.0,40.0,Monserrat,400000.0,13793.103448275862,0,Compact and budget-friendly
+"Palermo Soho, Palermo",700.0,USD,85000.0,Malabia 1900,45.0,,1 dorm.,,30.0,Palermo,799400.0,17764.444444444445,2,Spacious and affordable
+"Colegiales, Capital Federal",650000.0,ARS,270000.0,Olleros 4100,42.0,,1 dorm.,,5.0,Colegiales,650000.0,15476.190476190477,2,Spacious and affordable
+"Belgrano, Capital Federal",490000.0,ARS,175000.0,"Amenábar 1100, Piso 4",36.0,,,1.0,6.0,Belgrano,490000.0,13611.111111111111,1,Exclusive premium
+"Colegiales, Capital Federal",750000.0,ARS,147000.0,Federico Lacroze al 3200,36.0,,1 dorm.,,5.0,Colegiales,750000.0,20833.333333333332,2,Spacious and affordable
+"Villa Urquiza, Capital Federal",560000.0,ARS,160000.0,"Bucarelli 1900, Piso 5",41.0,Muy Bueno,,,11.0,Villa Urquiza,560000.0,13658.536585365853,1,Exclusive premium
+"Caballito Sur, Caballito",420000.0,ARS,70000.0,"Avenida La Plata 500, Piso 5",25.0,Monoam.,,1.0,,Caballito,420000.0,16800.0,0,Compact and budget-friendly
+"Almagro Norte, Almagro",600000.0,ARS,86000.0,"Palestina (Ex Rawson) 700, Piso 6",38.0,,1 dorm.,1.0,,Almagro,600000.0,15789.473684210527,0,Compact and budget-friendly
+"Almagro, Capital Federal",480000.0,ARS,80000.0,"Lambare 1100, Piso 13",44.0,,1 dorm.,,40.0,Almagro,480000.0,10909.09090909091,0,Compact and budget-friendly
+"Caballito, Capital Federal",390000.0,ARS,36000.0,Campichuelo 600,26.0,Monoam.,,1.0,,Caballito,390000.0,15000.0,0,Compact and budget-friendly
+"Caballito, Capital Federal",400000.0,ARS,120000.0,"Av. Honorio Pueyrredon 1200, Piso 3",20.0,,1 dorm.,1.0,,Caballito,400000.0,20000.0,2,Spacious and affordable
+"Congreso, Capital Federal",580000.0,ARS,116000.0,"Solís 600, Piso 5",45.0,,2 dorm.,,35.0,Congreso,580000.0,12888.888888888889,0,Compact and budget-friendly
+"Urquiza R, Villa Urquiza",500000.0,ARS,95000.0,"Galván 3200, Piso 1",38.0,,,1.0,3.0,Villa Urquiza,500000.0,13157.894736842105,0,Compact and budget-friendly
+"Belgrano, Capital Federal",1200.0,USD,275000.0,VIRREY LORETO al 1500,58.0,,2 dorm.,,5.0,Belgrano,1370400.0,23627.58620689655,3,High price per m²
+"Villa Urquiza, Capital Federal",550000.0,ARS,145000.0,"AITOLAGUIRRE 2200, Piso 3",39.0,,,1.0,8.0,Villa Urquiza,550000.0,14102.564102564103,0,Compact and budget-friendly
+"Nuñez, Capital Federal",500000.0,ARS,102000.0,Franklin D Roosevelt 2900,34.0,Excelente,,,,Nuñez,500000.0,14705.882352941177,0,Compact and budget-friendly
+"Recoleta, Barrio Norte",450000.0,ARS,97600.0,"Arenales 1800, Piso 3",43.0,,1 dorm.,,45.0,Recoleta,450000.0,10465.116279069767,0,Compact and budget-friendly
+"Barrio Norte, Capital Federal",1000000.0,ARS,195000.0,"Sánchez De Bustamante 2300, Piso 8",75.0,,2 dorm.,,20.0,Barrio Norte,1000000.0,13333.333333333334,1,Exclusive premium
+"Belgrano, Capital Federal",550000.0,ARS,98000.0,"José Hernández 2300, Piso 2",38.0,Excelente,,,,Belgrano,550000.0,14473.684210526315,0,Compact and budget-friendly
+"Parque Las Heras, Barrio Norte",680000.0,ARS,107000.0,"Juncal 2600, Piso 7",50.0,,2 dorm.,,35.0,Barrio Norte,680000.0,13600.0,0,Compact and budget-friendly
+"Villa Urquiza, Capital Federal",450000.0,ARS,119000.0,"Cullen 4800, Piso 9",33.0,Monoam.,,1.0,,Villa Urquiza,450000.0,13636.363636363636,0,Compact and budget-friendly
+"Urquiza R, Villa Urquiza",880000.0,ARS,220000.0,"CAPDEVILA 2700, Piso 2",64.0,,2 dorm.,,25.0,Villa Urquiza,880000.0,13750.0,1,Exclusive premium
+"Belgrano Barrancas, Belgrano",1500000.0,ARS,390000.0,Avenida Luis María Campos 1500,85.0,,2 dorm.,,45.0,Belgrano,1500000.0,17647.058823529413,3,High price per m²
+"Palermo, Capital Federal",650000.0,ARS,140000.0,"Paraguay 4200, Piso 7",45.0,,,1.0,6.0,Palermo,650000.0,14444.444444444445,2,Spacious and affordable
+"Once, Capital Federal",550.0,USD,179000.0,"Presidente Peron 2700, Piso 1",77.0,,3 dorm.,,70.0,Once,628100.0,8157.142857142857,1,Exclusive premium
+"Almagro Sur, Almagro",600000.0,ARS,60000.0,"Don Bosco 3700, Piso 10",43.0,,1 dorm.,,50.0,Almagro,600000.0,13953.488372093023,0,Compact and budget-friendly
+"Villa Pueyrredon, Capital Federal",600000.0,ARS,80000.0,"Gabriela Mistral 2700, Piso 4",44.0,,1 dorm.,,10.0,Villa Pueyrredon,600000.0,13636.363636363636,0,Compact and budget-friendly
+"Villa Pueyrredon, Capital Federal",360000.0,ARS,80000.0,Vallejos 3200,30.0,Muy Bueno,,,8.0,Villa Pueyrredon,360000.0,12000.0,0,Compact and budget-friendly
+"Barrio Norte, Capital Federal",440000.0,ARS,71000.0,"Paraguay 2400, Piso 6",34.0,,1 dorm.,,45.0,Barrio Norte,440000.0,12941.176470588236,0,Compact and budget-friendly
+"Palermo, Capital Federal",750000.0,ARS,120000.0,"Uriarte 2100, Piso 4",60.0,,2 dorm.,,40.0,Palermo,750000.0,12500.0,1,Exclusive premium
+"Belgrano, Capital Federal",500000.0,ARS,80000.0,"Av Cramer 2500, Piso 6",32.0,,,1.0,9.0,Belgrano,500000.0,15625.0,0,Compact and budget-friendly
+"Caballito, Capital Federal",1500000.0,ARS,210000.0,Chaco 100,115.0,,4 dorm.,,50.0,Caballito,1500000.0,13043.478260869566,1,Exclusive premium
+"Barrio Norte, Capital Federal",1100000.0,ARS,300000.0,"Libertad 1600, Piso 1",75.0,,2 dorm.,,25.0,Barrio Norte,1100000.0,14666.666666666666,1,Exclusive premium
+"Villa Urquiza, Capital Federal",950000.0,ARS,240000.0,Fernandez Blanco 2300,50.0,,2 dorm.,,25.0,Villa Urquiza,950000.0,19000.0,2,Spacious and affordable
+"Barrio Norte, Capital Federal",750000.0,ARS,150000.0,LARREA Y AV. SANTA FE 2°,78.0,,2 dorm.,,40.0,Barrio Norte,750000.0,9615.384615384615,1,Exclusive premium
+"San Telmo, Capital Federal",500.0,USD,100000.0,"Chacabuco 1000, Piso 1",34.0,,,1.0,12.0,San Telmo,571000.0,16794.117647058825,2,Spacious and affordable
+"Nuñez, Capital Federal",650000.0,ARS,130000.0,"Arcos 2800, Piso 6",36.0,,1 dorm.,,30.0,Nuñez,650000.0,18055.555555555555,2,Spacious and affordable
+"Palermo, Capital Federal",500000.0,ARS,247000.0,MALABIA al 2200 2°,37.0,,,1.0,40.0,Palermo,500000.0,13513.513513513513,1,Exclusive premium
+"Palermo, Capital Federal",400000.0,ARS,124631.0,GASCON Y AV. CORDOBA 2°,38.0,,,1.0,40.0,Palermo,400000.0,10526.315789473685,0,Compact and budget-friendly
+"Caballito, Capital Federal",700000.0,ARS,80000.0,J. M. Moreno al 100,56.0,,1 dorm.,,45.0,Caballito,700000.0,12500.0,0,Compact and budget-friendly
+"Barrio Norte, Capital Federal",750000.0,ARS,120000.0,"Charcas 2900, Piso PB",60.0,,1 dorm.,,50.0,Barrio Norte,750000.0,12500.0,1,Exclusive premium
+"Barrio Norte, Capital Federal",500000.0,ARS,110000.0,"Billinghurst 2300, Piso 2",38.0,,1 dorm.,,40.0,Barrio Norte,500000.0,13157.894736842105,0,Compact and budget-friendly
+"Barrio Norte, Capital Federal",340000.0,ARS,113045.0,ECUADOR al 1100 6°,20.0,,,1.0,40.0,Barrio Norte,340000.0,17000.0,0,Compact and budget-friendly
+"Villa Crespo, Capital Federal",520000.0,ARS,3000.0,"Malabia 200, Piso 1",35.0,Bueno,,,50.0,Villa Crespo,520000.0,14857.142857142857,0,Compact and budget-friendly
+"Chacarita, Capital Federal",800000.0,ARS,180000.0,"Jorge Newbery 3900, Piso 7",60.0,,2 dorm.,,35.0,Chacarita,800000.0,13333.333333333334,1,Exclusive premium
+"Chacarita, Capital Federal",500000.0,ARS,64000.0,"Avenida Corrientes 6300, Piso 3",30.0,,,1.0,6.0,Chacarita,500000.0,16666.666666666668,0,Compact and budget-friendly
+"Villa Crespo, Capital Federal",550000.0,ARS,135000.0,"Lavalleja 100, Piso 1",39.0,,1 dorm.,,40.0,Villa Crespo,550000.0,14102.564102564103,0,Compact and budget-friendly
+"Nuñez, Capital Federal",630000.0,ARS,200000.0,"Paroissien 1600, Piso 1",40.0,,,1.0,3.0,Nuñez,630000.0,15750.0,2,Spacious and affordable
+"Barrio Norte, Capital Federal",300000.0,ARS,68000.0,AV. SANTA FE Y AV. PUEYRREDON 4°,28.0,,,1.0,40.0,Barrio Norte,300000.0,10714.285714285714,0,Compact and budget-friendly
+"Villa Crespo, Capital Federal",400000.0,ARS,122877.0,THAMES al 600 7°,29.0,,,1.0,40.0,Villa Crespo,400000.0,13793.103448275862,0,Compact and budget-friendly
+"Palermo, Capital Federal",400000.0,ARS,89500.0,BULNES al 1600 4°,34.0,,1 dorm.,,40.0,Palermo,400000.0,11764.70588235294,0,Compact and budget-friendly
+"Recoleta, Barrio Norte",490000.0,ARS,65000.0,AYACUCHO al 1400 3°,35.0,,1 dorm.,,40.0,Recoleta,490000.0,14000.0,0,Compact and budget-friendly
+"Belgrano R, Belgrano",1900.0,USD,360000.0,Conesa 2155 2 A,140.0,,2 dorm.,,25.0,Belgrano,2169800.0,15498.57142857143,3,High price per m²
+"Urquiza R, Villa Urquiza",750000.0,ARS,130000.0,Donado al 2300,35.0,A Estrenar,1 dorm.,,,Villa Urquiza,750000.0,21428.571428571428,2,Spacious and affordable
+"Palermo, Capital Federal",490000.0,ARS,160000.0,Armenia 1000,38.0,,1 dorm.,,40.0,Palermo,490000.0,12894.736842105263,0,Compact and budget-friendly
+"Palermo Chico, Palermo",900000.0,ARS,145000.0,Castex 3300,53.0,,2 dorm.,,50.0,Palermo,900000.0,16981.132075471698,2,Spacious and affordable
+"Caballito, Capital Federal",700000.0,ARS,122000.0,"Avenida José María Moreno 200, Piso 5",66.0,,2 dorm.,,60.0,Caballito,700000.0,10606.060606060606,1,Exclusive premium
+"Flores Norte, Flores",625000.0,ARS,150000.0,"Avenida Avellaneda 2700, Piso 4",53.0,,2 dorm.,,50.0,Flores,625000.0,11792.452830188678,1,Exclusive premium
+"Barrio Norte, Capital Federal",1000000.0,ARS,300000.0,"Arenales 2500, Piso 6",90.0,,3 dorm.,,50.0,Barrio Norte,1000000.0,11111.111111111111,1,Exclusive premium
+"Villa del Parque, Capital Federal",950000.0,ARS,180000.0,"Nazarre 2600, Piso 5",60.0,,2 dorm.,,12.0,Villa del Parque,950000.0,15833.333333333334,2,Spacious and affordable
+"Almagro Norte, Almagro",520000.0,ARS,140000.0,"Tucumán 3700, Piso 9",32.0,,1 dorm.,,39.0,Almagro,520000.0,16250.0,2,Spacious and affordable
+"Urquiza R, Villa Urquiza",1700000.0,ARS,365000.0,"Avenida Olazábal 5000, Piso 8",75.0,,3 dorm.,,20.0,Villa Urquiza,1700000.0,22666.666666666668,3,High price per m²
+"Belgrano R, Belgrano",800000.0,ARS,200000.0,"Av Crámer 1900, Piso 6",60.0,,2 dorm.,,60.0,Belgrano,800000.0,13333.333333333334,1,Exclusive premium
+"Monserrat, Centro",450000.0,ARS,59000.0,Av. Belgrano al 1200,33.0,A Estrenar,,1.0,,Monserrat,450000.0,13636.363636363636,0,Compact and budget-friendly
+"Congreso, Capital Federal",900000.0,ARS,150000.0,"MEXICO 1900, Piso 4",71.0,,2 dorm.,,7.0,Congreso,900000.0,12676.05633802817,1,Exclusive premium
+"Barrio Norte, Capital Federal",750000.0,ARS,120000.0,"Uriarte 2100, Piso 4",60.0,,2 dorm.,,40.0,Barrio Norte,750000.0,12500.0,1,Exclusive premium
+"Tribunales, Centro",550000.0,ARS,155000.0,"Tucuman al 1400, piso 6°",54.0,,2 dorm.,,45.0,Tribunales,550000.0,10185.185185185184,1,Exclusive premium
+"Caballito Sur, Caballito",620000.0,ARS,138000.0,"Benjamin Viel 400, Piso 2",40.0,,1 dorm.,1.0,,Caballito,620000.0,15500.0,2,Spacious and affordable
+"Palermo, Capital Federal",580000.0,ARS,125000.0,"Malabia 2300, Piso PB",44.0,,1 dorm.,,78.0,Palermo,580000.0,13181.818181818182,0,Compact and budget-friendly
+"Belgrano R, Belgrano",2200000.0,ARS,430000.0,"La Pampa 3000, Piso 8",130.0,,3 dorm.,,15.0,Belgrano,2200000.0,16923.076923076922,3,High price per m²
+"Botanico, Palermo",600000.0,ARS,150000.0,"REPUBLICA ARABE SIRIA 3200, Piso 2",37.0,,1 dorm.,,50.0,Palermo,600000.0,16216.216216216217,2,Spacious and affordable
+"Villa del Parque, Capital Federal",400000.0,ARS,60000.0,Nazca al 3100,51.0,,1 dorm.,,35.0,Villa del Parque,400000.0,7843.137254901961,0,Compact and budget-friendly
+"Palermo, Capital Federal",550000.0,ARS,120000.0,Mario Bravo al 1000,53.0,,,1.0,45.0,Palermo,550000.0,10377.358490566037,0,Compact and budget-friendly
+"Palermo, Capital Federal",650000.0,ARS,156378.0,MALABIA al 2200 6°,58.0,,2 dorm.,,40.0,Palermo,650000.0,11206.896551724138,1,Exclusive premium
+"Palermo, Capital Federal",790000.0,ARS,330000.0,GUEMES al 4100 14°,80.0,,2 dorm.,,40.0,Palermo,790000.0,9875.0,1,Exclusive premium
+"Urquiza R, Villa Urquiza",950000.0,ARS,200000.0,"Ceretti 2600, Piso 5",61.0,A Estrenar,2 dorm.,,,Villa Urquiza,950000.0,15573.77049180328,2,Spacious and affordable
+"Caballito Sur, Caballito",550000.0,ARS,111000.0,"Muñiz 500, Piso 10",37.0,A Estrenar,,1.0,,Caballito,550000.0,14864.864864864865,0,Compact and budget-friendly
+"Congreso, Capital Federal",420000.0,ARS,109000.0,"Riobamba 400, Piso 7",32.0,,,1.0,45.0,Congreso,420000.0,13125.0,0,Compact and budget-friendly
+"Colegiales, Capital Federal",420000.0,ARS,65000.0,TEODORO GARCIA al 2800,36.0,,1 dorm.,,40.0,Colegiales,420000.0,11666.666666666666,0,Compact and budget-friendly
+"Belgrano, Capital Federal",700000.0,ARS,150000.0,"Franklin Delano Roosevelt 2300, Piso 5",50.0,,2 dorm.,,35.0,Belgrano,700000.0,14000.0,1,Exclusive premium
+"Belgrano Chico, Belgrano",850000.0,ARS,100000.0,"La Pampa 700, Piso 5",46.0,,,1.0,6.0,Belgrano,850000.0,18478.260869565216,2,Spacious and affordable
+"Urquiza R, Villa Urquiza",750000.0,ARS,170000.0,Burela 2100,41.0,,1 dorm.,,30.0,Villa Urquiza,750000.0,18292.682926829268,2,Spacious and affordable
+"Urquiza R, Villa Urquiza",900000.0,ARS,170000.0,Av. Olazabal 4800,42.0,,1 dorm.,,15.0,Villa Urquiza,900000.0,21428.571428571428,2,Spacious and affordable
+"Recoleta, Barrio Norte",420000.0,ARS,107000.0,"Beruti 2300, piso 7",27.0,Monoam.,,,,Recoleta,420000.0,15555.555555555555,0,Compact and budget-friendly
+"Palermo, Capital Federal",530000.0,ARS,175000.0,"José Antonio Cabrera 3000, Piso 1",35.0,Monoam.,,1.0,,Palermo,530000.0,15142.857142857143,2,Spacious and affordable
+"Villa Urquiza, Capital Federal",450000.0,ARS,102000.0,"Juramento 5000, Piso 6",36.0,Monoam.,,,10.0,Villa Urquiza,450000.0,12500.0,0,Compact and budget-friendly
+"San Cristobal, Capital Federal",400000.0,ARS,90000.0,La Rioja 1200,35.0,,1 dorm.,,45.0,San Cristóbal,400000.0,11428.57142857143,0,Compact and budget-friendly
+"Belgrano, Capital Federal",700000.0,ARS,53270.0,CRAMER al 1900 9°,39.0,,1 dorm.,,40.0,Belgrano,700000.0,17948.71794871795,2,Spacious and affordable
+"San Cristobal, Capital Federal",400000.0,ARS,90000.0,Sarandí al 1200,40.0,,1 dorm.,,40.0,San Cristóbal,400000.0,10000.0,0,Compact and budget-friendly
+"Villa Urquiza, Capital Federal",500.0,USD,188500.0,"Donado 1900, Piso 4",52.0,Monoam.,,,8.0,Villa Urquiza,571000.0,10980.76923076923,1,Exclusive premium
+"Caballito, Capital Federal",400000.0,ARS,80000.0,"NEUQUEN 1800, Piso 1",35.0,,1 dorm.,,,Caballito,400000.0,11428.57142857143,0,Compact and budget-friendly
+"Palermo, Capital Federal",490000.0,ARS,145000.0,Güemes al 3500,38.0,,1 dorm.,,50.0,Palermo,490000.0,12894.736842105263,0,Compact and budget-friendly
+"Almagro, Capital Federal",450000.0,ARS,60000.0,BULNES 100,22.0,,,1.0,45.0,Almagro,450000.0,20454.545454545456,0,Compact and budget-friendly
+"Villa Devoto, Capital Federal",900.0,USD,300000.0,Avenida Lastra 4200,47.0,A Estrenar,1 dorm.,,,Villa Devoto,1027800.0,21868.08510638298,3,High price per m²
+"Botanico, Palermo",1400.0,USD,406000.0,"Juan Maria Gutierrez 3900, Piso 9",70.0,,2 dorm.,,20.0,Palermo,1598800.0,22840.0,3,High price per m²
+"San Cristobal, Capital Federal",400000.0,ARS,90000.0,"Solis 700, Piso Pb",23.0,Monoam.,,1.0,,San Cristóbal,400000.0,17391.304347826088,0,Compact and budget-friendly
+"Recoleta, Barrio Norte",420000.0,ARS,120000.0,"Uriburu 1400, Piso 1",30.0,,,1.0,40.0,Recoleta,420000.0,14000.0,0,Compact and budget-friendly
+"Almagro Norte, Almagro",500000.0,ARS,95000.0,C Castillo 100,37.0,Monoam.,,,5.0,Almagro,500000.0,13513.513513513513,0,Compact and budget-friendly
+"Belgrano, Capital Federal",1500000.0,ARS,320300.0,"Crámer 1700, Piso 6",75.0,,2 dorm.,,2.0,Belgrano,1500000.0,20000.0,3,High price per m²
+"Palermo Soho, Palermo",1190000.0,ARS,225000.0,"Paraguay 4200, Piso 7",70.0,,2 dorm.,,16.0,Palermo,1190000.0,17000.0,3,High price per m²
+"Recoleta, Barrio Norte",350000.0,ARS,131600.0,AGUERO al 2200 3°,24.0,,,1.0,40.0,Recoleta,350000.0,14583.333333333334,0,Compact and budget-friendly
+"Caballito, Capital Federal",450000.0,ARS,110000.0,"Cnel. Ramon L. Falcon 1500, Piso 4",45.0,,1 dorm.,,45.0,Caballito,450000.0,10000.0,0,Compact and budget-friendly
+"Parque Chacabuco, Capital Federal",570000.0,ARS,110000.0,"Av Del Barco Centenera 1000, Piso 8",45.0,,2 dorm.,,30.0,Parque Chacabuco,570000.0,12666.666666666666,0,Compact and budget-friendly
+"Villa Devoto, Capital Federal",400000.0,ARS,170000.0,Llavallol 4600,33.0,,,1.0,12.0,Villa Devoto,400000.0,12121.212121212122,0,Compact and budget-friendly
+"Belgrano C, Belgrano",680000.0,ARS,142000.0,"Sucre 1500, Piso 2",42.0,,1 dorm.,,25.0,Belgrano,680000.0,16190.47619047619,2,Spacious and affordable
+"Balvanera, Capital Federal",380000.0,ARS,88000.0,"Sarmiento 1900, Piso 2",40.0,Frente,,,,Balvanera,380000.0,9500.0,0,Compact and budget-friendly
+"Flores Norte, Flores",440000.0,ARS,180000.0,"BOYACA 620 , Piso 8",36.0,,1 dorm.,,17.0,Flores,440000.0,12222.222222222223,1,Exclusive premium
+"Nuñez, Capital Federal",550000.0,ARS,97000.0,"Quesada 2600, Piso 5",35.0,,1 dorm.,,50.0,Nuñez,550000.0,15714.285714285714,0,Compact and budget-friendly
+"Parque Patricios, Capital Federal",700000.0,ARS,135000.0,"Raodeau 3300, Piso 2",56.0,,2 dorm.,,10.0,Parque Patricios,700000.0,12500.0,1,Exclusive premium
+"Balvanera, Capital Federal",600000.0,ARS,105000.0,"ANCHORENA 500, Piso 3",35.0,,1 dorm.,,2009.0,Balvanera,600000.0,17142.85714285714,2,Spacious and affordable
+"Monserrat, Centro",430000.0,ARS,80000.0,Venezuela al 900,35.0,,1 dorm.,,3.0,Monserrat,430000.0,12285.714285714286,0,Compact and budget-friendly
+"Belgrano, Capital Federal",1200000.0,ARS,220000.0,Av. Cabildo al 1200,92.0,,3 dorm.,,50.0,Belgrano,1200000.0,13043.478260869566,1,Exclusive premium
+"Villa Luro, Capital Federal",455000.0,ARS,19100.0,"Jose M Cortina 100, Piso 2",41.0,,1 dorm.,,40.0,Villa Luro,455000.0,11097.560975609756,0,Compact and budget-friendly
+"Belgrano, Capital Federal",950000.0,ARS,235000.0,Husares 2200,44.0,,1 dorm.,,15.0,Belgrano,950000.0,21590.909090909092,2,Spacious and affordable
+"Recoleta, Barrio Norte",700.0,USD,150000.0,Paraguay al 3000,39.0,,1 dorm.,,5.0,Recoleta,799400.0,20497.4358974359,2,Spacious and affordable
+"Belgrano, Capital Federal",850000.0,ARS,420000.0,José Hernández 2200,57.0,,1 dorm.,1.0,,Belgrano,850000.0,14912.280701754386,1,Exclusive premium
+"Belgrano R, Belgrano",700000.0,ARS,145000.0,"LA PAMPA 2900, Piso 3",38.0,,1 dorm.,,20.0,Belgrano,700000.0,18421.052631578947,2,Spacious and affordable
+"Las Cañitas, Palermo",2500.0,USD,500000.0,Olleros al 1600,146.0,,2 dorm.,,5.0,Palermo,2855000.0,19554.794520547945,3,High price per m²
+"Belgrano, Capital Federal",1350000.0,ARS,200000.0,La Pampa 1100,58.0,,2 dorm.,,25.0,Belgrano,1350000.0,23275.862068965518,3,High price per m²
+"Villa Devoto, Capital Federal",650000.0,ARS,160000.0,"Av. Francisco Beiró 4200, Piso 9",50.0,,1 dorm.,,14.0,Villa Devoto,650000.0,13000.0,1,Exclusive premium
+"Palermo, Capital Federal",1200000.0,ARS,303200.0,"ARAOZ 2900, Piso 6",92.0,,3 dorm.,,50.0,Palermo,1200000.0,13043.478260869566,1,Exclusive premium
+"Palermo Viejo, Palermo",1500.0,USD,400000.0,"Guatemala 4500, Piso 8",72.0,,2 dorm.,,20.0,Palermo,1713000.0,23791.666666666668,3,High price per m²
+"Parque Chacabuco, Capital Federal",470000.0,ARS,98000.0,"Emilio Mitre 900, Piso 5",38.0,,1 dorm.,1.0,,Parque Chacabuco,470000.0,12368.421052631578,0,Compact and budget-friendly
+"Villa Crespo, Capital Federal",430000.0,ARS,120000.0,"Padilla 700, Piso 9",35.0,,,1.0,20.0,Villa Crespo,430000.0,12285.714285714286,0,Compact and budget-friendly
+"Paternal, Capital Federal",520000.0,ARS,133000.0,"12 De Octubre 1800, Piso 7",47.0,,1 dorm.,,15.0,La Paternal,520000.0,11063.829787234043,0,Compact and budget-friendly
+"Urquiza R, Villa Urquiza",800000.0,ARS,120000.0,"Cullen 4900, Piso 4",46.0,,1 dorm.,,5.0,Villa Urquiza,800000.0,17391.304347826088,2,Spacious and affordable
+"Caballito, Capital Federal",900000.0,ARS,280000.0,Av La Plata 200,68.0,,2 dorm.,,27.0,Caballito,900000.0,13235.29411764706,1,Exclusive premium
+"Recoleta, Barrio Norte",700000.0,ARS,225000.0,"Callao 1200, Piso 6",33.0,Monoam.,,1.0,,Recoleta,700000.0,21212.121212121212,2,Spacious and affordable
+"Belgrano R, Belgrano",1890000.0,ARS,437000.0,"LA PAMPA 3000, Piso 8",140.0,,3 dorm.,,40.0,Belgrano,1890000.0,13500.0,3,High price per m²
+"Urquiza R, Villa Urquiza",700000.0,ARS,160000.0,"Juramento 5200, Piso 5",40.0,,1 dorm.,,6.0,Villa Urquiza,700000.0,17500.0,2,Spacious and affordable
+"Barrio Norte, Capital Federal",470000.0,ARS,80000.0,"Uriburu 1000, Piso 1",30.0,,,1.0,45.0,Barrio Norte,470000.0,15666.666666666666,0,Compact and budget-friendly
+"Belgrano, Capital Federal",1700000.0,ARS,450000.0,O'Higgins 1900,90.0,,2 dorm.,,35.0,Belgrano,1700000.0,18888.88888888889,3,High price per m²
+"Recoleta, Barrio Norte",450000.0,ARS,90000.0,"POSADAS 1500, Piso 9",26.0,,1 dorm.,,40.0,Recoleta,450000.0,17307.69230769231,0,Compact and budget-friendly
+"Flores, Capital Federal",500000.0,ARS,95000.0,Culpina 300,36.0,,1 dorm.,,55.0,Flores,500000.0,13888.888888888889,0,Compact and budget-friendly
+"Caballito, Capital Federal",650000.0,ARS,80000.0,"Thompson 800, Piso 5",43.0,,1 dorm.,,10.0,Caballito,650000.0,15116.279069767443,0,Compact and budget-friendly
+"Colegiales, Capital Federal",900000.0,ARS,145000.0,"CRAMER AVDA 300, Piso -",68.0,,3 dorm.,,45.0,Colegiales,900000.0,13235.29411764706,1,Exclusive premium
+"Barrio Norte, Capital Federal",280000.0,ARS,144870.0,AZCUENAGA al 1300 3°,25.0,,,1.0,40.0,Barrio Norte,280000.0,11200.0,0,Compact and budget-friendly
+"Recoleta, Barrio Norte",350000.0,ARS,120000.0,"PEÑA 2000, Piso 2",25.0,,,1.0,49.0,Recoleta,350000.0,14000.0,0,Compact and budget-friendly
+"Flores, Capital Federal",750000.0,ARS,85000.0,"Coronel Ramón Lorenzo Falcón 2000, Piso 12",48.0,,1 dorm.,,40.0,Flores,750000.0,15625.0,2,Spacious and affordable
+"San Cristobal, Capital Federal",490000.0,ARS,90000.0,HUMBERTO PRIMO 2300,26.0,Lateral,,,,San Cristóbal,490000.0,18846.153846153848,2,Spacious and affordable
+"Paternal, Capital Federal",730000.0,ARS,170000.0,"Alejandro Margariño Cervantes 1800, Piso 19",60.0,,2 dorm.,,15.0,La Paternal,730000.0,12166.666666666666,1,Exclusive premium
+"Floresta, Capital Federal",480000.0,ARS,120000.0,Av rivadavia 8600,48.0,,1 dorm.,,50.0,Flores,480000.0,10000.0,0,Compact and budget-friendly
+"Villa del Parque, Capital Federal",850000.0,ARS,220000.0,"BAIGORRIA 2900, Piso 1",90.0,,3 dorm.,2.0,,Villa del Parque,850000.0,9444.444444444445,1,Exclusive premium
+"Flores Norte, Flores",500000.0,ARS,85000.0,"Jose Antonio Paez 2100, Piso 2",36.0,,,1.0,4.0,Flores,500000.0,13888.888888888889,0,Compact and budget-friendly
+"Villa del Parque, Capital Federal",500000.0,ARS,25000.0,"Adolfo P Carranza 2700, Piso 5°",38.0,,1 dorm.,,,Villa del Parque,500000.0,13157.894736842105,0,Compact and budget-friendly
+"Parque Rivadavia, Caballito",1200000.0,ARS,221000.0,Formosa al 200,86.0,,3 dorm.,,30.0,Caballito,1200000.0,13953.488372093023,1,Exclusive premium
+"Almagro Norte, Almagro",450000.0,ARS,95000.0,"Av RIVADAVIA 4200, Piso 7",40.0,,1 dorm.,,60.0,Almagro,450000.0,11250.0,0,Compact and budget-friendly
+"San Telmo, Capital Federal",550000.0,ARS,100000.0,"Humberto Primero 900, Piso 5",30.0,,,1.0,12.0,San Telmo,550000.0,18333.333333333332,2,Spacious and affordable
+"Congreso, Capital Federal",380000.0,ARS,80000.0,"Av. de Mayo 1300, Piso 8",28.0,Excelente,,,,Congreso,380000.0,13571.42857142857,0,Compact and budget-friendly
+"Belgrano, Capital Federal",350000.0,ARS,140000.0,"Amenabar 2400, Piso 1",27.0,,,1.0,22.0,Belgrano,350000.0,12962.962962962964,0,Compact and budget-friendly
+"Palermo, Capital Federal",700.0,USD,150000.0,Paraguay al 3000,40.0,,1 dorm.,,5.0,Palermo,799400.0,19985.0,2,Spacious and affordable

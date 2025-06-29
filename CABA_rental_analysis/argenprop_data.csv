@@ -1,0 +1,401 @@
+﻿Título,Precio,Moneda,Expensas,Ubicación,Superficie,Estado,Ambientes,Baños,Antigüedad,Barrio
+"Caballito, Capital Federal",470000,ARS,74961,"Rojas 300, Piso 3",31.0,,1 dorm.,,46,Caballito
+"Caballito, Capital Federal",450000,ARS,84121,"Rojas 400, Piso 4",33.0,,1 dorm.,,45,Caballito
+"Recoleta, Barrio Norte",650000,ARS,96180,"Cordoba 2600, Piso 8",47.0,,2 dorm.,,40,Recoleta
+"Recoleta, Barrio Norte",590000,ARS,105000,Doctor Tomás Manuel De Anchorena 1300,36.0,A Estrenar,,1,,Recoleta
+"Recoleta, Barrio Norte",500000,ARS,105000,"JUNCAL 1100, Piso 4",35.0,,1 dorm.,,60,Recoleta
+"Barrio Norte, Capital Federal",550000,ARS,,"*RESERVADO * 2000, Piso 3",39.0,,1 dorm.,,40,Barrio Norte
+"Caballito, Capital Federal",1000000,ARS,230000,"J Bonifacio 600, Piso 1",70.0,,2 dorm.,,10,Caballito
+"Caballito Sur, Caballito",1300000,ARS,320000,"DOBLAS 900, Piso 21",70.0,,2 dorm.,,4,Caballito
+"Palermo, Capital Federal",990000,ARS,280000,"Godoy Cruz 2900, Piso 10",85.0,,3 dorm.,,49,Palermo
+"Las Cañitas, Palermo",1100,USD,227000,Arce al 200,50.0,,1 dorm.,,24,Palermo
+"Palermo, Capital Federal",950000,ARS,250000,"JUNCAL 2800, Piso 5",75.0,,3 dorm.,,40,Palermo
+"Caballito, Capital Federal",450000,ARS,61000,"Juan Bautista Alberdi 800, Piso 4",33.0,,1 dorm.,,40,Caballito
+"Recoleta, Barrio Norte",590,USD,,"Vicente Lopez 1900, Piso 2",32.0,Contra frente,,,,Recoleta
+"Caballito, Capital Federal",900000,ARS,90000,"Aranguren 1900, Piso 9",50.0,A Estrenar,1 dorm.,,,Caballito
+"Flores, Capital Federal",400000,ARS,72180,"Alberdi 2800, Piso 3",27.0,,,1,5,Flores
+"Flores, Capital Federal",650000,ARS,140000,"Argerich 1000, Piso 7",60.0,,2 dorm.,,40,Flores
+"Cid Campeador, Caballito",650000,ARS,90000,"AV. ACOYTE 700, Piso 2",,A Estrenar,1 dorm.,1,,Caballito
+"Caballito, Capital Federal",870000,ARS,214453,"Hidalgo 300, Piso 6",55.0,,2 dorm.,,15,Caballito
+"Recoleta, Barrio Norte",550000,ARS,170000,"Av santa fe 2000, Piso 1",50.0,,1 dorm.,,50,Recoleta
+"Palermo, Capital Federal",630000,ARS,,Avenida Luis María Campos 300,45.0,,1 dorm.,,,Palermo
+"Recoleta, Barrio Norte",800000,ARS,177000,Laprida 1200,52.0,,2 dorm.,,50,Recoleta
+"Caballito Sur, Caballito",780000,ARS,137000,Victor Martínez 100,65.0,,2 dorm.,,50,Caballito
+"Flores, Capital Federal",650000,ARS,190000,"YERBAL 2100, Piso 1",55.0,,1 dorm.,,10,Flores
+"Botanico, Palermo",950000,ARS,182000,"Julián Alvarez 2500, Piso 4",72.0,,2 dorm.,,50,Palermo
+"Caballito Sur, Caballito",890000,ARS,200000,Cipriano Miro 500,47.0,,1 dorm.,,14,Caballito
+"Recoleta, Barrio Norte",330000,ARS,140000,URIBURU 700,,Excelente,1 dorm.,,40,Recoleta
+"Recoleta, Barrio Norte",550000,ARS,150000,Paraguay 2300,42.0,,1 dorm.,,38,Recoleta
+"Recoleta, Barrio Norte",450000,ARS,80000,Juncal 1800,,Muy Bueno,1 dorm.,1,,Recoleta
+"Primera Junta, Caballito",650000,ARS,100000,"Bogota 700, Piso 1",40.0,,1 dorm.,,8,Caballito
+"Palermo Hollywood, Palermo",750000,ARS,90000,"Dr E Ravignani 2000, Piso 7",34.0,,,1,3,Palermo
+"Recoleta, Barrio Norte",550000,ARS,150000,"Montevideo 1900, Piso 1",42.0,,1 dorm.,,,Recoleta
+"Villa Crespo, Capital Federal",450000,ARS,110000,Vera 1100,,,1 dorm.,1,30,Villa Crespo
+"Recoleta, Barrio Norte",500000,ARS,70000,Austria 2100,28.0,Monoam.,,,50,Recoleta
+"Barrio Norte, Capital Federal",400000,ARS,110000,Arenales 2800,,,1 dorm.,1,40,Barrio Norte
+"Villa Crespo, Capital Federal",750000,ARS,50000,"Loyola 400, Piso 1",48.0,,1 dorm.,,60,Villa Crespo
+"Caballito Norte, Caballito",450000,ARS,,"Martin de Gainza 700, Piso PB",31.0,,,1,10,Caballito
+"Caballito Sur, Caballito",680000,ARS,90000,"San José de Calasanz 700, Piso 1",40.0,,1 dorm.,,10,Caballito
+"Palermo, Capital Federal",390000,ARS,150000,"Gallo 900, Piso 1",,Muy Bueno,,,8,Palermo
+"Recoleta, Barrio Norte",490000,ARS,136000,Arenales 1100,32.0,,1 dorm.,1,,Recoleta
+"Barrio Norte, Capital Federal",500000,ARS,160000,"Arenales 3600, Piso PB",,,1 dorm.,1,,Barrio Norte
+"Palermo Soho, Palermo",430000,ARS,100000,"Thames 1800, Piso 3",40.0,,1 dorm.,,60,Palermo
+"Recoleta, Barrio Norte",1040,USD,,French al 2900,37.0,A Estrenar,1 dorm.,,,Recoleta
+"Puerto Madero, Centro",3750,USD,1400000,Manuela Sáenz 400,220.0,,4 dorm.,,20,Puerto Madero
+"San Nicolás, Centro",490000,ARS,,"VIAMONTE 1300, Piso 4",45.0,,,1,8,San Nicolás
+"San Nicolás, Centro",430000,ARS,196000,"VIAMONTE 1300, Piso 2",33.0,,,1,8,San Nicolás
+"San Nicolás, Centro",,ARS,190000,"25 De Mayo 700, Piso 2",40.0,,1 dorm.,,50,San Nicolás
+"Barrio Norte, Capital Federal",790000,ARS,160000,"Av Gral Juan M De Pueyrredon 900, Piso 10",90.0,,2 dorm.,1,,Barrio Norte
+"Botanico, Palermo",850000,ARS,180000,"República de la India 2700, Piso 5",55.0,,2 dorm.,,60,Palermo
+"Palermo Hollywood, Palermo",550000,ARS,135000,Angel Justiniano Carranza 2200,37.0,,,1,8,Palermo
+"Caballito, Capital Federal",840000,ARS,110000,"F Senillosa 200, Piso PB",68.0,,2 dorm.,2,,Caballito
+"Recoleta, Barrio Norte",480000,ARS,72000,"Avenida Córdoba 1800, Piso 8",35.0,Monoam.,,1,,Recoleta
+"Belgrano, Capital Federal",590000,ARS,215000,Franklin Delano Roosevelt 3400,48.0,,1 dorm.,,20,Belgrano
+"Belgrano, Capital Federal",900000,ARS,114000,"Avenida Monroe 1500, Piso 5",54.0,,1 dorm.,,16,Belgrano
+"Belgrano, Capital Federal",850000,ARS,100000,"MIGUELETES 2300, Piso 3",46.0,A Estrenar,1 dorm.,,,Belgrano
+"Belgrano, Capital Federal",500000,ARS,290000,Ciudad de la Paz al 1900,37.0,,,1,15,Belgrano
+"Belgrano, Capital Federal",500000,ARS,90000,Ciudad de la Paz al 2700,23.0,,,1,7,Belgrano
+"Palermo Soho, Palermo",550000,ARS,175000,"Jose Luis Borges 2200, Piso 2",31.0,,,1,15,Palermo
+"Parque Rivadavia, Caballito",700000,ARS,206000,"Formosa 400, Piso 5",63.0,,2 dorm.,,30,Caballito
+"Caballito Sur, Caballito",580000,ARS,87000,Av. Juan B. Alberdi al 200,38.0,,1 dorm.,,40,Caballito
+"Palermo, Capital Federal",650000,ARS,250000,Av. Cabildo 100,52.0,,1 dorm.,1,,Palermo
+"Recoleta, Barrio Norte",280000,ARS,140000,Rodriguez Peña al 1000,22.0,,1 dorm.,,5,Recoleta
+"Recoleta, Barrio Norte",500000,ARS,85000,"French 2700, Piso 7",35.0,,1 dorm.,,60,Recoleta
+"Recoleta, Barrio Norte",450,USD,105000,"Guido 1900, Piso 7",24.0,,,1,60,Recoleta
+"Palermo, Capital Federal",1450000,ARS,434000,"Lafinur 2900, Piso 8",,,3 dorm.,2,50,Palermo
+"Palermo, Capital Federal",800000,ARS,140000,VIDT 1900,,,1 dorm.,1,,Palermo
+"Palermo Soho, Palermo",495000,ARS,100000,Gurruchaga al 2000,30.0,,1 dorm.,,35,Palermo
+"Recoleta, Barrio Norte",2400,USD,497000,Presidente José Evaristo Uriburu 1600,94.0,,2 dorm.,,50,Recoleta
+"Recoleta, Barrio Norte",700000,ARS,100000,Av Pueyrredon al 2400,31.0,,1 dorm.,,30,Recoleta
+"Palermo, Capital Federal",900000,ARS,190000,"Paraguay 3900, Piso 4",75.0,,2 dorm.,,50,Palermo
+"Palermo, Capital Federal",700000,ARS,205000,Juncal 4500,45.0,,1 dorm.,,20,Palermo
+"Parque Centenario, Capital Federal",850000,ARS,200000,"RAMOS MEJIA 900, Piso 7",64.0,,2 dorm.,,10,Parque Centenario
+"Parque Centenario, Capital Federal",470000,ARS,80000,Franklin 100,32.0,,,1,40,Parque Centenario
+"Recoleta, Barrio Norte",650000,ARS,200000,"Dr T De Anchorena 1100, Piso 1",43.0,,1 dorm.,,10,Recoleta
+"Palermo Hollywood, Palermo",690,USD,100000,"Angel Carranza 2300, Piso 2",52.0,,2 dorm.,,40,Palermo
+"Palermo Chico, Palermo",900,USD,200000,"Juan Francisco Seguí 3900, Piso 4",47.0,A Estrenar,,1,,Palermo
+"Botanico, Palermo",500000,ARS,100000,"Ugarteche 2800, Piso 6",33.0,,,1,70,Palermo
+"Palermo Soho, Palermo",600000,ARS,105000,Av. Santa Fe 4500,,,1 dorm.,1,,Palermo
+"Retiro, Centro",650000,ARS,125000,"Av. Cordoba 400, Piso 7",60.0,,1 dorm.,1,,Retiro
+"Flores, Capital Federal",890000,ARS,200000,"Avenida Rivadavia 6300, Piso 14",80.0,,3 dorm.,,50,Flores
+"Plaza San Martín, Barrio Norte",950000,ARS,280000,"Maipú 900, Piso 3",,,2 dorm.,2,,Barrio Norte
+"Villa Crespo, Capital Federal",700000,ARS,,Avda. Juan B. Justo 2500,,,2 dorm.,1,45,Villa Crespo
+"Palermo Viejo, Palermo",750,USD,150000,"Vidt 2100, Piso 2",60.0,A Estrenar,2 dorm.,,,Palermo
+"Palermo, Capital Federal",680000,ARS,155000,Godoy Cruz al 2900,54.0,A Estrenar,2 dorm.,,,Palermo
+"Barrio Norte, Capital Federal",750000,ARS,75000,"Av Santa Fe 2200, Piso 6",,,2 dorm.,1,,Barrio Norte
+"Plaza San Martín, Barrio Norte",950000,ARS,278000,"Esmeralda 1300, Piso 16",90.0,,3 dorm.,,60,Barrio Norte
+"Puerto Madero, Centro",3900,USD,1350000,Santa Maria del Puerto 5 Amb 2 cocheras - Azucena VIllaflor 300,200.0,,4 dorm.,,22,Puerto Madero
+"Barrio Norte, Capital Federal",1100000,ARS,398000,JOSE EVARISTO URIBURU Y AV. SANTA FE 1°,141.0,,3 dorm.,,40,Barrio Norte
+"Recoleta, Barrio Norte",650000,ARS,63000,"Avenida Pueyrredón 1000, Piso PB",44.0,,1 dorm.,1,,Recoleta
+"Parque Chas, Villa Urquiza",550,USD,90000,"Andonaegui 1200, Piso PB",,Monoam.,,1,,Villa Urquiza
+"Villa Urquiza, Capital Federal",500,USD,120000,Avenida Olazábal 4800,45.0,,1 dorm.,,10,Villa Urquiza
+"Villa Urquiza, Capital Federal",590000,ARS,215000,Franklin Delano Roosevelt 3400,48.0,,1 dorm.,,20,Villa Urquiza
+"Villa Urquiza, Capital Federal",700000,ARS,138000,"Tomas Le Breton 5000, Piso 7",43.0,,1 dorm.,,20,Villa Urquiza
+"Palermo, Capital Federal",1000000,ARS,134000,"Av. Santa Fe 3300, Piso 4",80.0,,2 dorm.,,45,Palermo
+"Barrio Norte, Capital Federal",880000,ARS,195000,"Av. Santa Fe 1900, Piso 3",57.0,,,1,20,Barrio Norte
+"Palermo Soho, Palermo",740000,ARS,175600,"Paraguay 4400, Piso 3",40.0,,1 dorm.,,17,Palermo
+"Palermo Hollywood, Palermo",950,USD,114000,"Av Santa Fe 4800, Piso Alt",64.0,,2 dorm.,,15,Palermo
+"Recoleta, Barrio Norte",1000,USD,200000,"Larrea 800, Piso PB",72.0,,3 dorm.,,50,Recoleta
+"Caballito Sur, Caballito",410000,ARS,64700,"Mendez De Andes 1900, Piso 5",37.0,,,1,2,Caballito
+"Caballito, Capital Federal",900000,ARS,150000,Riglos al 400,67.0,,3 dorm.,,50,Caballito
+"Tribunales, Centro",250000,ARS,,"Lavalle 1400, Piso 6",,,,,,Tribunales
+"Palermo, Capital Federal",500000,ARS,100000,Mario Bravo 1100,30.0,,1 dorm.,,20,Palermo
+"Belgrano, Capital Federal",700000,ARS,130000,"Mariscal Antonio José de Sucre 2700, Piso 14",48.0,,2 dorm.,,45,Belgrano
+"Belgrano, Capital Federal",2800000,ARS,700000,"Arcos 1600, Piso 7",140.0,,3 dorm.,,40,Belgrano
+"Villa Urquiza, Capital Federal",470000,ARS,105000,"AVENIDA MONROE 5600, Piso 4",36.0,,1 dorm.,,4,Villa Urquiza
+"Botanico, Palermo",1250000,ARS,160000,"Charcas 4300, Piso 4",76.0,,2 dorm.,,,Palermo
+"Palermo Hollywood, Palermo",500000,ARS,90000,Bonpland 1400,,Monoam.,,1,4,Palermo
+"Botanico, Palermo",750000,ARS,260000,Av raul scalabrini ortiz 3000,42.0,,,1,10,Palermo
+"Villa Urquiza, Capital Federal",800000,ARS,,"Aizpurua 2200, Piso 1",40.0,,1 dorm.,,6,Villa Urquiza
+"Palermo, Capital Federal",700000,ARS,230000,"Avenida Coronel Díaz 2100, Piso 1",52.0,,2 dorm.,,,Palermo
+"Barrio Norte, Capital Federal",1000,USD,354000,"AUSTRIA 2500, Piso 12",53.0,,1 dorm.,,15,Barrio Norte
+"Nuñez, Capital Federal",700000,ARS,132000,"J De Amenabar 3200, Piso 5",47.0,,1 dorm.,,15,Nuñez
+"Palermo, Capital Federal",500000,ARS,160000,"Jorge Luis Borges 2200, Piso 3",32.0,Monoam.,,1,,Palermo
+"Villa Urquiza, Capital Federal",700000,ARS,,"ALVAREZ THOMAS, AVDA. 2900, Piso 2",43.0,,1 dorm.,1,,Villa Urquiza
+"Nuñez, Capital Federal",600000,ARS,160000,NUÑEZ al 3400,45.0,,1 dorm.,,15,Nuñez
+"Belgrano C, Belgrano",1300000,ARS,300000,"VIDAL 2500, Piso 1",80.0,,3 dorm.,,15,Belgrano
+"Nuñez, Capital Federal",2300000,ARS,233000,"Av. Cabildo al 3400, Entre Juana Azurduy y Manuela Pedraza",165.0,A Estrenar,3 dorm.,,,Nuñez
+"Nuñez, Capital Federal",450000,ARS,,"RESERVADO 1700, Piso 9",24.0,,,1,20,Nuñez
+"Belgrano, Capital Federal",450000,ARS,105000,Virrey Loreto 2400,32.0,,1 dorm.,1,,Belgrano
+"Barrio Norte, Capital Federal",900000,ARS,202270,PARAGUAY Y AV. PUEYRREDON 7°,129.0,,3 dorm.,,40,Barrio Norte
+"Palermo, Capital Federal",515000,ARS,55000,"Billinghurst 1300, Piso 6",34.0,,,1,38,Palermo
+"Belgrano, Capital Federal",490000,ARS,144600,"Zabala 2400, Piso 1",38.0,,1 dorm.,,50,Belgrano
+"Palermo, Capital Federal",650,ARS,,Guise 1700,,,1 dorm.,1,,Palermo
+"Villa Urquiza, Capital Federal",650000,ARS,120000,"AV. DELANO FRANKLIN ROOSEVELT 5000, Piso 9",,,1 dorm.,1,25,Villa Urquiza
+"Belgrano, Capital Federal",650000,ARS,130000,"Mendoza 3200, Piso 2",,,1 dorm.,,40,Belgrano
+"Monserrat, Centro",600,USD,140000,"Virrey Cevallos 300, Piso 1",29.0,,,1,3,Monserrat
+"Monserrat, Centro",380000,ARS,220000,"México 1200, Piso 1",35.0,Monoam.,,1,,Monserrat
+"Retiro, Centro",600,USD,200000,Talcahuano 1200,,,2 dorm.,,50,Retiro
+"Palermo, Capital Federal",800000,ARS,223000,Gorriti al 3600,50.0,,1 dorm.,,11,Palermo
+"Retiro, Centro",500000,ARS,126000,Esmeralda al 900,35.0,,1 dorm.,,50,Retiro
+"Recoleta, Barrio Norte",600000,ARS,135000,Paraguay 1500,,,1 dorm.,,16,Recoleta
+"Belgrano R, Belgrano",980000,ARS,320000,"Ciudad De La Paz 1900, Piso 3",75.0,,2 dorm.,,30,Belgrano
+"Recoleta, Barrio Norte",750000,ARS,150000,Paraguay 1600,36.0,,1 dorm.,1,,Recoleta
+"Urquiza R, Villa Urquiza",700000,ARS,147000,"Nahuel Huapi 4900, Piso 1",50.0,,1 dorm.,,13,Villa Urquiza
+"Microcentro, Centro",400000,ARS,140000,Florida 800,30.0,,1 dorm.,1,,Microcentro
+"Belgrano, Capital Federal",1050000,ARS,260000,"Maure 2300, Piso 4",85.0,,3 dorm.,,50,Belgrano
+"Barrio Norte, Capital Federal",870000,ARS,111780,ECUADOR Y AV. CORDOBA 4°,57.0,,2 dorm.,,40,Barrio Norte
+"Barrio Norte, Capital Federal",500000,ARS,80000,JEAN JAURES AL 800 8°,58.0,,1 dorm.,,40,Barrio Norte
+"Las Cañitas, Palermo",800000,ARS,230000,"Huergo 200, Piso 6",47.0,,1 dorm.,,10,Palermo
+"Nuñez, Capital Federal",710000,ARS,260000,"Ciudad de la Paz 3200, Piso 3",45.0,,1 dorm.,,25,Nuñez
+"Recoleta, Barrio Norte",550000,ARS,147000,GALLO 900,42.0,,1 dorm.,,22,Recoleta
+"Caballito, Capital Federal",850000,ARS,200000,"Yatay 200, Piso 4",60.0,,2 dorm.,,10,Caballito
+"Botanico, Palermo",800000,ARS,130000,"Borges 2100, Piso 1",53.0,,1 dorm.,,10,Palermo
+"Nuñez, Capital Federal",720000,ARS,150000,"Cuba 3400, Piso 3",60.0,,2 dorm.,,40,Nuñez
+"Belgrano, Capital Federal",750000,ARS,150000,"Amenábar 2000 , Piso 9",,,2 dorm.,1,50,Belgrano
+"Catalinas, Centro",350000,ARS,220000,"25 de Mayo 700, Piso 4",,,1 dorm.,1,,Retiro
+"Palermo Hollywood, Palermo",850000,ARS,140000,"Arévalo 2000, Piso 5",43.0,A Estrenar,1 dorm.,,,Palermo
+"Recoleta, Barrio Norte",450000,ARS,,Posadas 1500,,Excelente,,1,,Recoleta
+"Barrio Norte, Capital Federal",1500000,ARS,430000,"Av Santa Fe 2900, Piso 5",135.0,,3 dorm.,3,,Barrio Norte
+"Flores, Capital Federal",800000,ARS,150000,"Curapaligüe 100, Piso 2",65.0,,2 dorm.,,35,Flores
+"Belgrano, Capital Federal",550000,ARS,,"Avenida Cabildo 3900, Piso 6",,1 cochera,,1,,Belgrano
+"Chacarita, Capital Federal",730000,ARS,260000,"Charlone 500, Piso 2",45.0,,1 dorm.,1,,Chacarita
+"Barrio Norte, Capital Federal",450000,ARS,158000,"Jerónimo Salguero 1800, Piso 5",40.0,,1 dorm.,,45,Barrio Norte
+"Barrio Norte, Capital Federal",500000,ARS,90000,AV. SANTA FE al 1900 6°,40.0,,1 dorm.,,40,Barrio Norte
+"Recoleta, Barrio Norte",750000,ARS,220000,Gallo 1100,45.0,,1 dorm.,,13,Recoleta
+"Belgrano R, Belgrano",900000,ARS,189000,"Conde 1800, Piso 9",,,3 dorm.,1,50,Belgrano
+"Palermo, Capital Federal",550000,ARS,,Laprida 1700,50.0,,1 dorm.,1,,Palermo
+"Barrio Norte, Capital Federal",450000,ARS,85000,Riobamba al 900,35.0,,,1,10,Barrio Norte
+"Villa Urquiza, Capital Federal",500000,ARS,75000,"Donado 1900, Piso 2",42.0,,1 dorm.,1,,Villa Urquiza
+"Belgrano C, Belgrano",850000,ARS,310000,"Virrey loreto 2500, Piso 6",64.0,,2 dorm.,,70,Belgrano
+"Retiro, Centro",550000,ARS,136000,Esmeralda 900,,,2 dorm.,1,55,Retiro
+"Palermo Hollywood, Palermo",680000,ARS,135000,"Avenida Álvarez Thomas 100, Piso 5",56.0,,,1,7,Palermo
+"Palermo, Capital Federal",750000,ARS,120000,Billinghurst 900,45.0,,1 dorm.,,50,Palermo
+"Palermo, Capital Federal",500000,ARS,81000,MAURE al 2200,30.0,,1 dorm.,,37,Palermo
+"Palermo, Capital Federal",850000,ARS,230000,"Aguero 1400, Piso 4",48.0,,1 dorm.,,2,Palermo
+"Las Cañitas, Palermo",850000,ARS,240000,Jorge Newbery 1900,50.0,,1 dorm.,,15,Palermo
+"Barrio Norte, Capital Federal",2000,USD,150000,JUNCAL 3100,90.0,,2 dorm.,,35,Barrio Norte
+"Barrio Norte, Capital Federal",520000,ARS,86000,"Julián Álvarez 2400, Piso 8",50.0,,1 dorm.,,40,Barrio Norte
+"Parque Rivadavia, Caballito",550000,ARS,65000,"Guayaquil 100, Piso 5",40.0,,1 dorm.,,50,Caballito
+"Recoleta, Barrio Norte",700000,ARS,,"Arenales 2900, Piso 5",50.0,,1 dorm.,,50,Recoleta
+"Urquiza R, Villa Urquiza",470000,ARS,180000,"Avenida Monroe 5300, Piso 6",33.0,,1 dorm.,,12,Villa Urquiza
+"Belgrano, Capital Federal",500000,ARS,,Avda. Cabildo 2400,24.0,Monoam.,,1,,Belgrano
+"Saavedra, Capital Federal",800000,ARS,110000,Correa 3000,106.0,,2 dorm.,,30,Saavedra
+"Belgrano, Capital Federal",1100,USD,,Avenida Cabildo 500,,,2 dorm.,1,,Belgrano
+"Villa Crespo, Capital Federal",1100000,ARS,360000,"Warnes 200, Piso 9/10",121.0,,3 dorm.,,30,Villa Crespo
+"Caballito, Capital Federal",590000,ARS,,SENILLOSA al 400,40.0,,1 dorm.,,15,Caballito
+"Barrio Norte, Capital Federal",850000,ARS,150000,AV. PUEYRREDON al 900 5°,77.0,,2 dorm.,,40,Barrio Norte
+"Villa Crespo, Capital Federal",700000,ARS,150000,"SERRANO 200, Piso 1",38.0,,1 dorm.,,25,Villa Crespo
+"Belgrano, Capital Federal",950000,ARS,140000,"Juramento 2700, Piso 12",54.0,,2 dorm.,,30,Belgrano
+"Barrio Norte, Capital Federal",450000,ARS,227000,VIAMONTE Y AV. CALLAO 4°,33.0,,,1,10,Barrio Norte
+"Barrio Norte, Capital Federal",290000,ARS,110700,MARCELO T. DE ALVEAR al 1900 4°,25.0,,,1,40,Barrio Norte
+"Barrio Norte, Capital Federal",400000,ARS,188700,SUIPACHA Y AV. CORDOBA 12°,42.0,,1 dorm.,,40,Barrio Norte
+"Barrio Norte, Capital Federal",500000,ARS,170000,AV. SANTA FE al 2000 1°,50.0,,1 dorm.,,40,Barrio Norte
+"Belgrano, Capital Federal",390000,ARS,120000,Amenabar 1200,25.0,Monoam.,,1,,Belgrano
+"Villa Urquiza, Capital Federal",650000,ARS,130000,"Pacheco 2700, Piso 1",,,1 dorm.,1,,Villa Urquiza
+"Palermo, Capital Federal",500000,ARS,80000,ARAÓZ 2300,33.0,Monoam.,,1,,Palermo
+"Caballito Sur, Caballito",1100000,ARS,208000,"Muñiz 500, Piso 8",65.0,A Estrenar,2 dorm.,,,Caballito
+"Almagro, Capital Federal",590000,ARS,200000,"Domingo F Sarmiento 3000, Piso 3",55.0,,2 dorm.,,49,Almagro
+"Almagro, Capital Federal",550000,ARS,80000,Sanchez de Bustamante y Avenida Rivadavia,41.0,,1 dorm.,,35,Almagro
+"Palermo Hollywood, Palermo",1100000,ARS,100000,"El Salvador 6000, Piso 8",52.0,A Estrenar,1 dorm.,,,Palermo
+"Palermo Hollywood, Palermo",1800000,ARS,150000,"El Salvador 6000, Piso 3",65.0,A Estrenar,2 dorm.,,,Palermo
+"Belgrano Chico, Belgrano",570000,ARS,160000,Echeverria 1300,45.0,,1 dorm.,1,,Belgrano
+"Monserrat, Centro",400000,ARS,122000,"Solís 200, Piso 7",29.0,,,1,40,Monserrat
+"Botanico, Palermo",1200000,ARS,,"Av. Santa Fe 4100, Piso 6",120.0,,3 dorm.,,65,Palermo
+"Palermo Soho, Palermo",700,USD,85000,Malabia 1900,45.0,,1 dorm.,,30,Palermo
+"Villa Urquiza, Capital Federal",450000,ARS,150000,"Avenida Monroe 5600, Piso 4°",,,1 dorm.,1,,Villa Urquiza
+"Colegiales, Capital Federal",650000,ARS,270000,Olleros 4100,42.0,,1 dorm.,,5,Colegiales
+"Retiro, Centro",2500,USD,,Arenales 800,,,3 dorm.,3,50,Retiro
+"Belgrano, Capital Federal",490000,ARS,175000,"Amenábar 1100, Piso 4",36.0,,,1,6,Belgrano
+"Colegiales, Capital Federal",750000,ARS,147000,Federico Lacroze al 3200,36.0,,1 dorm.,,5,Colegiales
+"Villa Urquiza, Capital Federal",560000,ARS,160000,"Bucarelli 1900, Piso 5",41.0,Muy Bueno,,,11,Villa Urquiza
+"Caballito Sur, Caballito",420000,ARS,70000,"Avenida La Plata 500, Piso 5",25.0,Monoam.,,1,,Caballito
+"Almagro Norte, Almagro",600000,ARS,86000,"Palestina (Ex Rawson) 700, Piso 6",38.0,,1 dorm.,1,,Almagro
+"Almagro, Capital Federal",480000,ARS,80000,"Lambare 1100, Piso 13",44.0,,1 dorm.,,40,Almagro
+"Belgrano, Capital Federal",650,USD,,Juramento 1500,50.0,,1 dorm.,,40,Belgrano
+"Caballito, Capital Federal",390000,ARS,36000,Campichuelo 600,26.0,Monoam.,,1,,Caballito
+"Caballito, Capital Federal",400000,ARS,120000,"Av. Honorio Pueyrredon 1200, Piso 3",20.0,,1 dorm.,1,,Caballito
+"Congreso, Capital Federal",580000,ARS,116000,"Solís 600, Piso 5",45.0,,2 dorm.,,35,Congreso
+"Urquiza R, Villa Urquiza",500000,ARS,95000,"Galván 3200, Piso 1",38.0,,,1,3,Villa Urquiza
+"Belgrano, Capital Federal",1200,USD,275000,VIRREY LORETO al 1500,58.0,,2 dorm.,,5,Belgrano
+"Villa Urquiza, Capital Federal",550000,ARS,145000,"AITOLAGUIRRE 2200, Piso 3",39.0,,,1,8,Villa Urquiza
+"Palermo Hollywood, Palermo",550000,ARS,115000,HUMBOLDT 2400,,Monoam.,,1,15,Palermo
+"Nuñez, Capital Federal",500000,ARS,102000,Franklin D Roosevelt 2900,34.0,Excelente,,,,Nuñez
+"Recoleta, Barrio Norte",450000,ARS,97600,"Arenales 1800, Piso 3",43.0,,1 dorm.,,45,Recoleta
+"Belgrano C, Belgrano",550000,ARS,146000,Avenida Monroe 2100,,Monoam.,,1,15,Belgrano
+"Barrio Norte, Capital Federal",1000000,ARS,195000,"Sánchez De Bustamante 2300, Piso 8",75.0,,2 dorm.,,20,Barrio Norte
+"Belgrano, Capital Federal",550000,ARS,98000,"José Hernández 2300, Piso 2",38.0,Excelente,,,,Belgrano
+"Parque Las Heras, Barrio Norte",680000,ARS,107000,"Juncal 2600, Piso 7",50.0,,2 dorm.,,35,Barrio Norte
+"Villa Urquiza, Capital Federal",450000,ARS,119000,"Cullen 4800, Piso 9",33.0,Monoam.,,1,,Villa Urquiza
+"Urquiza R, Villa Urquiza",880000,ARS,220000,"CAPDEVILA 2700, Piso 2",64.0,,2 dorm.,,25,Villa Urquiza
+"Belgrano Barrancas, Belgrano",1500000,ARS,390000,Avenida Luis María Campos 1500,85.0,,2 dorm.,,45,Belgrano
+"Palermo, Capital Federal",650000,ARS,140000,"Paraguay 4200, Piso 7",45.0,,,1,6,Palermo
+"Palermo, Capital Federal",850000,ARS,,GORRITI al 4400 3°,55.0,,2 dorm.,,40,Palermo
+"Once, Capital Federal",550,USD,179000,"Presidente Peron 2700, Piso 1",77.0,,3 dorm.,,70,Once
+"Almagro Sur, Almagro",600000,ARS,60000,"Don Bosco 3700, Piso 10",43.0,,1 dorm.,,50,Almagro
+"Villa Pueyrredon, Capital Federal",600000,ARS,80000,"Gabriela Mistral 2700, Piso 4",44.0,,1 dorm.,,10,Villa Pueyrredon
+"Villa Pueyrredon, Capital Federal",360000,ARS,80000,Vallejos 3200,30.0,Muy Bueno,,,8,Villa Pueyrredon
+"Barrio Norte, Capital Federal",440000,ARS,71000,"Paraguay 2400, Piso 6",34.0,,1 dorm.,,45,Barrio Norte
+"Palermo, Capital Federal",750000,ARS,120000,"Uriarte 2100, Piso 4",60.0,,2 dorm.,,40,Palermo
+"Belgrano, Capital Federal",500000,ARS,80000,"Av Cramer 2500, Piso 6",32.0,,,1,9,Belgrano
+"Caballito, Capital Federal",1500000,ARS,210000,Chaco 100,115.0,,4 dorm.,,50,Caballito
+"Barrio Norte, Capital Federal",1100000,ARS,300000,"Libertad 1600, Piso 1",75.0,,2 dorm.,,25,Barrio Norte
+"Villa Urquiza, Capital Federal",950000,ARS,240000,Fernandez Blanco 2300,50.0,,2 dorm.,,25,Villa Urquiza
+"Nuñez, Capital Federal",1000,USD,,IBERA al 2400,40.0,A Estrenar,1 dorm.,,,Nuñez
+"Recoleta, Barrio Norte",2000,USD,,Montevideo y Av del Libertador AMOBLADO 3 AMBIENTES + ESCRITORIO + DEPENDENCIA + COCHERA,143.0,,2 dorm.,,60,Recoleta
+"Barrio Norte, Capital Federal",750000,ARS,150000,LARREA Y AV. SANTA FE 2°,78.0,,2 dorm.,,40,Barrio Norte
+"San Telmo, Capital Federal",500,USD,100000,"Chacabuco 1000, Piso 1",34.0,,,1,12,San Telmo
+"Nuñez, Capital Federal",650000,ARS,130000,"Arcos 2800, Piso 6",36.0,,1 dorm.,,30,Nuñez
+"Palermo, Capital Federal",500000,ARS,247000,MALABIA al 2200 2°,37.0,,,1,40,Palermo
+"Palermo, Capital Federal",400000,ARS,124631,GASCON Y AV. CORDOBA 2°,38.0,,,1,40,Palermo
+"San Telmo, Capital Federal",450000,ARS,90000,Chile al 900,,,1 dorm.,1,16,San Telmo
+"Flores Norte, Flores",670000,ARS,110000,"Manuel Ricardo Trelles 776 700, Piso 5",,A Estrenar,1 dorm.,1,,Flores
+"Flores, Capital Federal",490000,ARS,65000,Avenida Carabobo 100,,Frente,1 dorm.,,,Flores
+"Caballito, Capital Federal",700000,ARS,80000,J. M. Moreno al 100,56.0,,1 dorm.,,45,Caballito
+"Barrio Norte, Capital Federal",750000,ARS,120000,"Charcas 2900, Piso PB",60.0,,1 dorm.,,50,Barrio Norte
+"Barrio Norte, Capital Federal",500000,ARS,110000,"Billinghurst 2300, Piso 2",38.0,,1 dorm.,,40,Barrio Norte
+"Barrio Norte, Capital Federal",340000,ARS,113045,ECUADOR al 1100 6°,20.0,,,1,40,Barrio Norte
+"Villa Crespo, Capital Federal",520000,ARS,3000,"Malabia 200, Piso 1",35.0,Bueno,,,50,Villa Crespo
+"Chacarita, Capital Federal",800000,ARS,180000,"Jorge Newbery 3900, Piso 7",60.0,,2 dorm.,,35,Chacarita
+"Chacarita, Capital Federal",500000,ARS,64000,"Avenida Corrientes 6300, Piso 3",30.0,,,1,6,Chacarita
+"Parque Chas, Villa Urquiza",480000,ARS,50000,"Del Temple 2600, Piso 5",,Monoam.,,1,8,Villa Urquiza
+"Villa Crespo, Capital Federal",550000,ARS,135000,"Lavalleja 100, Piso 1",39.0,,1 dorm.,,40,Villa Crespo
+"Flores, Capital Federal",600000,ARS,150000,"Carabobo 100, Piso 8",,,1 dorm.,1,12,Flores
+"Nuñez, Capital Federal",,ARS,230000,Grecia 3300,,Excelente,1 dorm.,,,Nuñez
+"Palermo, Capital Federal",500000,ARS,137000,"Francisco Acuña De Figueroa 1200, Piso 1",,,1 dorm.,1,,Palermo
+"Belgrano R, Belgrano",650000,ARS,96000,"Zapiola 2000, Piso 6",,,1 dorm.,,30,Belgrano
+"Nuñez, Capital Federal",630000,ARS,200000,"Paroissien 1600, Piso 1",40.0,,,1,3,Nuñez
+"Barrio Norte, Capital Federal",300000,ARS,68000,AV. SANTA FE Y AV. PUEYRREDON 4°,28.0,,,1,40,Barrio Norte
+"Villa Crespo, Capital Federal",400000,ARS,122877,THAMES al 600 7°,29.0,,,1,40,Villa Crespo
+"Nuñez, Capital Federal",430000,ARS,95000,Juramento 2800,,,,,,Nuñez
+"Palermo, Capital Federal",400000,ARS,89500,BULNES al 1600 4°,34.0,,1 dorm.,,40,Palermo
+"Recoleta, Barrio Norte",490000,ARS,65000,AYACUCHO al 1400 3°,35.0,,1 dorm.,,40,Recoleta
+"Belgrano R, Belgrano",1900,USD,360000,Conesa 2155 2 A,140.0,,2 dorm.,,25,Belgrano
+"Urquiza R, Villa Urquiza",750000,ARS,130000,Donado al 2300,35.0,A Estrenar,1 dorm.,,,Villa Urquiza
+"Palermo, Capital Federal",490000,ARS,160000,Armenia 1000,38.0,,1 dorm.,,40,Palermo
+"Villa Urquiza, Capital Federal",600000,ARS,,Colodrero 2600,40.0,,1 dorm.,1,,Villa Urquiza
+"Palermo Chico, Palermo",900000,ARS,145000,Castex 3300,53.0,,2 dorm.,,50,Palermo
+"Caballito, Capital Federal",700000,ARS,122000,"Avenida José María Moreno 200, Piso 5",66.0,,2 dorm.,,60,Caballito
+"Flores Norte, Flores",625000,ARS,150000,"Avenida Avellaneda 2700, Piso 4",53.0,,2 dorm.,,50,Flores
+"Belgrano, Capital Federal",600000,ARS,,"CUBA 2600, Piso 2",44.0,,1 dorm.,,35,Belgrano
+"Barrio Norte, Capital Federal",1000000,ARS,300000,"Arenales 2500, Piso 6",90.0,,3 dorm.,,50,Barrio Norte
+"Caballito Norte, Caballito",580000,ARS,60000,"Paysandu 500, Piso 3",,Monoam.,,1,4,Caballito
+"Villa del Parque, Capital Federal",950000,ARS,180000,"Nazarre 2600, Piso 5",60.0,,2 dorm.,,12,Villa del Parque
+"Almagro Norte, Almagro",520000,ARS,140000,"Tucumán 3700, Piso 9",32.0,,1 dorm.,,39,Almagro
+"Constitucion, Capital Federal",630000,ARS,170000,Avenida Juan De Garay 1200,,,2 dorm.,2,60,Constitución
+"Urquiza R, Villa Urquiza",1700000,ARS,365000,"Avenida Olazábal 5000, Piso 8",75.0,,3 dorm.,,20,Villa Urquiza
+"Belgrano R, Belgrano",800000,ARS,200000,"Av Crámer 1900, Piso 6",60.0,,2 dorm.,,60,Belgrano
+"Monserrat, Centro",450000,ARS,59000,Av. Belgrano al 1200,33.0,A Estrenar,,1,,Monserrat
+"Villa Devoto, Capital Federal",700000,ARS,,"Avenida Francisco Beiró 5100, Piso 5",48.0,,1 dorm.,1,,Villa Devoto
+"Congreso, Capital Federal",900000,ARS,150000,"MEXICO 1900, Piso 4",71.0,,2 dorm.,,7,Congreso
+"Barrio Norte, Capital Federal",750000,ARS,120000,"Uriarte 2100, Piso 4",60.0,,2 dorm.,,40,Barrio Norte
+"Tribunales, Centro",550000,ARS,155000,"Tucuman al 1400, piso 6°",54.0,,2 dorm.,,45,Tribunales
+"Caballito Sur, Caballito",620000,ARS,138000,"Benjamin Viel 400, Piso 2",40.0,,1 dorm.,1,,Caballito
+"Palermo, Capital Federal",580000,ARS,125000,"Malabia 2300, Piso PB",44.0,,1 dorm.,,78,Palermo
+"Belgrano R, Belgrano",2200000,ARS,430000,"La Pampa 3000, Piso 8",130.0,,3 dorm.,,15,Belgrano
+"Botanico, Palermo",600000,ARS,150000,"REPUBLICA ARABE SIRIA 3200, Piso 2",37.0,,1 dorm.,,50,Palermo
+"Recoleta, Barrio Norte",900,USD,,"Aguero 1500, Piso 8",,,1 dorm.,1,10,Recoleta
+"Villa Urquiza, Capital Federal",630000,ARS,,Tomás Le Bretón 4800,37.0,,1 dorm.,1,,Villa Urquiza
+"Villa del Parque, Capital Federal",400000,ARS,60000,Nazca al 3100,51.0,,1 dorm.,,35,Villa del Parque
+"Palermo, Capital Federal",550000,ARS,120000,Mario Bravo al 1000,53.0,,,1,45,Palermo
+"Palermo, Capital Federal",650000,ARS,156378,MALABIA al 2200 6°,58.0,,2 dorm.,,40,Palermo
+"Palermo, Capital Federal",790000,ARS,330000,GUEMES al 4100 14°,80.0,,2 dorm.,,40,Palermo
+"Urquiza R, Villa Urquiza",950000,ARS,200000,"Ceretti 2600, Piso 5",61.0,A Estrenar,2 dorm.,,,Villa Urquiza
+"Almagro Norte, Almagro",,ARS,160354,"Jerónimo Salguero 800, Piso 2",22.0,,1 dorm.,,70,Almagro
+"Caballito Sur, Caballito",550000,ARS,111000,"Muñiz 500, Piso 10",37.0,A Estrenar,,1,,Caballito
+"Congreso, Capital Federal",420000,ARS,109000,"Riobamba 400, Piso 7",32.0,,,1,45,Congreso
+"Colegiales, Capital Federal",420000,ARS,65000,TEODORO GARCIA al 2800,36.0,,1 dorm.,,40,Colegiales
+"Belgrano, Capital Federal",700000,ARS,150000,"Franklin Delano Roosevelt 2300, Piso 5",50.0,,2 dorm.,,35,Belgrano
+"Belgrano Chico, Belgrano",850000,ARS,100000,"La Pampa 700, Piso 5",46.0,,,1,6,Belgrano
+"Urquiza R, Villa Urquiza",750000,ARS,170000,Burela 2100,41.0,,1 dorm.,,30,Villa Urquiza
+"Urquiza R, Villa Urquiza",900000,ARS,170000,Av. Olazabal 4800,42.0,,1 dorm.,,15,Villa Urquiza
+"Recoleta, Barrio Norte",420000,ARS,107000,"Beruti 2300, piso 7",27.0,Monoam.,,,,Recoleta
+"Palermo, Capital Federal",530000,ARS,175000,"José Antonio Cabrera 3000, Piso 1",35.0,Monoam.,,1,,Palermo
+"Villa Urquiza, Capital Federal",450000,ARS,102000,"Juramento 5000, Piso 6",36.0,Monoam.,,,10,Villa Urquiza
+"San Cristobal, Capital Federal",400000,ARS,90000,La Rioja 1200,35.0,,1 dorm.,,45,San Cristóbal
+"San Cristobal, Capital Federal",450000,ARS,,Santiago Del Estero 700,,,,,,San Cristóbal
+"Belgrano, Capital Federal",700000,ARS,53270,CRAMER al 1900 9°,39.0,,1 dorm.,,40,Belgrano
+"San Cristobal, Capital Federal",1100000,ARS,,Av. Independencia 13000,36.0,,,1,5,San Cristóbal
+"San Cristobal, Capital Federal",400000,ARS,90000,Sarandí al 1200,40.0,,1 dorm.,,40,San Cristóbal
+"Villa Urquiza, Capital Federal",500,USD,188500,"Donado 1900, Piso 4",52.0,Monoam.,,,8,Villa Urquiza
+"Caballito, Capital Federal",400000,ARS,80000,"NEUQUEN 1800, Piso 1",35.0,,1 dorm.,,,Caballito
+"Nuñez, Capital Federal",800000,ARS,175000,AVENIDA LIBERTADOR Y MENDOZA,,,1 dorm.,1,,Nuñez
+"Palermo, Capital Federal",490000,ARS,145000,Güemes al 3500,38.0,,1 dorm.,,50,Palermo
+"Almagro, Capital Federal",450000,ARS,60000,BULNES 100,22.0,,,1,45,Almagro
+"Villa Devoto, Capital Federal",900,USD,300000,Avenida Lastra 4200,47.0,A Estrenar,1 dorm.,,,Villa Devoto
+"Botanico, Palermo",1400,USD,406000,"Juan Maria Gutierrez 3900, Piso 9",70.0,,2 dorm.,,20,Palermo
+"San Cristobal, Capital Federal",400000,ARS,90000,"Solis 700, Piso Pb",23.0,Monoam.,,1,,San Cristóbal
+"Barrio Norte, Capital Federal",330000,ARS,,"Av. Córdoba 2000, Piso 7",,Contra Frente,,,,Barrio Norte
+"Recoleta, Barrio Norte",420000,ARS,120000,"Uriburu 1400, Piso 1",30.0,,,1,40,Recoleta
+"Floresta, Capital Federal",450000,ARS,69700,"Bogota 3700, Piso 2",,,1 dorm.,1,,Flores
+"Almagro Norte, Almagro",500000,ARS,95000,C Castillo 100,37.0,Monoam.,,,5,Almagro
+"Paternal, Capital Federal",480000,ARS,,AV SAN MARTIN 2700,32.0,,1 dorm.,,40,La Paternal
+"Belgrano, Capital Federal",1500000,ARS,320300,"Crámer 1700, Piso 6",75.0,,2 dorm.,,2,Belgrano
+"Palermo Soho, Palermo",1190000,ARS,225000,"Paraguay 4200, Piso 7",70.0,,2 dorm.,,16,Palermo
+"Recoleta, Barrio Norte",350000,ARS,131600,AGUERO al 2200 3°,24.0,,,1,40,Recoleta
+"Recoleta, Barrio Norte",5000,USD,750000,AV LAS HERAS al 3000,204.0,,3 dorm.,,25,Recoleta
+"Caballito, Capital Federal",450000,ARS,110000,"Cnel. Ramon L. Falcon 1500, Piso 4",45.0,,1 dorm.,,45,Caballito
+"Parque Chacabuco, Capital Federal",570000,ARS,110000,"Av Del Barco Centenera 1000, Piso 8",45.0,,2 dorm.,,30,Parque Chacabuco
+"Villa Devoto, Capital Federal",400000,ARS,170000,Llavallol 4600,33.0,,,1,12,Villa Devoto
+"Belgrano C, Belgrano",680000,ARS,142000,"Sucre 1500, Piso 2",42.0,,1 dorm.,,25,Belgrano
+"Almagro, Capital Federal",550000,ARS,80000,"Av. San Juan 2000, Piso 11",,Frente,,,,Almagro
+"Balvanera, Capital Federal",380000,ARS,88000,"Sarmiento 1900, Piso 2",40.0,Frente,,,,Balvanera
+"Flores Norte, Flores",440000,ARS,180000,"BOYACA 620 , Piso 8",36.0,,1 dorm.,,17,Flores
+"Nuñez, Capital Federal",550000,ARS,97000,"Quesada 2600, Piso 5",35.0,,1 dorm.,,50,Nuñez
+"Flores Norte, Flores",380000,ARS,46659,"Yerbal 2700, Piso 4",,,1 dorm.,1,,Flores
+"Parque Patricios, Capital Federal",700000,ARS,135000,"Raodeau 3300, Piso 2",56.0,,2 dorm.,,10,Parque Patricios
+"Balvanera, Capital Federal",600000,ARS,105000,"ANCHORENA 500, Piso 3",35.0,,1 dorm.,,2009,Balvanera
+"Monserrat, Centro",430000,ARS,80000,Venezuela al 900,35.0,,1 dorm.,,3,Monserrat
+"Belgrano, Capital Federal",1200000,ARS,220000,Av. Cabildo al 1200,92.0,,3 dorm.,,50,Belgrano
+"Villa Luro, Capital Federal",455000,ARS,19100,"Jose M Cortina 100, Piso 2",41.0,,1 dorm.,,40,Villa Luro
+"Parque Patricios, Capital Federal",600000,ARS,240000,"Avenida Cseros 3200, Piso 5",3.0,,1 dorm.,,55,Parque Patricios
+"Belgrano, Capital Federal",950000,ARS,235000,Husares 2200,44.0,,1 dorm.,,15,Belgrano
+"Recoleta, Barrio Norte",700,USD,150000,Paraguay al 3000,39.0,,1 dorm.,,5,Recoleta
+"Belgrano, Capital Federal",850000,ARS,420000,José Hernández 2200,57.0,,1 dorm.,1,,Belgrano
+"Belgrano R, Belgrano",700000,ARS,145000,"LA PAMPA 2900, Piso 3",38.0,,1 dorm.,,20,Belgrano
+"Palermo, Capital Federal",600000,ARS,,MIGUELETES al 1200,40.0,,1 dorm.,,10,Palermo
+"Palermo, Capital Federal",500000,ARS,,MIGUELETES al 1200,38.0,,1 dorm.,,10,Palermo
+"Las Cañitas, Palermo",2500,USD,500000,Olleros al 1600,146.0,,2 dorm.,,5,Palermo
+"Belgrano, Capital Federal",1350000,ARS,200000,La Pampa 1100,58.0,,2 dorm.,,25,Belgrano
+"Villa Devoto, Capital Federal",650000,ARS,160000,"Av. Francisco Beiró 4200, Piso 9",50.0,,1 dorm.,,14,Villa Devoto
+"Palermo, Capital Federal",1200000,ARS,303200,"ARAOZ 2900, Piso 6",92.0,,3 dorm.,,50,Palermo
+"Palermo Viejo, Palermo",1500,USD,400000,"Guatemala 4500, Piso 8",72.0,,2 dorm.,,20,Palermo
+"Palermo, Capital Federal",495000,ARS,,Mario Bravo al 1100,35.0,,,1,8,Palermo
+"Parque Chacabuco, Capital Federal",470000,ARS,98000,"Emilio Mitre 900, Piso 5",38.0,,1 dorm.,1,,Parque Chacabuco
+"Villa Crespo, Capital Federal",430000,ARS,120000,"Padilla 700, Piso 9",35.0,,,1,20,Villa Crespo
+"Paternal, Capital Federal",520000,ARS,133000,"12 De Octubre 1800, Piso 7",47.0,,1 dorm.,,15,La Paternal
+"Villa Devoto, Capital Federal",400000,ARS,120000,"Avenida Francisco Beiró 3300, Piso 3",,,,1,12,Villa Devoto
+"Congreso, Capital Federal",360000,ARS,90000,"MORENO 1700, Piso 10",,Monoam.,,1,48,Congreso
+"Urquiza R, Villa Urquiza",800000,ARS,120000,"Cullen 4900, Piso 4",46.0,,1 dorm.,,5,Villa Urquiza
+"Caballito, Capital Federal",890000,ARS,,Franklin 2100,47.0,,1 dorm.,1,,Caballito
+"Caballito, Capital Federal",900000,ARS,280000,Av La Plata 200,68.0,,2 dorm.,,27,Caballito
+"Recoleta, Barrio Norte",700000,ARS,225000,"Callao 1200, Piso 6",33.0,Monoam.,,1,,Recoleta
+"Belgrano R, Belgrano",1890000,ARS,437000,"LA PAMPA 3000, Piso 8",140.0,,3 dorm.,,40,Belgrano
+"Recoleta, Barrio Norte",987000,ARS,298887,Peña 2900,,,2 dorm.,,27,Recoleta
+"Urquiza R, Villa Urquiza",700000,ARS,160000,"Juramento 5200, Piso 5",40.0,,1 dorm.,,6,Villa Urquiza
+"Caballito, Capital Federal",1100000,ARS,350000,"Av La Plata 200, Piso 2",,,4 ambientes,,,Caballito
+"Barrio Norte, Capital Federal",470000,ARS,80000,"Uriburu 1000, Piso 1",30.0,,,1,45,Barrio Norte
+"Belgrano, Capital Federal",1700000,ARS,450000,O'Higgins 1900,90.0,,2 dorm.,,35,Belgrano
+"Recoleta, Barrio Norte",450000,ARS,90000,"POSADAS 1500, Piso 9",26.0,,1 dorm.,,40,Recoleta
+"Flores, Capital Federal",500000,ARS,95000,Culpina 300,36.0,,1 dorm.,,55,Flores
+"Caballito, Capital Federal",650000,ARS,80000,"Thompson 800, Piso 5",43.0,,1 dorm.,,10,Caballito
+"Colegiales, Capital Federal",900000,ARS,145000,"CRAMER AVDA 300, Piso -",68.0,,3 dorm.,,45,Colegiales
+"Barrio Norte, Capital Federal",280000,ARS,144870,AZCUENAGA al 1300 3°,25.0,,,1,40,Barrio Norte
+"Recoleta, Barrio Norte",350000,ARS,120000,"PEÑA 2000, Piso 2",25.0,,,1,49,Recoleta
+"Flores, Capital Federal",750000,ARS,85000,"Coronel Ramón Lorenzo Falcón 2000, Piso 12",48.0,,1 dorm.,,40,Flores
+"Nuñez, Capital Federal",340000,ARS,90000,"Arcos 3500, Piso 3",,Monoam.,,1,30,Nuñez
+"Nuñez, Capital Federal",400000,ARS,92000,"Crisólogo Larralde 2700, Piso 3",,Excelente,,1,,Nuñez
+"San Cristobal, Capital Federal",490000,ARS,90000,HUMBERTO PRIMO 2300,26.0,Lateral,,,,San Cristóbal
+"Villa Santa Rita, Capital Federal",430000,ARS,91000,"Emilio Lamarca 1700, Piso 3",,,,,,Villa Santa Rita
+"Paternal, Capital Federal",730000,ARS,170000,"Alejandro Margariño Cervantes 1800, Piso 19",60.0,,2 dorm.,,15,La Paternal
+"Coghlan, Capital Federal",850000,ARS,85000,"Superi 3100, Piso 3",,,2 dorm.,1,,Coghlan
+"Flores, Capital Federal",600000,ARS,60000,"Av. San Pedrito 600, Piso 6",,,1 dorm.,1,50,Flores
+"Floresta, Capital Federal",480000,ARS,120000,Av rivadavia 8600,48.0,,1 dorm.,,50,Flores
+"Flores, Capital Federal",700000,ARS,,"Ramon L Falcon al 2600, piso 1",38.0,,1 dorm.,,60,Flores
+"Villa del Parque, Capital Federal",850000,ARS,220000,"BAIGORRIA 2900, Piso 1",90.0,,3 dorm.,2,,Villa del Parque
+"Flores Norte, Flores",500000,ARS,85000,"Jose Antonio Paez 2100, Piso 2",36.0,,,1,4,Flores
+"Villa del Parque, Capital Federal",500000,ARS,25000,"Adolfo P Carranza 2700, Piso 5°",38.0,,1 dorm.,,,Villa del Parque
+"Parque Rivadavia, Caballito",1200000,ARS,221000,Formosa al 200,86.0,,3 dorm.,,30,Caballito
+"San Cristobal, Capital Federal",550000,ARS,,"Combate De Los Pozos 600, Piso 3",,Excelente,2 dorm.,,,San Cristóbal
+"Flores, Capital Federal",550000,ARS,,"Pergamino 100, Piso 9",,A Estrenar,,1,,Flores
+"Almagro, Capital Federal",450000,ARS,,"Mario Bravo 200, Piso 3",30.0,,,1,45,Almagro
+"Almagro Norte, Almagro",450000,ARS,95000,"Av RIVADAVIA 4200, Piso 7",40.0,,1 dorm.,,60,Almagro
+"Monserrat, Centro",1100000,ARS,,Av. Independencia 1300,36.0,,,1,5,Monserrat
+"San Nicolás, Centro",590000,ARS,150000,Lavalle 1500,,,2 dorm.,,39,San Nicolás
+"San Telmo, Capital Federal",550000,ARS,100000,"Humberto Primero 900, Piso 5",30.0,,,1,12,San Telmo
+"Congreso, Capital Federal",450,ARS,,Teniente General Juan Domingo Perón,,,4 ambientes,1,,Congreso
+"Congreso, Capital Federal",380000,ARS,80000,"Av. de Mayo 1300, Piso 8",28.0,Excelente,,,,Congreso
+"Boedo, Capital Federal",570000,ARS,115000,Av la plata 1000,,,1 dorm.,2,,Boedo
+"Villa Devoto, Capital Federal",550000,USD,55000,"Avenida Francisco Beiró 5000, Piso 3",36.0,A Estrenar,,1,,Villa Devoto
+"Belgrano, Capital Federal",350000,ARS,140000,"Amenabar 2400, Piso 1",27.0,,,1,22,Belgrano
+"Palermo, Capital Federal",700,USD,150000,Paraguay al 3000,40.0,,1 dorm.,,5,Palermo
