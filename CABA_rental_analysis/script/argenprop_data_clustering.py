@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 
 # We use the previous CSV
-df = pd.read_csv("C:/Users/SMoretti/Downloads/Portafolio/01. Alquileres/argenprop_data.csv")
+df = pd.read_csv("C:/Users/SMoretti/Downloads/Portafolio/01. Alquileres/data/argenprop_data.csv")
 
 # TC
 tc = 1142
@@ -49,6 +49,6 @@ df_filtrado["Tipo_Propiedad"] = df_filtrado["Cluster"].map({
 })
 
 # Paso 12: Exportar resultado
-df_filtrado.to_csv("C:/Users/SMoretti/Downloads/Portafolio/01. Alquileres/argenprop_data_clustering.csv", index=False, encoding="utf-8-sig")
+df_filtrado.to_csv("C:/Users/SMoretti/Downloads/Portafolio/01. Alquileres/data/argenprop_data_clustering.csv", index=False, encoding="utf-8-sig")
 print("✅ Archivo guardado con outliers excluidos.")
 
