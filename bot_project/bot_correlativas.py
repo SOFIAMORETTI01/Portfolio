@@ -25,6 +25,7 @@ section.main > div:first-child {
     margin-bottom: 40px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
+
 /* Recuadro general del bot */
 main .block-container {
     background-color: #fef3e2;             /* Fondo suave interior */
@@ -303,10 +304,6 @@ def responder_usuario(entrada_usuario):
     st.session_state.mensajes.append({"rol": "assistant", "contenido": respuesta})
 
 # -------------------
-st.markdown("""
-<div class="bot-container">
-""", unsafe_allow_html=True)
-
 st.title("🎓 BOT - Materias FCE")
 
 for mensaje in st.session_state.mensajes:
