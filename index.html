@@ -91,12 +91,11 @@
     <div class="card">
   <h3>📊 Insurance anomaly detection</h3>
   <p>
-    This project focuses on detecting atypical insurance claims using <strong>Isolation Forest</strong> , an unsupervised machine learning algorithm that assigns anomaly scores based on behavioral patterns.
+    This project detects atypical insurance claims using <strong>Isolation Forest</strong>, an unsupervised algorithm that scores anomalies based on behavioral patterns.
   </p>
   <p>
     
-    It allows interactive exploration through filters by province, coverage type, and risk zone. Dimensionality is reduced using <strong>UMAP</strong> , and <strong>HDBSCAN</strong>  is applied for unsupervised clustering to help visualize groups of unusual claims. Additionally, <strong>SHAP</strong>  values provide model interpretability, highlighting the features that contribute most to each flagged case.
-  </p>
+    It features interactive filters (province, coverage, risk zone), applies <strong>UMAP</strong> for dimensionality reduction and <strong>HDBSCAN</strong> for clustering. <strong>SHAP</strong> values explain the key drivers behind each flagged claim.
   <p>
 <strong>Logic & modeling:</strong> Python (Pandas, Scikit-learn, Seaborn), Isolation Forest, HDBSCAN, UMAP<br>
 <strong>Visualization & explainability:</strong> Matplotlib, Streamlit, SHAP<br>
