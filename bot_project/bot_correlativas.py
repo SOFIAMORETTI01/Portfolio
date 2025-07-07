@@ -6,6 +6,7 @@ import csv
 st.set_page_config(page_title="BOT - Materias FCE 🎓", page_icon="🎓", layout="centered")
 
 st.markdown("""
+
 <style>
 /* Fondo blanco para toda la página */
 .stApp {
@@ -49,6 +50,7 @@ div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
 }
 </style>
 """, unsafe_allow_html=True)
+
 
 body, div, p, label {
     color: #1c1c1c;
