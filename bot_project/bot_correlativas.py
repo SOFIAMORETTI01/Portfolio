@@ -14,21 +14,10 @@ st.markdown("""
     display: flex;
     justify-content: center;
 }
-/* Gran contenedor envolvente */
-section.main > div[data-testid="stVerticalBlock"] {
-    background-color: #AFC2FF;
-    border: 3px solid #e58e26;
-    border-radius: 20px;
-    padding: 40px 30px;
-    max-width: 850px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
-}
 /* Recuadro general del bot */
 main .block-container {
-    background-color: #fef3e2;             /* Fondo suave interior */
-    border: 3px solid #e6b390;             /* Borde visible (color durazno) */
+    background-color: #AFC2FF;             /* Fondo suave interior */
+    border: 3px solid #97B0FF;             /* Borde visible (color durazno) */
     border-radius: 20px;
     padding: 40px;
     max-width: 800px;
