@@ -14,16 +14,16 @@ st.markdown("""
     display: flex;
     justify-content: center;
 }
-/* Contenedor del bot completo */
-section.main > div:first-child {
+/* Gran contenedor envolvente */
+section.main > div[data-testid="stVerticalBlock"] {
     background-color: #fef3e2;
     border: 3px solid #e58e26;
     border-radius: 20px;
-    padding: 40px;
-    max-width: 800px;
+    padding: 40px 30px;
+    max-width: 850px;
     margin-top: 40px;
     margin-bottom: 40px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
 }
 
 /* Recuadro general del bot */
