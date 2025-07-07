@@ -27,12 +27,16 @@ section.main > div[data-testid="stVerticalBlock"] {
 }
 h1 {
     background-color: #fde9ca;
-    padding: 12px 30px;
-    border-radius: 20px;
-    display: inline-block;
-    margin-bottom: 24px;
-    border: 2px solid #e58e26;
+    padding: 20px 30px;
+    border-radius: 20px 20px 0 0;
+    margin: 0;
+    border: 3px solid #e58e26;
+    border-bottom: none;
+    text-align: left;
+    width: 100%;
+    box-sizing: border-box;
 }
+
 /* Recuadro general del bot */
 main .block-container {
     background-color: #fef3e2;             /* Fondo suave interior */
