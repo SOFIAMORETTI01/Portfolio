@@ -14,16 +14,17 @@ st.markdown("""
     display: flex;
     justify-content: center;
 }
-.bot-container {
+/* Contenedor del bot completo */
+section.main > div:first-child {
     background-color: #fef3e2;
     border: 3px solid #e58e26;
     border-radius: 20px;
     padding: 40px;
     max-width: 800px;
-    margin: 40px auto;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
-
 /* Recuadro general del bot */
 main .block-container {
     background-color: #fef3e2;             /* Fondo suave interior */
@@ -317,5 +318,6 @@ entrada = st.chat_input("Escribí tu respuesta acá...")
 if entrada:
     responder_usuario(entrada)
     st.rerun()
-st.markdown("</div>", unsafe_allow_html=True)
+
+
 
