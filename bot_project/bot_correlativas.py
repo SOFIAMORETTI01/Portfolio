@@ -71,8 +71,6 @@ body, div, p, label {
     font-family: 'Segoe UI', sans-serif;
     font-size: 14px;
 }
-</style>
-
 
 /* Input del chat redondeado y con margin */
 .stChatInputContainer > div {
