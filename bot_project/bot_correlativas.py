@@ -25,7 +25,14 @@ section.main > div[data-testid="stVerticalBlock"] {
     margin-bottom: 40px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
 }
-
+h1 {
+    background-color: #fde9ca;
+    padding: 12px 24px;
+    border-radius: 12px;
+    display: inline-block;
+    margin-bottom: 24px;
+    border: 2px solid #e58e26;
+}
 /* Recuadro general del bot */
 main .block-container {
     background-color: #fef3e2;             /* Fondo suave interior */
