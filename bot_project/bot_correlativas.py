@@ -28,7 +28,7 @@ section.main > div[data-testid="stVerticalBlock"] {
 h1 {
     background-color: #fde9ca;
     padding: 12px 30px;
-    border-radius: 12px;
+    border-radius: 20px;
     display: inline-block;
     margin-bottom: 24px;
     border: 2px solid #e58e26;
