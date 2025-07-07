@@ -7,48 +7,72 @@ st.set_page_config(page_title="BOT - Materias FCE 🎓", page_icon="🎓", layou
 
 st.markdown("""
 <style>
-/* Fondo general blanco y centrar contenido */
+/* Fondo blanco para toda la app */
 .stApp {
     background-color: white;
     display: flex;
     justify-content: center;
 }
 
-/* Estilo del gran contenedor (título + chat + input) */
-section.main > div[data-testid="stVerticalBlock"] {
+/* Título centrado y con fondo */
+h1 {
+    background-color: #fde4b4;
+    padding: 20px 30px;
+    border-radius: 18px;
+    border: 2px solid #f4a261;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+/* Contenedor general del bot */
+main .block-container {
     background-color: #fef3e2;
-    border: 3px solid #e58e26;
+    border: 3px solid #e6b390;
     border-radius: 20px;
-    padding: 20px 30px 40px; /* más abajo para el input */
-    max-width: 850px;
-    margin: 40px auto;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    padding: 40px;
+    max-width: 800px;
+    margin-top: 30px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 }
 
-/* Estilo para el título, que ahora se ve como cabecera del recuadro */
-section.main > div[data-testid="stVerticalBlock"] h1 {
-    background-color: #fde9ca;
-    padding: 15px 20px;
-    border-radius: 16px 16px 0 0;
-    margin: -20px -30px 20px; /* pasa sobre el borde superior */
-    border-bottom: 3px solid #e58e26;
-    display: block;
+/* Mensaje del BOT (asistente) */
+[class*="st-key-assistant"] > div[data-testid="stChatMessageContent"] {
+    background-color: #d1e7dd;  /* verde pastel */
+    color: #0f5132;
+    border-radius: 18px;
+    padding: 12px 16px;
+    margin-bottom: 10px;
 }
 
-/* Estilo de las burbujas */
-.stChatMessage {
-    background-color: #ffffff !important;
-    border: 1px solid #e6b390;
+/* Mensaje del USUARIO */
+[class*="st-key-user"] > div[data-testid="stChatMessageContent"] {
+    background-color: #cfe2ff;  /* azul pastel */
+    color: #084298;
+    border-radius: 18px;
+    padding: 12px 16px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+/* Input del chat */
+.stChatInputContainer > div {
+    background-color: #fff3cd;
+    border: 1px solid #ffeeba;
     border-radius: 20px;
     padding: 10px 14px;
-    margin-bottom: 12px;
+    margin-top: 20px;
 }
 
-/* Mensajes del usuario alineados a la derecha */
-div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
-    display: flex !important;
-    justify-content: flex-end !important;
+/* Texto general */
+body, div, p, label {
+    color: #1c1c1c;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 14px;
 }
+</style>
+
 
 /* Input del chat redondeado y con margin */
 .stChatInputContainer > div {
