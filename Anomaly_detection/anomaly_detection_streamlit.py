@@ -73,11 +73,11 @@ st.markdown("""
 print(df.columns.tolist())
 
 st.sidebar.header("🎛️ Filters")
-Province = st.sidebar.multiselect("Province", options=df["Province"].unique(), default=df["Province"].unique())
+Province = st.sidebar.multiselect("Province", options=df["province"].unique(), default=df["province"].unique())
 coverage = st.sidebar.multiselect("Coverage type", options=df["coverage_type"].unique(), default=df["coverage_type"].unique())
 risk_zone = st.sidebar.multiselect("Risk Zone", options=df["risk_zone"].unique(), default=df["risk_zone"].unique())
 
-filter = (df["Province"].isin(Province)) & (df["coverage_type"].isin(coverage)) & (df["risk_zone"].isin(risk_zone))
+filter = (df["province"].isin(Province)) & (df["coverage_type"].isin(coverage)) & (df["risk_zone"].isin(risk_zone))
 df_filtered = df[filter]
 
 # =====================
