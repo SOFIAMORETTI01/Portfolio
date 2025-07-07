@@ -16,7 +16,7 @@ st.markdown("""
 }
 /* Gran contenedor envolvente */
 section.main > div[data-testid="stVerticalBlock"] {
-    background-color: #fef3e2;
+    background-color: #AFC2FF;
     border: 3px solid #e58e26;
     border-radius: 20px;
     padding: 40px 30px;
