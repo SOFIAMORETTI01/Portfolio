@@ -11,7 +11,7 @@ import seaborn as sns
 # =====================
 # 1. Load Data
 # =====================
-df = pd.read_csv(r"C:\Users\SMoretti\Downloads\Portafolio\02. Anomalias_en_siniestros\claims.csv")
+df = pd.read_csv("claims.csv")
 
 # =====================
 # 2. Preprocessing
@@ -56,7 +56,6 @@ df["cluster"] = clusterer.fit_predict(embedding)
 plt.figure(figsize=(10, 6))
 sns.scatterplot(data=df, x="UMAP_1", y="UMAP_2", hue="cluster", palette="tab10", s=15)
 plt.title("Clusters Detected with HDBSCAN + UMAP")
-plt.savefig(r"C:\Users\SMoretti\Downloads\Portafolio\02. Anomalias_en_siniestros\histograma_score.png")
 plt.close()
 
 # =====================
@@ -68,7 +67,6 @@ plt.title("Distribution of Suspicion Score")
 plt.xlabel("Suspicion Score (higher = more atypical)")
 plt.ylabel("Frequency")
 plt.grid(True)
-plt.savefig(r"C:\Users\SMoretti\Downloads\Portafolio\02. Anomalias_en_siniestros\histograma_score.png")
 plt.close()
 
 # =====================
@@ -77,10 +75,9 @@ plt.close()
 explainer = shap.Explainer(iso_model, X_scaled)
 shap_values = explainer(X_scaled[:1])  
 shap.plots.waterfall(shap_values[0], show=False)
-plt.savefig(r"C:\Users\SMoretti\Downloads\Portafolio\02. Anomalias_en_siniestros\shap_waterfall.png")
 plt.close()
 
 # =====================
 # 9. Exportar dataset con scores 
 # =====================
-df.to_csv(r"C:\Users\SMoretti\Downloads\Portafolio\02. Anomalias_en_siniestros\claims_scores.csv", index=False)
+df.to_csv("claims_scores.csv")
