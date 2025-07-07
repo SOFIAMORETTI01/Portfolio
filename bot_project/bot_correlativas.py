@@ -14,6 +14,15 @@ st.markdown("""
     display: flex;
     justify-content: center;
 }
+.bot-container {
+    background-color: #fef3e2;
+    border: 3px solid #e58e26;
+    border-radius: 20px;
+    padding: 40px;
+    max-width: 800px;
+    margin: 40px auto;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
 
 /* Recuadro general del bot */
 main .block-container {
@@ -293,6 +302,10 @@ def responder_usuario(entrada_usuario):
     st.session_state.mensajes.append({"rol": "assistant", "contenido": respuesta})
 
 # -------------------
+st.markdown("""
+<div class="bot-container">
+""", unsafe_allow_html=True)
+
 st.title("🎓 BOT - Materias FCE")
 
 for mensaje in st.session_state.mensajes:
@@ -304,4 +317,5 @@ entrada = st.chat_input("Escribí tu respuesta acá...")
 if entrada:
     responder_usuario(entrada)
     st.rerun()
+st.markdown("</div>", unsafe_allow_html=True)
 
