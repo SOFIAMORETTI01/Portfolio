@@ -17,14 +17,15 @@ st.markdown("""
 
 /* Recuadro general del bot */
 main .block-container {
-    background-color: #fef3e2; /* Color claro del recuadro */
-    border: 2px solid #e6b390;
+    background-color: #fef3e2;             /* Fondo suave interior */
+    border: 3px solid #e6b390;             /* Borde visible (color durazno) */
     border-radius: 20px;
     padding: 40px;
     max-width: 800px;
     margin-top: 30px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 }
+
 
 /* Estilo general de texto */
 body, div, p, label {
