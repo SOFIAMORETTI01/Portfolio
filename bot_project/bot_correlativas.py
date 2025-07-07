@@ -48,10 +48,6 @@ div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
     display: flex !important;
     justify-content: flex-end !important;
 }
-</style>
-""", unsafe_allow_html=True)
-
-
 body, div, p, label {
     color: #1c1c1c;
     font-family: 'Segoe UI', sans-serif;
