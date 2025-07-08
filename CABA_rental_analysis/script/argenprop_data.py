@@ -208,5 +208,5 @@ def unificar_barrio(titulo):
 df["Barrio"] = df["Título"].apply(unificar_barrio)
 
 # Export to CSV
-df.to_csv("script/argenprop_data.csv", index=False, encoding="utf-8-sig")
+df.to_csv("data/argenprop_data.csv", index=False, encoding="utf-8-sig")
 print(f"✅ CSV file generated with {len(df)} publicaciones.")
