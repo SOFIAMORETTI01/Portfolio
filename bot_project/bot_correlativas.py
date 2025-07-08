@@ -6,58 +6,9 @@ import csv
 st.set_page_config(page_title="BOT - Materias FCE 🎓", page_icon="🎓", layout="centered")
 
 st.markdown("""
-
 <style>
-/* Fondo blanco para toda la página */
 .stApp {
-    background-color: white;
-    display: flex;
-    justify-content: center;
-}
-/* Gran contenedor envolvente */
-section.main > div[data-testid="stVerticalBlock"] {
-    background-color: #fef3e2;
-    border: 3px solid #e58e26;
-    border-radius: 20px;
-    padding: 40px 30px;
-    max-width: 850px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
-}
-/* Recuadro general del bot */
-main .block-container {
-    background-color: #fef3e2;             /* Fondo suave interior */
-    border: 3px solid #e6b390;             /* Borde visible (color durazno) */
-    border-radius: 20px;
-    padding: 40px;
-    max-width: 800px;
-    margin-top: 30px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-}
-
-
-/* Estilo general de texto */
-body, div, p, label {
-    color: #1c1c1c;
-    font-family: 'Segoe UI', sans-serif;
-    font-size: 14px;
-}
-
-/* Burbuja del bot */
-.stChatMessage {
-    background-color: #ffffff !important;
-    border-radius: 20px;
-    padding: 10px 14px;
-    max-width: 100% !important;
-    border: 1px solid #e6b390;
-    margin-bottom: 12px;
-}
-
-/* Alinear mensajes del usuario a la derecha */
-div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
-    display: flex !important;
-    justify-content: flex-end !important;
+    background-color: #d49f71;
 }
 body, div, p, label {
     color: #1c1c1c;
