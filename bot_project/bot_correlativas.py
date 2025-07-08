@@ -4,19 +4,31 @@ import unicodedata
 import re
 import csv
 st.set_page_config(page_title="BOT - Materias FCE 🎓", page_icon="🎓", layout="centered")
+
 st.markdown("""
+
 <style>
-/* Fondo general blanco y centrado */
+/* Fondo blanco para toda la página */
 .stApp {
     background-color: white;
     display: flex;
     justify-content: center;
 }
-
-/* Contenedor general */
+/* Gran contenedor envolvente */
+section.main > div[data-testid="stVerticalBlock"] {
+    background-color: #fef3e2;
+    border: 3px solid #e58e26;
+    border-radius: 20px;
+    padding: 40px 30px;
+    max-width: 850px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+/* Recuadro general del bot */
 main .block-container {
-    background-color: #AFC2FF;             
-    border: 3px solid #97B0FF;             
+    background-color: #fef3e2;             /* Fondo suave interior */
+    border: 3px solid #e6b390;             /* Borde visible (color durazno) */
     border-radius: 20px;
     padding: 40px;
     max-width: 800px;
@@ -24,41 +36,49 @@ main .block-container {
     box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 }
 
-/* Tipografía general */
+
+/* Estilo general de texto */
 body, div, p, label {
     color: #1c1c1c;
     font-family: 'Segoe UI', sans-serif;
     font-size: 14px;
 }
 
-/* Burbuja del BOT */
-div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-assistant"]) {
-    background-color: #fff7e6;
-    border: 1px solid #f7c66a;
+/* Burbuja del bot */
+.stChatMessage {
+    background-color: #ffffff !important;
     border-radius: 20px;
     padding: 10px 14px;
+    max-width: 100% !important;
+    border: 1px solid #e6b390;
     margin-bottom: 12px;
-    display: flex !important;
-    justify-content: flex-start !important;
-    color: #1c1c1c;
 }
 
-/* Burbuja del USUARIO */
+/* Alinear mensajes del usuario a la derecha */
 div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
-    background-color: #d6e4ff;
-    border: 1px solid #97B0FF;
-    border-radius: 20px;
-    padding: 10px 14px;
-    margin-bottom: 12px;
     display: flex !important;
     justify-content: flex-end !important;
-    color: #1c1c1c;
 }
+body, div, p, label {
+    color: #1c1c1c;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 14px;
+}
+.stChatMessage {
+    background-color: #fef3e2 !important;
+    border-radius: 20px;
+    padding: 10px 14px;
+    max-width: 100% !important;
+    border: 1px solid #e6b390;
+    margin-bottom: 12px;
+}
+div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+
 </style>
 """, unsafe_allow_html=True)
-
-
-
 
 def normalizar(texto):
     if pd.isna(texto):
