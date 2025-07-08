@@ -93,7 +93,7 @@ if "mensajes" not in st.session_state:
         "rol": "assistant",
         "contenido": (
             "👋 ¡Hola! Soy el bot de ayuda de FCE.\n\n"
-            "Estoy acá para ayudarte a entender las materias, sus correlativas, y también las optativas y electivas vigentes.\n\n"
+            "Estoy acá para ayudarte a conocer mejor las materias de tu carrera, cuáles son sus correlativas y qué opciones de materias optativas y electivas tenés disponibles.\n\n"
             "📚 Para comenzar, elegí tu carrera escribiendo el número correspondiente:\n"
             "```\n"
             "1️⃣ Contador\n"
