@@ -23,7 +23,7 @@ body, div, p, label {
 
 /* Burbuja del BOT (asistente) */
 div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-assistant"]) {
-    background-color: #ffffff;
+    background-color: #BDCDFF;
     border: 1px solid #e6b390;
     border-radius: 20px;
     padding: 10px 14px;
