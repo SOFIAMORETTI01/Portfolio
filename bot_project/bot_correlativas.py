@@ -4,9 +4,7 @@ import unicodedata
 import re
 import csv
 st.set_page_config(page_title="BOT - Materias FCE 🎓", page_icon="🎓", layout="centered")
-
 st.markdown("""
-
 <style>
 /* Fondo blanco para toda la página */
 .stApp {
@@ -14,6 +12,7 @@ st.markdown("""
     display: flex;
     justify-content: center;
 }
+
 /* Estilo general de texto */
 body, div, p, label {
     color: #1c1c1c;
@@ -23,8 +22,8 @@ body, div, p, label {
 
 /* Burbuja del BOT (asistente) */
 div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-assistant"]) {
-    background-color: #BDCDFF;
-    border: 1px solid #e6b390;
+    background-color: #BDCDFF;             /* Celeste claro */
+    border: 1px solid #e6b390;             /* Borde suave */
     border-radius: 20px;
     padding: 10px 14px;
     margin-bottom: 12px;
@@ -33,7 +32,7 @@ div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-assistant"]) 
 
 /* Burbuja del USUARIO */
 div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
-    background-color: #d6e4ff;
+    background-color: #d6e4ff;             /* Azul pastel */
     border: 1px solid #97B0FF;
     border-radius: 20px;
     padding: 10px 14px;
@@ -42,26 +41,9 @@ div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
     display: flex !important;
     justify-content: flex-end !important;
 }
-
-
-/* Alinear mensajes del usuario a la derecha */
-div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
-    display: flex !important;
-    justify-content: flex-end !important;
-}
-body, div, p, label {
-    color: #1c1c1c;
-    font-family: 'Segoe UI', sans-serif;
-    font-size: 14px;
-}
-
-div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
-    display: flex !important;
-    justify-content: flex-end !important;
-}
-
 </style>
 """, unsafe_allow_html=True)
+
 
 def normalizar(texto):
     if pd.isna(texto):
