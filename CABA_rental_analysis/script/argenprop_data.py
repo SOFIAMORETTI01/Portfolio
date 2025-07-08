@@ -1,4 +1,4 @@
-# Libraries
+# Import necessary libraries
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -6,20 +6,23 @@ from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import time
 
+# Configure Chrome in headless mode
 options = webdriver.ChromeOptions()
 options.add_argument("--headless=new")
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-# URL only for Capital Federal
+# Open Argenprop rentals page for Capital Federal
 url = "https://www.argenprop.com/departamentos/alquiler/capital-federal"
 driver.get(url)
 time.sleep(4)
 
+# Store scraped data here
 resultados = []
 pagina = 1
 
+# Loop through 20 pages 
 while pagina <= 20:
     print(f"🔍 Scrapeando página {pagina}")
     cards = driver.find_elements(By.CLASS_NAME, "listing__item")
@@ -116,7 +119,8 @@ while pagina <= 20:
                     estado = item
         except:
             pass
-
+            
+# Append extracted info to list
         resultados.append({
             "Título": titulo,
             "Precio": precio,
@@ -129,7 +133,7 @@ while pagina <= 20:
             "Baños": banios,
             "Antigüedad": antiguedad,
         })
-
+#  Move to next page
     try:
         siguiente = driver.find_element(By.XPATH, "//a[@aria-label='Siguiente']")
         driver.execute_script("arguments[0].click();", siguiente)
@@ -141,10 +145,10 @@ while pagina <= 20:
 
 driver.quit()
 
-# DataFrame creation
+# Create final DataFrame
 df = pd.DataFrame(resultados)
 
-# Neighborhood unification
+# Neighborhood normalization from title
 def unificar_barrio(titulo):
     titulo = titulo.lower()
     if "caballito" in titulo:
@@ -200,8 +204,9 @@ def unificar_barrio(titulo):
     else:
         return titulo.title().split(",")[0]
 
+# Apply neighborhood extraction
 df["Barrio"] = df["Título"].apply(unificar_barrio)
 
-# CSV creation
-df.to_csv("C:/Users/SMoretti/Downloads/Portafolio/01. Alquileres/data/argenprop_data.csv", index=False, encoding="utf-8-sig")
-print(f"✅ Archivo generado con {len(df)} publicaciones.")
+# Export to CSV
+df.to_csv("script/argenprop_data.csv", index=False, encoding="utf-8-sig")
+print(f"✅ CSV file generated with {len(df)} publicaciones.")
