@@ -8,7 +8,7 @@ st.set_page_config(page_title="BOT - Materias FCE 🎓", page_icon="🎓", layou
 st.markdown("""
 <style>
 .stApp {
-    background-color: #BDCDFF;
+    background-color: #B86E00;
 }
 body, div, p, label {
     color: #1c1c1c;
