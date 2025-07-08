@@ -15,25 +15,28 @@ st.markdown("""
 }
 
 /* Mensaje del BOT */
-div[class^="stChatMessage"] > div:nth-child(1):not(:has(svg)) {
-    background-color: #e6ecff;
-    border: 1px solid #a3baff;
+div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-assistant"]) {
+    background-color: #fff7e6;
+    border: 1px solid #f7c66a;
     border-radius: 20px;
     padding: 10px 14px;
-    margin: 10px 0;
-    color: #1c1c1c;
+    margin-bottom: 12px;
+    display: flex !important;
+    justify-content: flex-start !important;
 }
 
+
 /* Mensaje del USUARIO */
-div[class^="stChatMessage"]:has(svg) {
-    background-color: #fce5cd;
-    border: 1px solid #f4b183;
+div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
+    background-color: #d6e4ff;
+    border: 1px solid #97B0FF;
     border-radius: 20px;
     padding: 10px 14px;
-    margin: 10px 0;
-    color: #1c1c1c;
-    text-align: right;
+    margin-bottom: 12px;
+    display: flex !important;
+    justify-content: flex-end !important;
 }
+
 </style>
 """, unsafe_allow_html=True)
 
