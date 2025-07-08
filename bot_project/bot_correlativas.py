@@ -6,15 +6,32 @@ import csv
 st.set_page_config(page_title="BOT - Materias FCE 🎓", page_icon="🎓", layout="centered")
 st.markdown("""
 <style>
-/* Fondo de la página */
+/* Fondo general blanco y centrado */
 .stApp {
     background-color: white;
     display: flex;
     justify-content: center;
-    font-family: 'Segoe UI', sans-serif;
 }
 
-/* Mensaje del BOT */
+/* Contenedor general */
+main .block-container {
+    background-color: #AFC2FF;             
+    border: 3px solid #97B0FF;             
+    border-radius: 20px;
+    padding: 40px;
+    max-width: 800px;
+    margin-top: 30px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* Tipografía general */
+body, div, p, label {
+    color: #1c1c1c;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 14px;
+}
+
+/* Burbuja del BOT */
 div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-assistant"]) {
     background-color: #fff7e6;
     border: 1px solid #f7c66a;
@@ -23,10 +40,10 @@ div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-assistant"]) 
     margin-bottom: 12px;
     display: flex !important;
     justify-content: flex-start !important;
+    color: #1c1c1c;
 }
 
-
-/* Mensaje del USUARIO */
+/* Burbuja del USUARIO */
 div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
     background-color: #d6e4ff;
     border: 1px solid #97B0FF;
@@ -35,10 +52,11 @@ div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
     margin-bottom: 12px;
     display: flex !important;
     justify-content: flex-end !important;
+    color: #1c1c1c;
 }
-
 </style>
 """, unsafe_allow_html=True)
+
 
 
 
