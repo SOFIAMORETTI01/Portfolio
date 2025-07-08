@@ -3,12 +3,18 @@ import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
+import requests
 
 # We use the previous CSV
-df = pd.read_csv("C:/Users/SMoretti/Downloads/Portafolio/01. Alquileres/data/argenprop_data.csv")
+df = pd.read_csv("data/argenprop_data.csv")
 
-# TC
-tc = 1142
+# TC used for USD to ARS conversion
+url = "https://api.bluelytics.com.ar/v2/latest"
+resp = requests.get(url)
+resp.raise_for_status()
+data = resp.json()
+tc = data["blue"]["value_avg"]
+print(f"✅ Current USD→ARS rate (blue): {tc:.2f} ARS") 
 
 # Conversion
 df["Precio_Pesos"] = df.apply(
