@@ -6,9 +6,58 @@ import csv
 st.set_page_config(page_title="BOT - Materias FCE 🎓", page_icon="🎓", layout="centered")
 
 st.markdown("""
+
 <style>
+/* Fondo blanco para toda la página */
 .stApp {
-    background-color: #d49f71;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+/* Gran contenedor envolvente */
+section.main > div[data-testid="stVerticalBlock"] {
+    background-color: #fef3e2;
+    border: 3px solid #e58e26;
+    border-radius: 20px;
+    padding: 40px 30px;
+    max-width: 850px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+/* Recuadro general del bot */
+main .block-container {
+    background-color: #fef3e2;             /* Fondo suave interior */
+    border: 3px solid #e6b390;             /* Borde visible (color durazno) */
+    border-radius: 20px;
+    padding: 40px;
+    max-width: 800px;
+    margin-top: 30px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+
+/* Estilo general de texto */
+body, div, p, label {
+    color: #1c1c1c;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 14px;
+}
+
+/* Burbuja del bot */
+.stChatMessage {
+    background-color: #ffffff !important;
+    border-radius: 20px;
+    padding: 10px 14px;
+    max-width: 100% !important;
+    border: 1px solid #e6b390;
+    margin-bottom: 12px;
+}
+
+/* Alinear mensajes del usuario a la derecha */
+div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
+    display: flex !important;
+    justify-content: flex-end !important;
 }
 body, div, p, label {
     color: #1c1c1c;
@@ -104,14 +153,12 @@ if "materia" not in st.session_state:
 def mostrar_menu():
     return (
         "📚 ¿Qué tipo de información necesitás consultar?\n"
-        "
-\n"
+        "```\n"
         "1️⃣ Materias correlativas\n"
         "2️⃣ Materias optativas\n"
         "3️⃣ Materias electivas\n"
         "4️⃣ Volver al menú inicial\n"
-        "
-"
+        "```"
     )
 
 def responder_usuario(entrada_usuario):
@@ -127,15 +174,13 @@ def responder_usuario(entrada_usuario):
         else:
             respuesta = (
                 "❌ Opción inválida. Por favor escribí un número del 1 al 6 para elegir tu carrera:\n"
-                "
-\n"
+                "```\n"
                 "1️⃣ Contador\n"
                 "2️⃣ Licenciatura en Administración de Empresas\n"
                 "3️⃣ Licenciatura en Economía\n"
                 "4️⃣ Licenciatura en Sistemas\n"
                 "5️⃣ Actuario\n"
-                "
-"
+                "```"
             )
 
     elif st.session_state.estado == "menu":
@@ -159,11 +204,9 @@ def responder_usuario(entrada_usuario):
 
             respuesta += (
                 "\n\n📋 ¿Qué querés hacer ahora?\n"
-                "
-\n"
+                "```\n"
                 "1️⃣ Volver al menú\n"
-                "
-"
+                "```"
             )
         elif entrada_norm in ["3", "tres"]:
             st.session_state.estado = "electivas"
@@ -179,11 +222,9 @@ def responder_usuario(entrada_usuario):
 
             respuesta += (
                 "\n\n📋 ¿Qué querés hacer ahora?\n"
-                "
-\n"
+                "```\n"
                 "1️⃣ Volver al menú\n"
-                "
-"
+                "```"
             )
         elif entrada_norm in ["4", "cuatro"]:
             st.session_state.estado = "inicio"
@@ -191,15 +232,13 @@ def responder_usuario(entrada_usuario):
             respuesta = (
                 "🔁 Volviste al menú inicial.\n\n"
                 "📚 Para comenzar, elegí tu carrera escribiendo el número correspondiente:\n"
-                "
-\n"
+                "```\n"
                 "1️⃣ Contador\n"
                 "2️⃣ Licenciatura en Administración de Empresas\n"
                 "3️⃣ Licenciatura en Economía\n"
                 "4️⃣ Licenciatura en Sistemas\n"
                 "5️⃣ Actuario\n"
-                "
-"
+                "```"
             )
         else:
             respuesta = "❌ Opción inválida. Por favor escribí 1, 2, 3 o 4.\n\n" + mostrar_menu()
@@ -237,12 +276,10 @@ def responder_usuario(entrada_usuario):
 
             respuesta += (
                 "\n\n📋 ¿Qué querés hacer ahora?\n"
-                "
-\n"
+                "```\n"
                 "1️⃣ Consultar por otra materia\n"
                 "2️⃣ Volver al menú\n"
-                "
-"
+                "```"
             )
 
     elif st.session_state.estado in ["optativas", "electivas"]:
@@ -252,11 +289,9 @@ def responder_usuario(entrada_usuario):
         else:
             respuesta = (
                 "📋 ¿Qué querés hacer ahora?\n"
-                "
-\n"
+                "```\n"
                 "1️⃣ Volver al menú\n"
-                "
-"
+                "```"
             )
 
         st.session_state.mensajes.append({"rol": "assistant", "contenido": respuesta})
