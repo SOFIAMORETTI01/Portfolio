@@ -1,31 +1,23 @@
 # ================================
 # BOT DE MATERIAS FCE - STREAMLIT
 # ================================
-
-# Importación de librerías necesarias
 import streamlit as st
 import pandas as pd
 import unicodedata
 import re
 import csv
-
-# Configuración general de la página
 st.set_page_config(page_title="BOT - Materias FCE", page_icon="🎓", layout="centered")
 
-# Estilos personalizados con CSS (colores, burbujas de chat, tipografía)
 st.markdown("""
 <style>
-/* Fondo de la app */
 .stApp {
     background-color: #d49f71;
 }
-/* Estilo general de textos */
 body, div, p, label {
     color: #1c1c1c;
     font-family: 'Segoe UI', sans-serif;
     font-size: 14px;
 }
-/* Burbujas de los mensajes del bot y usuario */
 .stChatMessage {
     background-color: #fef3e2 !important;
     border-radius: 20px;
@@ -34,15 +26,14 @@ body, div, p, label {
     border: 1px solid #e6b390;
     margin-bottom: 12px;
 }
-/* Alineación de los mensajes del usuario a la derecha */
 div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
     display: flex !important;
     justify-content: flex-end !important;
 }
+
 </style>
 """, unsafe_allow_html=True)
 
-# Función para normalizar texto (sin acentos, todo en minúsculas)
 def normalizar(texto):
     if pd.isna(texto):
         return ""
@@ -50,9 +41,9 @@ def normalizar(texto):
     texto = unicodedata.normalize('NFD', texto).encode('ascii', 'ignore').decode('utf-8')
     return texto
 
-# Cargar el archivo de materias, limpiar texto y agregar columnas normalizadas
 @st.cache_data
 def cargar_datos():
+    import csv
     df = pd.read_csv(
         "bot_project/Materias_BOT.csv",
         encoding="latin1",
@@ -61,17 +52,19 @@ def cargar_datos():
         engine="python"
     )
     df.columns = df.columns.str.strip()
+
     for col in ["Carrera", "Materia", "Correlativas"]:
         if col in df.columns:
             df[col] = df[col].astype(str).apply(lambda x: unicodedata.normalize('NFD', x).encode('ascii', 'ignore').decode('utf-8').strip())
+
     df["Carrera_norm"] = df["Carrera"].apply(normalizar)
     df["Materia_norm"] = df["Materia"].apply(normalizar)
     return df
 
-# Cargar una vez el dataframe
+
+# Cargar df una vez acá
 df = cargar_datos()
 
-# Lista de carreras disponibles
 carreras_opciones = [
     "Contador",
     "Licenciatura en Administración de Empresas",
@@ -80,7 +73,14 @@ carreras_opciones = [
     "Actuario"
 ]
 
-# Inicialización de estados del bot si es la primera vez
+def normalizar(texto):
+    if pd.isna(texto):
+        return ""
+    texto = texto.lower().strip()
+    texto = unicodedata.normalize('NFD', texto).encode('ascii', 'ignore').decode('utf-8')
+    return texto
+
+# Inicializar estado
 if "mensajes" not in st.session_state:
     st.session_state.mensajes = [{
         "rol": "assistant",
@@ -88,13 +88,15 @@ if "mensajes" not in st.session_state:
             "👋 ¡Hola! Soy el bot de ayuda de FCE.\n\n"
             "Estoy acá para ayudarte a entender las materias, sus correlativas, y también las optativas y electivas vigentes.\n\n"
             "📚 Para comenzar, elegí tu carrera escribiendo el número correspondiente:\n"
-            "```\n"
+            "
+\n"
             "1️⃣ Contador\n"
             "2️⃣ Licenciatura en Administración de Empresas\n"
             "3️⃣ Licenciatura en Economía\n"
             "4️⃣ Licenciatura en Sistemas\n"
             "5️⃣ Actuario\n"
-            "```"
+            "
+"
         )
     }]
 if "estado" not in st.session_state:
@@ -104,24 +106,23 @@ if "carrera" not in st.session_state:
 if "materia" not in st.session_state:
     st.session_state.materia = ""
 
-# Menú general con opciones luego de elegir carrera
 def mostrar_menu():
     return (
         "📚 ¿Qué tipo de información necesitás consultar?\n"
-        "```\n"
+        "
+\n"
         "1️⃣ Materias correlativas\n"
         "2️⃣ Materias optativas\n"
         "3️⃣ Materias electivas\n"
         "4️⃣ Volver al menú inicial\n"
-        "```"
+        "
+"
     )
 
-# Lógica del bot en función del estado y entrada del usuario
 def responder_usuario(entrada_usuario):
     st.session_state.mensajes.append({"rol": "user", "contenido": entrada_usuario})
     entrada_norm = normalizar(entrada_usuario)
 
-    # Estado: Selección de carrera
     if st.session_state.estado == "inicio":
         if entrada_norm in ["1", "2", "3", "4", "5", "6"]:
             seleccion = int(entrada_norm) - 1
@@ -131,16 +132,17 @@ def responder_usuario(entrada_usuario):
         else:
             respuesta = (
                 "❌ Opción inválida. Por favor escribí un número del 1 al 6 para elegir tu carrera:\n"
-                "```\n"
+                "
+\n"
                 "1️⃣ Contador\n"
                 "2️⃣ Licenciatura en Administración de Empresas\n"
                 "3️⃣ Licenciatura en Economía\n"
                 "4️⃣ Licenciatura en Sistemas\n"
                 "5️⃣ Actuario\n"
-                "```"
+                "
+"
             )
 
-    # Estado: Menú principal
     elif st.session_state.estado == "menu":
         carrera_norm = normalizar(st.session_state.carrera)
         df["Carrera_norm"] = df["Carrera"].apply(normalizar)
@@ -150,38 +152,63 @@ def responder_usuario(entrada_usuario):
             respuesta = "✏️ Escribí el nombre de la materia para ver sus correlativas:"
         elif entrada_norm in ["2", "dos"]:
             st.session_state.estado = "optativas"
-            optativas = df[(df["Código"] == "Optativa") & (df["Carrera_norm"] == carrera_norm)]["Materia"].dropna().tolist()
+            optativas = df[
+                (df["Código"] == "Optativa") &
+                (df["Carrera_norm"] == carrera_norm)
+            ]["Materia"].dropna().tolist()
+
             if optativas:
                 respuesta = "📘 Estas son las materias optativas vigentes para tu carrera:\n" + "\n".join(f"- {m}" for m in optativas)
             else:
                 respuesta = "⚠️ No encontré materias optativas vigentes para tu carrera."
-            respuesta += "\n\n📋 ¿Qué querés hacer ahora?\n```\n1️⃣ Volver al menú\n```"
+
+            respuesta += (
+                "\n\n📋 ¿Qué querés hacer ahora?\n"
+                "
+\n"
+                "1️⃣ Volver al menú\n"
+                "
+"
+            )
         elif entrada_norm in ["3", "tres"]:
             st.session_state.estado = "electivas"
-            electivas = df[(df["Código"] == "Electiva") & (df["Carrera_norm"] == carrera_norm)]["Materia"].dropna().tolist()
+            electivas = df[
+                (df["Código"] == "Electiva") &
+                (df["Carrera_norm"] == carrera_norm)
+            ]["Materia"].dropna().tolist()
+
             if electivas:
                 respuesta = "📗 Estas son las materias electivas vigentes para tu carrera:\n" + "\n".join(f"- {m}" for m in electivas)
             else:
                 respuesta = "⚠️ No encontré materias electivas vigentes para tu carrera."
-            respuesta += "\n\n📋 ¿Qué querés hacer ahora?\n```\n1️⃣ Volver al menú\n```"
+
+            respuesta += (
+                "\n\n📋 ¿Qué querés hacer ahora?\n"
+                "
+\n"
+                "1️⃣ Volver al menú\n"
+                "
+"
+            )
         elif entrada_norm in ["4", "cuatro"]:
             st.session_state.estado = "inicio"
             st.session_state.carrera = ""
             respuesta = (
                 "🔁 Volviste al menú inicial.\n\n"
                 "📚 Para comenzar, elegí tu carrera escribiendo el número correspondiente:\n"
-                "```\n"
+                "
+\n"
                 "1️⃣ Contador\n"
                 "2️⃣ Licenciatura en Administración de Empresas\n"
                 "3️⃣ Licenciatura en Economía\n"
                 "4️⃣ Licenciatura en Sistemas\n"
                 "5️⃣ Actuario\n"
-                "```"
+                "
+"
             )
         else:
             respuesta = "❌ Opción inválida. Por favor escribí 1, 2, 3 o 4.\n\n" + mostrar_menu()
 
-    # Estado: Correlativas
     elif st.session_state.estado == "correlativas":
         if entrada_norm == "2":
             st.session_state.estado = "menu"
@@ -191,9 +218,14 @@ def responder_usuario(entrada_usuario):
         else:
             st.session_state.materia = entrada_usuario.strip()
             carrera_norm = normalizar(st.session_state.carrera)
+
             df["Carrera_norm"] = df["Carrera"].apply(normalizar)
             df["Materia_norm"] = df["Materia"].apply(normalizar)
-            coincidencias = df[(df["Carrera_norm"] == carrera_norm) & (df["Materia_norm"] == entrada_norm)]
+
+            coincidencias = df[
+                (df["Carrera_norm"] == carrera_norm) &
+                (df["Materia_norm"] == entrada_norm)
+            ]
 
             if coincidencias.empty:
                 respuesta = f"❌ No encontré la materia **{st.session_state.materia}** en la carrera **{st.session_state.carrera}**."
@@ -201,19 +233,36 @@ def responder_usuario(entrada_usuario):
                 correlativas_raw = coincidencias["Correlativas"].values[0]
                 correlativas = str(correlativas_raw).replace('"', '').strip()
                 if correlativas in ["", "-", "", "|", "nan"]:
-                    respuesta = f"✅ Para **{st.session_state.materia}**, ¡no necesitás correlativas!"
+                   respuesta = f"✅ Para **{st.session_state.materia}**, ¡no necesitás correlativas!"
                 else:
-                    lista = [x.strip() for x in correlativas.split("|") if x.strip()]
-                    respuesta = f"📚 Para **{st.session_state.materia}**, necesitás tener aprobada:\n" + "\n".join(f"- {c}" for c in lista)
-            respuesta += "\n\n📋 ¿Qué querés hacer ahora?\n```\n1️⃣ Consultar por otra materia\n2️⃣ Volver al menú\n```"
+                   lista = [x.strip() for x in correlativas.split("|") if x.strip()]
+                   respuesta = f"📚 Para **{st.session_state.materia}**, necesitás tener aprobada:\n"
+                   for c in lista:
+                    respuesta += f"- {c}\n"
 
-    # Estado: Optativas o electivas
+            respuesta += (
+                "\n\n📋 ¿Qué querés hacer ahora?\n"
+                "
+\n"
+                "1️⃣ Consultar por otra materia\n"
+                "2️⃣ Volver al menú\n"
+                "
+"
+            )
+
     elif st.session_state.estado in ["optativas", "electivas"]:
         if entrada_norm == "1":
             st.session_state.estado = "menu"
             respuesta = mostrar_menu()
         else:
-            respuesta = "📋 ¿Qué querés hacer ahora?\n```\n1️⃣ Volver al menú\n```"
+            respuesta = (
+                "📋 ¿Qué querés hacer ahora?\n"
+                "
+\n"
+                "1️⃣ Volver al menú\n"
+                "
+"
+            )
 
         st.session_state.mensajes.append({"rol": "assistant", "contenido": respuesta})
         return
@@ -223,22 +272,15 @@ def responder_usuario(entrada_usuario):
 
     st.session_state.mensajes.append({"rol": "assistant", "contenido": respuesta})
 
-# ==========================
-# Renderizar interfaz
-# ==========================
-
-# Mostrar título
+# -------------------
 st.title("🎓 BOT - Materias FCE")
 
-# 💬 Mostrar historial de mensajes
 for mensaje in st.session_state.mensajes:
     with st.chat_message(mensaje["rol"]):
         st.markdown(mensaje["contenido"])
 
-# Campo para que el usuario escriba
 entrada = st.chat_input("Escribí tu respuesta acá...")
 
-# Si hay mensaje nuevo, procesar
 if entrada:
     responder_usuario(entrada)
     st.rerun()
