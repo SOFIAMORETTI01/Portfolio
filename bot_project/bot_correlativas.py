@@ -1,13 +1,17 @@
 # ================================
 # BOT DE MATERIAS FCE - STREAMLIT
 # ================================
+# Importación de librerías necesarias
 import streamlit as st
 import pandas as pd
 import unicodedata
 import re
 import csv
+
+# Configuración general de la página
 st.set_page_config(page_title="BOT - Materias FCE", page_icon="🎓", layout="centered")
 
+# Estilos personalizados con CSS
 st.markdown("""
 <style>
 .stApp {
@@ -33,6 +37,8 @@ div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
 
 </style>
 """, unsafe_allow_html=True)
+
+# Función para normalizar texto
 def normalizar(texto):
     if pd.isna(texto):
         return ""
@@ -40,6 +46,7 @@ def normalizar(texto):
     texto = unicodedata.normalize('NFD', texto).encode('ascii', 'ignore').decode('utf-8')
     return texto
 
+# Cargar el archivo de materias, limpiar texto y agregar columnas normalizadas
 @st.cache_data
 def cargar_datos():
     import csv
@@ -64,6 +71,7 @@ def cargar_datos():
 # Cargar df una vez acá
 df = cargar_datos()
 
+# Lista de carreras disponibles
 carreras_opciones = [
     "Contador",
     "Licenciatura en Administración de Empresas",
@@ -79,7 +87,7 @@ def normalizar(texto):
     texto = unicodedata.normalize('NFD', texto).encode('ascii', 'ignore').decode('utf-8')
     return texto
 
-# Inicializar estado
+# Inicialización de estados del bot si es la primera vez
 if "mensajes" not in st.session_state:
     st.session_state.mensajes = [{
         "rol": "assistant",
@@ -102,7 +110,8 @@ if "carrera" not in st.session_state:
     st.session_state.carrera = ""
 if "materia" not in st.session_state:
     st.session_state.materia = ""
-
+    
+# Menú general con opciones luego de elegir carrera
 def mostrar_menu():
     return (
         "📚 ¿Qué tipo de información necesitás consultar?\n"
@@ -113,7 +122,7 @@ def mostrar_menu():
         "4️⃣ Volver al menú inicial\n"
         "```"
     )
-
+# Lógica del bot en función del estado y entrada del usuario
 def responder_usuario(entrada_usuario):
     st.session_state.mensajes.append({"rol": "user", "contenido": entrada_usuario})
     entrada_norm = normalizar(entrada_usuario)
@@ -135,7 +144,7 @@ def responder_usuario(entrada_usuario):
                 "5️⃣ Actuario\n"
                 "```"
             )
-
+    # Estado: Menú principal
     elif st.session_state.estado == "menu":
         carrera_norm = normalizar(st.session_state.carrera)
         df["Carrera_norm"] = df["Carrera"].apply(normalizar)
@@ -195,7 +204,8 @@ def responder_usuario(entrada_usuario):
             )
         else:
             respuesta = "❌ Opción inválida. Por favor escribí 1, 2, 3 o 4.\n\n" + mostrar_menu()
-
+   
+    # Estado: Correlativas
     elif st.session_state.estado == "correlativas":
         if entrada_norm == "2":
             st.session_state.estado = "menu"
@@ -234,7 +244,8 @@ def responder_usuario(entrada_usuario):
                 "2️⃣ Volver al menú\n"
                 "```"
             )
-
+  
+    # Estado: Optativas o electivas
     elif st.session_state.estado in ["optativas", "electivas"]:
         if entrada_norm == "1":
             st.session_state.estado = "menu"
@@ -255,7 +266,9 @@ def responder_usuario(entrada_usuario):
 
     st.session_state.mensajes.append({"rol": "assistant", "contenido": respuesta})
 
-# -------------------
+# ==========================
+# 📱 Renderizar interfaz
+# ==========================
 st.title("🎓 BOT - Materias FCE")
 
 for mensaje in st.session_state.mensajes:
