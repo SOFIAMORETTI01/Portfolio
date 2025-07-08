@@ -33,7 +33,6 @@ div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
 
 </style>
 """, unsafe_allow_html=True)
-
 def normalizar(texto):
     if pd.isna(texto):
         return ""
@@ -88,15 +87,13 @@ if "mensajes" not in st.session_state:
             "👋 ¡Hola! Soy el bot de ayuda de FCE.\n\n"
             "Estoy acá para ayudarte a entender las materias, sus correlativas, y también las optativas y electivas vigentes.\n\n"
             "📚 Para comenzar, elegí tu carrera escribiendo el número correspondiente:\n"
-            "
-\n"
+            "```\n"
             "1️⃣ Contador\n"
             "2️⃣ Licenciatura en Administración de Empresas\n"
             "3️⃣ Licenciatura en Economía\n"
             "4️⃣ Licenciatura en Sistemas\n"
             "5️⃣ Actuario\n"
-            "
-"
+            "```"
         )
     }]
 if "estado" not in st.session_state:
@@ -109,14 +106,12 @@ if "materia" not in st.session_state:
 def mostrar_menu():
     return (
         "📚 ¿Qué tipo de información necesitás consultar?\n"
-        "
-\n"
+        "```\n"
         "1️⃣ Materias correlativas\n"
         "2️⃣ Materias optativas\n"
         "3️⃣ Materias electivas\n"
         "4️⃣ Volver al menú inicial\n"
-        "
-"
+        "```"
     )
 
 def responder_usuario(entrada_usuario):
@@ -132,15 +127,13 @@ def responder_usuario(entrada_usuario):
         else:
             respuesta = (
                 "❌ Opción inválida. Por favor escribí un número del 1 al 6 para elegir tu carrera:\n"
-                "
-\n"
+                "```\n"
                 "1️⃣ Contador\n"
                 "2️⃣ Licenciatura en Administración de Empresas\n"
                 "3️⃣ Licenciatura en Economía\n"
                 "4️⃣ Licenciatura en Sistemas\n"
                 "5️⃣ Actuario\n"
-                "
-"
+                "```"
             )
 
     elif st.session_state.estado == "menu":
@@ -164,11 +157,9 @@ def responder_usuario(entrada_usuario):
 
             respuesta += (
                 "\n\n📋 ¿Qué querés hacer ahora?\n"
-                "
-\n"
+                "```\n"
                 "1️⃣ Volver al menú\n"
-                "
-"
+                "```"
             )
         elif entrada_norm in ["3", "tres"]:
             st.session_state.estado = "electivas"
@@ -184,11 +175,9 @@ def responder_usuario(entrada_usuario):
 
             respuesta += (
                 "\n\n📋 ¿Qué querés hacer ahora?\n"
-                "
-\n"
+                "```\n"
                 "1️⃣ Volver al menú\n"
-                "
-"
+                "```"
             )
         elif entrada_norm in ["4", "cuatro"]:
             st.session_state.estado = "inicio"
@@ -196,15 +185,13 @@ def responder_usuario(entrada_usuario):
             respuesta = (
                 "🔁 Volviste al menú inicial.\n\n"
                 "📚 Para comenzar, elegí tu carrera escribiendo el número correspondiente:\n"
-                "
-\n"
+                "```\n"
                 "1️⃣ Contador\n"
                 "2️⃣ Licenciatura en Administración de Empresas\n"
                 "3️⃣ Licenciatura en Economía\n"
                 "4️⃣ Licenciatura en Sistemas\n"
                 "5️⃣ Actuario\n"
-                "
-"
+                "```"
             )
         else:
             respuesta = "❌ Opción inválida. Por favor escribí 1, 2, 3 o 4.\n\n" + mostrar_menu()
@@ -242,12 +229,10 @@ def responder_usuario(entrada_usuario):
 
             respuesta += (
                 "\n\n📋 ¿Qué querés hacer ahora?\n"
-                "
-\n"
+                "```\n"
                 "1️⃣ Consultar por otra materia\n"
                 "2️⃣ Volver al menú\n"
-                "
-"
+                "```"
             )
 
     elif st.session_state.estado in ["optativas", "electivas"]:
@@ -257,11 +242,9 @@ def responder_usuario(entrada_usuario):
         else:
             respuesta = (
                 "📋 ¿Qué querés hacer ahora?\n"
-                "
-\n"
+                "```\n"
                 "1️⃣ Volver al menú\n"
-                "
-"
+                "```"
             )
 
         st.session_state.mensajes.append({"rol": "assistant", "contenido": respuesta})
@@ -284,3 +267,5 @@ entrada = st.chat_input("Escribí tu respuesta acá...")
 if entrada:
     responder_usuario(entrada)
     st.rerun()
+
+
