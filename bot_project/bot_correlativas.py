@@ -85,15 +85,13 @@ if "mensajes" not in st.session_state:
             "👋 ¡Hola! Soy el bot de ayuda de FCE.\n\n"
             "Estoy acá para ayudarte a entender las materias, sus correlativas, y también las optativas y electivas vigentes.\n\n"
             "📚 Para comenzar, elegí tu carrera escribiendo el número correspondiente:\n"
-            "
-\n"
+            "```\n"
             "1️⃣ Contador\n"
             "2️⃣ Licenciatura en Administración de Empresas\n"
             "3️⃣ Licenciatura en Economía\n"
             "4️⃣ Licenciatura en Sistemas\n"
             "5️⃣ Actuario\n"
-            "
-"
+            "```"
         )
     }]
 if "estado" not in st.session_state:
