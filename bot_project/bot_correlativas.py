@@ -3,12 +3,12 @@ import pandas as pd
 import unicodedata
 import re
 import csv
-st.set_page_config(page_title="BOT - Materias FCE 🎓", page_icon="🎓", layout="centered")
+st.set_page_config(page_title="BOT - Materias FCE", page_icon="🎓", layout="centered")
 
 st.markdown("""
 <style>
 .stApp {
-    background-color: #B86E00;
+    background-color: #d49f71;
 }
 body, div, p, label {
     color: #1c1c1c;
