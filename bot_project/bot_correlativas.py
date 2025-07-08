@@ -14,18 +14,6 @@ st.markdown("""
     display: flex;
     justify-content: center;
 }
-/* Recuadro general del bot */
-main .block-container {
-    background-color: #AFC2FF;             /* Fondo suave interior */
-    border: 3px solid #97B0FF;             /* Borde visible (color durazno) */
-    border-radius: 20px;
-    padding: 40px;
-    max-width: 800px;
-    margin-top: 30px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-}
-
-
 /* Estilo general de texto */
 body, div, p, label {
     color: #1c1c1c;
@@ -33,15 +21,28 @@ body, div, p, label {
     font-size: 14px;
 }
 
-/* Burbuja del bot */
-.stChatMessage {
-    background-color: #ffffff !important;
+/* Burbuja del BOT (asistente) */
+div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-assistant"]) {
+    background-color: #ffffff;
+    border: 1px solid #e6b390;
     border-radius: 20px;
     padding: 10px 14px;
-    max-width: 100% !important;
-    border: 1px solid #e6b390;
     margin-bottom: 12px;
+    color: #1c1c1c;
 }
+
+/* Burbuja del USUARIO */
+div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
+    background-color: #d6e4ff;
+    border: 1px solid #97B0FF;
+    border-radius: 20px;
+    padding: 10px 14px;
+    margin-bottom: 12px;
+    color: #1c1c1c;
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+
 
 /* Alinear mensajes del usuario a la derecha */
 div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
@@ -53,14 +54,7 @@ body, div, p, label {
     font-family: 'Segoe UI', sans-serif;
     font-size: 14px;
 }
-.stChatMessage {
-    background-color: #fef3e2 !important;
-    border-radius: 20px;
-    padding: 10px 14px;
-    max-width: 100% !important;
-    border: 1px solid #e6b390;
-    margin-bottom: 12px;
-}
+
 div[data-testid="stChatMessage"]:has(div[data-testid="stAvatarIcon-user"]) {
     display: flex !important;
     justify-content: flex-end !important;
