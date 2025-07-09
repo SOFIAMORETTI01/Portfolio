@@ -264,7 +264,7 @@ def responder_usuario(entrada_usuario):
 # ==========================
 #  Renderizar interfaz
 # ==========================
-st.title("🎓🤖 FCE ChatBot")
+st.title("🎓 FCE ChatBot")
 
 for mensaje in st.session_state.mensajes:
     with st.chat_message(mensaje["rol"]):
