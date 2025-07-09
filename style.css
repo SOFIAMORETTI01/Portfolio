@@ -53,6 +53,11 @@ body {
 .skills-column li {
     margin-bottom: 6px;
 }
+.skills {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
 
 .card:hover {
     transform: translateY(-5px);
