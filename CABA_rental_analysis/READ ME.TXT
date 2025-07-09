@@ -4,6 +4,7 @@ This project scrapes rental listings from [Argenprop](https://www.argenprop.com/
 It focuses on **rental prices**, **expenses**, and **apartment features** across neighborhoods in **Capital Federal (CABA)**.
 
 ---
+
 ## 📌 Features
 
 - Automated web scraping with **Selenium**
@@ -25,6 +26,8 @@ It focuses on **rental prices**, **expenses**, and **apartment features** across
 - 🌍 Source: [argenprop.com](https://www.argenprop.com/)
 
 
+---
+
 ## ▶️ How to run it locally
 
 ```bash
@@ -33,8 +36,10 @@ cd YOUR_REPO_NAME
 pip install -r requirements.txt
 python scrape_argenprop.py
 
-## ▶️ Online version
+---
 
+## ▶️ Online version
+https://portfolio-sofia-moretti.netlify.app/
 
 
 
