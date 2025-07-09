@@ -11,7 +11,7 @@ import seaborn as sns
 # =====================
 # 1. Load Data
 # =====================
-df = pd.read_csv("claims.csv")
+df = pd.read_csv("data/claims.csv")
 
 # =====================
 # 2. Preprocessing
@@ -80,4 +80,4 @@ plt.close()
 # =====================
 # 9. Exportar dataset con scores 
 # =====================
-df.to_csv("claims_scores.csv")
+df.to_csv("data/claims_scores.csv")
