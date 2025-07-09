@@ -9,7 +9,7 @@ import re
 import csv
 
 # Configuración general de la página
-st.set_page_config(page_title="BOT - Materias FCE", page_icon="🎓", layout="centered")
+st.set_page_config(page_title="FCE ChatBot", page_icon="🎓", layout="centered")
 
 # Estilos personalizados con CSS
 st.markdown("""
@@ -155,7 +155,7 @@ def responder_usuario(entrada_usuario):
             ]["Materia"].dropna().tolist()
 
             if optativas:
-                respuesta = "📘 Estas son las materias optativas vigentes para tu carrera:\n" + "\n".join(f"- {m}" for m in optativas)
+                respuesta = "Estas son las materias optativas vigentes para tu carrera:\n" + "\n".join(f"- {m}" for m in optativas)
             else:
                 respuesta = "⚠️ No encontré materias optativas vigentes para tu carrera."
 
@@ -262,9 +262,9 @@ def responder_usuario(entrada_usuario):
     st.session_state.mensajes.append({"rol": "assistant", "contenido": respuesta})
 
 # ==========================
-# 📱 Renderizar interfaz
+#  Renderizar interfaz
 # ==========================
-st.title("🎓 BOT - Materias FCE")
+st.title("🎓🤖 FCE ChatBot")
 
 for mensaje in st.session_state.mensajes:
     with st.chat_message(mensaje["rol"]):
