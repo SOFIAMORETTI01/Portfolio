@@ -27,6 +27,7 @@ body, div, p, label {
     background-color: #fef3e2 !important;
     border-radius: 20px;
     padding: 10px 14px;
+    font-family: 'Poppins', sans-serif !important;
     max-width: 100% !important;
     border: 1px solid #e6b390;
     margin-bottom: 12px;
