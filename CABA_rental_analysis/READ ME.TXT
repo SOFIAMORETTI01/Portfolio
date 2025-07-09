@@ -25,12 +25,16 @@ It focuses on **rental prices**, **expenses**, and **apartment features** across
 - 🌍 Source: [argenprop.com](https://www.argenprop.com/)
 
 
-## ▶️ How to Run the Scraper
+## ▶️ How to run it locally
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
 pip install -r requirements.txt
 python scrape_argenprop.py
+
+## ▶️ Online version
+
+
 
 
