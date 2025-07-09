@@ -40,9 +40,12 @@ body {
 }
 
 .skills-column h3 {
-    margin-bottom: 10px;
-    color: #1f3b73;
+    font-size: 1.2em;        
+    font-weight: normal;       
+    color: #1f3b73;         
+    margin-bottom: 10px;     
 }
+
 
 .skills-column ul {
     list-style: none;
