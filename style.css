@@ -83,6 +83,11 @@ body {
     margin-bottom: 30px;
     color: #1e3a8a;
 }
+.skills-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
 footer {
     text-align: center;
     padding: 20px;
