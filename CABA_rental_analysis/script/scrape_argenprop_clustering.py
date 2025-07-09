@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 import requests
 
 # Load previously scraped rental data from CSV
-df = pd.read_csv("data/argenprop_data.csv")
+df = pd.read_csv("data/scrape_argenprop.csv")
 
 # TC
 # Fetch current exchange rate (USD → ARS) from Bluelytics API
@@ -65,6 +65,6 @@ df_filtrado["Tipo_Propiedad"] = df_filtrado["Cluster"].map({
 
 # --- EXPORT RESULTS ---
 # Save the clustered dataset to CSV for further analysis or dashboarding
-df_filtrado.to_csv("data/argenprop_data_clustering.csv", index=False, encoding="utf-8-sig")
+df_filtrado.to_csv("data/scrape_argenprop_clustering.csv", index=False, encoding="utf-8-sig")
 
 
