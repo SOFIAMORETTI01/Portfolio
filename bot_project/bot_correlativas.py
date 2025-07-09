@@ -13,13 +13,14 @@ st.set_page_config(page_title="BOT - Materias FCE", page_icon="🎓", layout="ce
 
 # Estilos personalizados con CSS
 st.markdown("""
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 <style>
 .stApp {
     background-color: #d49f71;
 }
 body, div, p, label {
     color: #1c1c1c;
-    font-family: 'Segoe UI', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
     font-size: 14px;
 }
 .stChatMessage {
