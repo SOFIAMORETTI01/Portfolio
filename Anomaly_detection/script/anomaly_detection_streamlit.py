@@ -11,7 +11,7 @@ st.set_page_config(page_title="Analysis of atypical claims", layout="wide")
 
 st.markdown("""
 <div style="background-color:#1f77b4; padding: 15px 20px; border-radius: 8px;">
-    <h1 style="color:white; margin:0;">Anomaly detection in claims using Machine Learning techniques</h1>
+    <h1 style="color:white;text-align:center; margin:0;">Anomaly detection in claims using Machine Learning techniques</h1>
 </div>
 """, unsafe_allow_html=True)
 
