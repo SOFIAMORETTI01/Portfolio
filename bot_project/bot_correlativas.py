@@ -80,13 +80,6 @@ carreras_opciones = [
     "Actuario"
 ]
 
-def normalizar(texto):
-    if pd.isna(texto):
-        return ""
-    texto = texto.lower().strip()
-    texto = unicodedata.normalize('NFD', texto).encode('ascii', 'ignore').decode('utf-8')
-    return texto
-
 # Inicialización de estados del bot si es la primera vez
 if "mensajes" not in st.session_state:
     st.session_state.mensajes = [{
