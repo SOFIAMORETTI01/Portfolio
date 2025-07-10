@@ -78,46 +78,24 @@ body {
 .language-donuts {
   display: flex;
   justify-content: center;
-  gap: 80px;
+  gap: 60px;
   flex-wrap: wrap;
   padding-top: 30px;
 }
 
 .donut-chart {
-  width: 120px;
-  height: 140px;
+  width: 100px !important;
+  height: 120px !important;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
 .donut-chart svg {
-  width: 120px;
-  height: 120px;
+  width: 100px !important;
+  height: 100px !important;
   transform: rotate(-90deg);
   overflow: visible;
-}
-
-.circle-bg {
-  fill: none;
-  stroke: #e0e0e0;
-  stroke-width: 8;
-}
-
-.circle {
-  fill: none;
-  stroke: #1e3a8a;
-  stroke-width: 8;
-  stroke-linecap: round;
-  transition: stroke-dasharray 1s;
-}
-
-.language-label {
-  margin-top: 6px;
-  font-size: 1em;
-  font-weight: bold;
-  color: #1e3a8a;
-  text-align: center;
 }
 
 
