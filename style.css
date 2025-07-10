@@ -99,13 +99,13 @@ body {
 .circle-bg {
   fill: none;
   stroke: #e0e0e0;
-  stroke-width: 8;
+  stroke-width: 7;
 }
 
 .circle {
   fill: none;
   stroke: #1e3a8a;
-  stroke-width: 8;
+  stroke-width: 7;
   stroke-linecap: round;
   transition: stroke-dasharray 1s;
 }
