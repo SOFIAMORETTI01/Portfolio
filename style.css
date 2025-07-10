@@ -116,6 +116,12 @@ body {
   dominant-baseline: middle;
   transform: rotate(90deg);
 }
+.language-label {
+  fill: #1e3a8a;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 4px;
+  text-anchor: middle;
+}
 
 
 
