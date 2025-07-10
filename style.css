@@ -77,13 +77,13 @@ body {
 .circle-bg {
   fill: none;
   stroke: #e0e0e0;
-  stroke-width: 8;
+  stroke-width: 6.5;
 }
 
 .circle {
   fill: none;
   stroke: #1e3a8a;
-  stroke-width: 8;
+  stroke-width: 6.5;
   stroke-linecap: round;
   transition: stroke-dasharray 1s;
 }
@@ -91,7 +91,7 @@ body {
 .language-donuts {
   display: flex;
   justify-content: center;
-  gap: 60px;
+  gap: 70px;
   flex-wrap: wrap;
   padding-top: 30px;
 }
