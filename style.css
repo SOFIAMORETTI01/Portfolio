@@ -91,10 +91,11 @@ body {
 }
 
 .donut-chart svg {
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   transform: rotate(-90deg);
 }
+
 
 .circle-bg {
   fill: none;
