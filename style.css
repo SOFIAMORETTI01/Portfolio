@@ -74,6 +74,7 @@ body {
 
 
 /* 🔧 Language section (barras de progreso) */
+
 .language-donuts {
   display: flex;
   justify-content: center;
@@ -83,8 +84,8 @@ body {
 }
 
 .donut-chart {
-  width: 100px;
-  height: 120px; /* un poco más de altura para el texto */
+  width: 120px;
+  height: 140px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -94,23 +95,22 @@ body {
   width: 120px;
   height: 120px;
   transform: rotate(-90deg);
+  overflow: visible;
 }
-
 
 .circle-bg {
   fill: none;
   stroke: #e0e0e0;
-  stroke-width: 6; /* antes: 3.8 */
+  stroke-width: 8;
 }
 
 .circle {
   fill: none;
   stroke: #1e3a8a;
-  stroke-width: 6; /* antes: 3.8 */
+  stroke-width: 8;
   stroke-linecap: round;
   transition: stroke-dasharray 1s;
 }
-
 
 .language-label {
   margin-top: 6px;
@@ -119,7 +119,6 @@ body {
   color: #1e3a8a;
   text-align: center;
 }
-
 
 
 
