@@ -223,13 +223,22 @@ footer a {
   color: #1a1e2a;
 }
 
-.contact-info a {
+.contact-info i {
+  margin-right: 8px;
   color: #1e3a8a;
-  text-decoration: none;
-  font-weight: bold;
 }
 
-.contact-info a:hover {
-  text-decoration: underline;
+.contact-icons {
+  margin-top: 20px;
 }
 
+.contact-icons a {
+  color: #1e3a8a;
+  font-size: 28px;
+  margin: 0 12px;
+  transition: color 0.3s;
+}
+
+.contact-icons a:hover {
+  color: #0a66c2; /* azul LinkedIn más vibrante */
+}
