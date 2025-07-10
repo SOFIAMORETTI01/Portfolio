@@ -217,28 +217,39 @@ footer a {
   text-align: center;
 }
 
-.contact-info p {
-  font-size: 1.1em;
-  margin: 10px 0;
-  color: #1a1e2a;
-}
-
-.contact-info i {
-  margin-right: 8px;
-  color: #1e3a8a;
-}
-
-.contact-icons {
+.contact-list {
+  list-style: none;
+  padding: 0;
   margin-top: 20px;
 }
 
+.contact-list li {
+  font-size: 1.1em;
+  margin: 12px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  color: #1a1e2a;
+}
+
+.contact-list i {
+  color: #1e3a8a;
+  font-size: 1.2em;
+}
+
+.contact-icons {
+  margin-top: 25px;
+}
+
 .contact-icons a {
+  margin: 0 15px;
   color: #1e3a8a;
   font-size: 28px;
-  margin: 0 12px;
   transition: color 0.3s;
 }
 
 .contact-icons a:hover {
-  color: #0a66c2; /* azul LinkedIn más vibrante */
+  color: #0a66c2;
 }
+
