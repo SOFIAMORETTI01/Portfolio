@@ -119,9 +119,11 @@ body {
 .language-label {
   fill: #1e3a8a;
   font-family: 'Segoe UI', sans-serif;
-  font-size: 4px;
+  font-size: 3.5px; /* bajá o subí si querés ajustar */
   text-anchor: middle;
+  dominant-baseline: middle;
 }
+
 
 
 
