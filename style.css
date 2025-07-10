@@ -258,42 +258,46 @@ section {
   margin-bottom: 40px;
 }
 
-.side-menu {
+.topnav {
   position: fixed;
-  top: 50%;
-  left: 20px;
-  transform: translateY(-50%);
+  top: 0;
+  left: 0;
+  width: 100%;
   background-color: #1e3a8a;
-  padding: 10px 15px;
-  border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
   z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-.side-menu ul {
-  list-style: none;
-  padding: 0;
+.topnav ul {
+  display: flex;
+  justify-content: center;
   margin: 0;
+  padding: 10px 0;
+  list-style: none;
 }
 
-.side-menu li {
-  margin: 15px 0;
+.topnav li {
+  margin: 0 20px;
 }
 
-.side-menu a {
-  text-decoration: none;
+.topnav a {
   color: white;
+  text-decoration: none;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
   transition: color 0.3s;
 }
 
-.side-menu a:hover {
+.topnav a:hover {
   color: #f0db4f;
 }
-
-
-.sidebar a:hover {
-  color: #a6c8ff;
+html {
+  scroll-behavior: smooth;
 }
+.hero {
+  margin-top: 60px; /* o lo que mida tu nav */
+}
+
+
+
 
