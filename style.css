@@ -78,7 +78,7 @@ body {
 .language-donuts {
   display: flex;
   justify-content: center;
-  gap: 55px;
+  gap: 60px;
   flex-wrap: wrap;
   padding-top: 30px;
 }
