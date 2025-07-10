@@ -191,3 +191,23 @@ footer a {
     text-decoration: none;
 }
 
+.about {
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: #1e3a8a;
+}
+
+.about p {
+  font-size: 1.1em;
+  line-height: 1.8em;
+  color: #2c3e50;
+  margin-bottom: 16px;
+}
+
