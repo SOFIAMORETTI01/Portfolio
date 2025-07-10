@@ -95,6 +95,44 @@ body {
     max-width: 900px;
     margin: 0 auto;
 }
+.languages {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.language-grid {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
+
+.language {
+  flex: 1;
+  min-width: 200px;
+}
+
+.language p {
+  margin-bottom: 8px;
+  font-size: 1.1em;
+  color: #1a1e2a;
+}
+
+.progress-bar {
+  background-color: #e0e0e0;
+  height: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress {
+  background-color: #000;
+  height: 100%;
+  border-radius: 10px 0 0 10px;
+}
 
 footer {
     text-align: center;
