@@ -1,16 +1,17 @@
-
 body {
     font-family: 'Segoe UI', sans-serif;
     background: #eaf4fb;
     color: #1a1e2a;
     margin: 0;
 }
+
 .hero {
     background: #1e3a8a;
     padding: 60px 20px;
     text-align: center;
     color: white;
 }
+
 .projects {
     display: grid;
     gap: 20px;
@@ -18,83 +19,65 @@ body {
     max-width: 900px;
     margin: 0 auto;
 }
+
 .card {
     background: white;
     border-radius: 8px;
-    border: 2px solid #1f3b73; /* Borde azul oscuro */
+    border: 2px solid #1f3b73;
     box-shadow: 0 4px 16px rgba(0,0,0,0.1);
     padding: 25px;
     cursor: pointer;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-.skills-grid {
-    display: flex;
-    justify-content: space-between;
-    gap: 40px;
-    flex-wrap: wrap;
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 20px rgba(31, 59, 115, 0.25);
 }
 
-.skills-column {
-    flex: 1;
-    min-width: 200px;
-}
+/* 🔄 NUEVO FORMATO: Mini-cards individuales para Skills */
 
-.skills-column h3 {
-    font-size: 1.2em;        
-    font-weight: normal;       
-    color: #1f3b73;         
-    margin-bottom: 10px;     
-}
-
-
-.skills-column ul {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-}
-
-.skills-column li {
-    margin-bottom: 6px;
-}
 .skills {
   padding: 40px 20px;
   max-width: 900px;
   margin: 0 auto;
 }
 
-.card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 20px rgba(31, 59, 115, 0.25); /* sombra más azulada */
-}
-.about {
-    max-width: 800px;
-    margin: 60px auto;
-    padding: 0 20px;
-    text-align: center;
+.skills-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 20px;
+  padding: 20px 0;
 }
 
-.about h2 {
-    font-size: 2em;
-    margin-bottom: 20px;
-    color: #1e3a8a;
+.skill-card {
+  background: white;
+  border: 2px solid #1f3b73;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  padding: 15px;
+  text-align: center;
+  transition: transform 0.2s ease;
 }
 
-.about p {
-    font-size: 1.1em;
-    line-height: 1.8em;
-    color: #2c3e50;
-    margin-bottom: 16px;
+.skill-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 18px rgba(31, 59, 115, 0.2);
 }
-.section-title {
-    text-align: center;
-    font-size: 2em;
-    margin-bottom: 30px;
-    color: #1e3a8a;
+
+.skill-icon {
+  font-size: 28px;
+  margin-bottom: 10px;
 }
-.skills-wrapper {
-    max-width: 900px;
-    margin: 0 auto;
+
+.skill-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1f3b73;
 }
+
+/* 🔧 Language section (barras de progreso) */
+
 .languages {
   padding: 40px 20px;
   max-width: 900px;
@@ -134,13 +117,48 @@ body {
   border-radius: 10px 0 0 10px;
 }
 
+/* 📄 About section */
+
+.about {
+    max-width: 800px;
+    margin: 60px auto;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.about h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #1e3a8a;
+}
+
+.about p {
+    font-size: 1.1em;
+    line-height: 1.8em;
+    color: #2c3e50;
+    margin-bottom: 16px;
+}
+
+/* 🏷️ Título secciones */
+
+.section-title {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 30px;
+    color: #1e3a8a;
+}
+
+/* ⬇️ Footer */
+
 footer {
     text-align: center;
     padding: 20px;
     background: #f1f5fe;
 }
+
 footer a {
     margin: 0 10px;
     color: #1e3a8a;
     text-decoration: none;
 }
+
