@@ -74,7 +74,6 @@ body {
 
 
 /* 🔧 Language section (barras de progreso) */
-
 .language-donuts {
   display: flex;
   justify-content: center;
@@ -85,12 +84,15 @@ body {
 
 .donut-chart {
   width: 100px;
-  height: 100px;
+  height: 120px; /* un poco más de altura para el texto */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .donut-chart svg {
-  width: 100%;
-  height: 100%;
+  width: 100px;
+  height: 100px;
   transform: rotate(-90deg);
 }
 
@@ -108,21 +110,14 @@ body {
   transition: stroke-dasharray 1s;
 }
 
-.percentage {
-  fill: #1e3a8a;
-  font-family: 'Segoe UI', sans-serif;
-  font-size: 4px;
-  text-anchor: middle;
-  dominant-baseline: middle;
-  transform: rotate(90deg);
-}
 .language-label {
-  fill: #1e3a8a;
-  font-family: 'Segoe UI', sans-serif;
-  font-size: 3.5px; /* bajá o subí si querés ajustar */
-  text-anchor: middle;
-  dominant-baseline: middle;
+  margin-top: 6px;
+  font-size: 1em;
+  font-weight: bold;
+  color: #1e3a8a;
+  text-align: center;
 }
+
 
 
 
