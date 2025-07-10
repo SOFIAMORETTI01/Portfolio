@@ -258,36 +258,40 @@ section {
   margin-bottom: 40px;
 }
 
-.sidebar {
+.side-menu {
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 160px;
-  height: 100vh;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
   background-color: #1e3a8a;
-  padding-top: 40px;
+  padding: 10px 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
   z-index: 1000;
 }
 
-.sidebar ul {
+.side-menu ul {
   list-style: none;
   padding: 0;
   margin: 0;
-  text-align: left;
 }
 
-.sidebar li {
-  margin: 20px 0;
-  padding-left: 20px;
+.side-menu li {
+  margin: 15px 0;
 }
 
-.sidebar a {
-  color: white;
+.side-menu a {
   text-decoration: none;
+  color: white;
   font-weight: bold;
-  font-size: 1em;
+  font-size: 14px;
   transition: color 0.3s;
 }
+
+.side-menu a:hover {
+  color: #f0db4f;
+}
+
 
 .sidebar a:hover {
   color: #a6c8ff;
