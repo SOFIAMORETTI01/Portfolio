@@ -301,6 +301,38 @@ section {
   scroll-margin-top: 80px; /* o lo que mida tu nav */
 }
 
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 400px;
+  margin: 30px auto 0;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 10px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.contact-form button {
+  background-color: #1e3a8a;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 1em;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.contact-form button:hover {
+  background-color: #294bb2;
+}
 
 
 
