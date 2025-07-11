@@ -300,6 +300,19 @@ html {
 section {
   scroll-margin-top: 80px; /* o lo que mida tu nav */
 }
+.footer-message {
+  font-size: 1.1em;
+  color: #1e3a8a;
+  font-weight: 500;
+  margin: 0;
+  padding: 15px 0;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+.footer-message span {
+  font-size: 1.2em;
+}
 
 
 
