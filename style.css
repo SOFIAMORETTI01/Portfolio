@@ -330,6 +330,10 @@ section {
   background-color: #0d2b6b;
   transform: translateY(-2px);
 }
+.cv-button-wrapper {
+  text-align: center;
+  margin-top: 30px;
+}
 
 
 
