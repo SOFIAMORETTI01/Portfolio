@@ -313,6 +313,23 @@ section {
 .footer-message span {
   font-size: 1.2em;
 }
+.cv-button {
+  display: inline-block;
+  background-color: #1e3a8a;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1em;
+  margin-top: 25px;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.cv-button:hover {
+  background-color: #0d2b6b;
+  transform: translateY(-2px);
+}
 
 
 
