@@ -335,5 +335,8 @@ section {
   margin-top: 30px;
 }
 
+a[href$=".pdf"] + div {
+  display: none !important;
+}
 
 
