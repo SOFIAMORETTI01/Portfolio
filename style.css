@@ -338,6 +338,10 @@ section {
 a[href$=".pdf"] + div {
   display: none !important;
 }
+.hero {
+  position: relative; /* necesario para posicionar el botón dentro */
+}
+
 .ai-top-button {
   position: absolute;
   top: 20px;
