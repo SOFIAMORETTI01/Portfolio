@@ -344,7 +344,7 @@ a[href$=".pdf"] + div {
 
 .ai-top-button {
   position: absolute;
-  top: 20px;
+  top: 80px;
   right: 30px;
   background-color: white;
   color: #1e3a8a;
