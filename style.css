@@ -338,5 +338,38 @@ section {
 a[href$=".pdf"] + div {
   display: none !important;
 }
+.hero-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.hero-text {
+  text-align: center;
+}
+
+.play-button-wrapper {
+  text-align: center;
+}
+
+.play-button {
+  display: inline-block;
+  background-color: #BE5014;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1em;
+  transition: background-color 0.3s, transform 0.2s;
+  white-space: nowrap;
+}
+
+.play-button:hover {
+  background-color: #a9440f;
+  transform: translateY(-2px);
+}
 
 
