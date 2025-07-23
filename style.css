@@ -338,37 +338,24 @@ section {
 a[href$=".pdf"] + div {
   display: none !important;
 }
-.hero-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 30px;
-}
-
-.hero-text {
-  text-align: center;
-}
-
-.play-button-wrapper {
-  text-align: center;
-}
-
-.play-button {
-  display: inline-block;
-  background-color: #BE5014;
-  color: white;
-  padding: 12px 20px;
+.ai-top-button {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  background-color: white;
+  color: #1e3a8a;
+  padding: 10px 16px;
   border-radius: 8px;
   font-weight: bold;
+  font-size: 0.95em;
   text-decoration: none;
-  font-size: 1em;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
   transition: background-color 0.3s, transform 0.2s;
-  white-space: nowrap;
+  z-index: 10;
 }
 
-.play-button:hover {
-  background-color: #a9440f;
+.ai-top-button:hover {
+  background-color: #f0f0f0;
   transform: translateY(-2px);
 }
 
