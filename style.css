@@ -362,5 +362,8 @@ a[href$=".pdf"] + div {
   background-color: #f0f0f0;
   transform: translateY(-2px);
 }
-
+button[aria-label="Fill"],
+button[class*="fill"] {
+  display: none !important;
+}
 
